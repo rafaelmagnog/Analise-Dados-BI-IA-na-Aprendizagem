@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# arquivos temporários do Excel e do Windows
+~$*
+Thumbs.db
+desktop.ini
