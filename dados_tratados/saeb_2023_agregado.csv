@@ -1,0 +1,2650 @@
+﻿regiao,uf,rede,nivel_inse,tem_computador,wifi,alunos,soma_peso_mt,nota_mt,soma_peso_lp,nota_lp
+Centro-Oeste,DF,Privada,Nível I,Não,Não,3,4.5,287.553,4.5,290.534
+Centro-Oeste,DF,Privada,Nível I,Não,Sim,1,0.0,,0.0,
+Centro-Oeste,DF,Privada,Nível I,Sim,Sim,2,0.0,,0.0,
+Centro-Oeste,DF,Privada,Nível II,Não,Não,13,19.5,298.17,19.5,299.105
+Centro-Oeste,DF,Privada,Nível II,Não,Sim,16,27.753,315.773,27.753,322.45
+Centro-Oeste,DF,Privada,Nível II,Sem resposta,Não,1,1.5,319.094,1.5,314.073
+Centro-Oeste,DF,Privada,Nível II,Sem resposta,Sim,3,4.5,279.639,4.5,308.566
+Centro-Oeste,DF,Privada,Nível II,Sim,Não,1,1.5,319.631,1.5,319.063
+Centro-Oeste,DF,Privada,Nível II,Sim,Sim,4,8.702,267.154,8.702,265.728
+Centro-Oeste,DF,Privada,Nível III,Não,Não,4,6.0,316.011,6.0,312.994
+Centro-Oeste,DF,Privada,Nível III,Não,Sim,25,76.681,283.232,76.681,295.937
+Centro-Oeste,DF,Privada,Nível III,Sem resposta,Não,1,1.5,284.47,1.5,282.548
+Centro-Oeste,DF,Privada,Nível III,Sem resposta,Sim,3,4.5,297.893,4.5,297.224
+Centro-Oeste,DF,Privada,Nível III,Sim,Não,3,10.955,299.522,10.955,289.603
+Centro-Oeste,DF,Privada,Nível III,Sim,Sim,15,43.366,309.419,43.366,300.988
+Centro-Oeste,DF,Privada,Nível IV,Não,Sim,19,78.415,317.832,78.415,312.531
+Centro-Oeste,DF,Privada,Nível IV,Sim,Não,3,14.107,345.492,14.107,326.201
+Centro-Oeste,DF,Privada,Nível IV,Sim,Sim,35,161.937,299.731,161.937,302.715
+Centro-Oeste,DF,Privada,Nível V,Não,Sim,13,59.656,323.946,59.656,308.805
+Centro-Oeste,DF,Privada,Nível V,Sem resposta,Sim,3,9.304,317.866,9.304,278.121
+Centro-Oeste,DF,Privada,Nível V,Sim,Não,2,10.506,231.01,10.506,328.615
+Centro-Oeste,DF,Privada,Nível V,Sim,Sim,113,569.717,303.456,569.717,301.216
+Centro-Oeste,DF,Privada,Nível VI,Não,Sim,9,44.125,283.194,44.125,277.815
+Centro-Oeste,DF,Privada,Nível VI,Sem resposta,Sim,2,10.506,309.032,10.506,315.451
+Centro-Oeste,DF,Privada,Nível VI,Sim,Não,3,14.708,284.333,14.708,318.551
+Centro-Oeste,DF,Privada,Nível VI,Sim,Sim,202,1033.628,314.504,1033.628,311.78
+Centro-Oeste,DF,Privada,Nível VII,Não,Sim,6,32.568,309.988,32.568,292.996
+Centro-Oeste,DF,Privada,Nível VII,Sem resposta,Sim,3,16.809,246.123,16.809,266.444
+Centro-Oeste,DF,Privada,Nível VII,Sim,Não,6,27.841,334.483,27.841,330.285
+Centro-Oeste,DF,Privada,Nível VII,Sim,Sem resposta,3,14.708,339.748,14.708,311.485
+Centro-Oeste,DF,Privada,Nível VII,Sim,Sim,590,3051.885,334.383,3051.885,321.332
+Centro-Oeste,DF,Privada,Nível VIII,Sem resposta,Sem resposta,1,6.304,309.17,6.304,309.761
+Centro-Oeste,DF,Privada,Nível VIII,Sem resposta,Sim,1,5.253,214.783,5.253,278.656
+Centro-Oeste,DF,Privada,Nível VIII,Sim,Sim,374,1979.835,350.743,1979.835,330.251
+Centro-Oeste,DF,Privada,Sem resposta,Sem resposta,Sem resposta,101,503.08,328.299,503.08,313.356
+Centro-Oeste,DF,Privada,Sem resposta,Sim,Sem resposta,1,3.152,328.504,3.152,299.379
+Centro-Oeste,DF,Pública,Nível I,Não,Não,43,56.857,244.316,56.857,250.016
+Centro-Oeste,DF,Pública,Nível I,Não,Sim,2,0.0,,0.0,
+Centro-Oeste,DF,Pública,Nível I,Sem resposta,Não,1,1.25,194.75,1.25,224.043
+Centro-Oeste,DF,Pública,Nível I,Sim,Não,1,0.0,,0.0,
+Centro-Oeste,DF,Pública,Nível I,Sim,Sim,10,0.0,,0.0,
+Centro-Oeste,DF,Pública,Nível II,Não,Não,130,178.757,252.724,178.757,259.305
+Centro-Oeste,DF,Pública,Nível II,Não,Sem resposta,8,13.308,228.836,13.308,245.098
+Centro-Oeste,DF,Pública,Nível II,Não,Sim,451,629.79,252.542,629.79,260.171
+Centro-Oeste,DF,Pública,Nível II,Sem resposta,Não,6,7.516,224.12,7.516,237.425
+Centro-Oeste,DF,Pública,Nível II,Sem resposta,Sem resposta,1,1.065,287.655,1.065,279.852
+Centro-Oeste,DF,Pública,Nível II,Sem resposta,Sim,31,41.629,251.596,41.629,255.568
+Centro-Oeste,DF,Pública,Nível II,Sim,Não,50,66.94,252.274,66.94,265.616
+Centro-Oeste,DF,Pública,Nível II,Sim,Sem resposta,2,5.348,310.193,5.348,263.627
+Centro-Oeste,DF,Pública,Nível II,Sim,Sim,87,127.944,253.046,127.944,256.852
+Centro-Oeste,DF,Pública,Nível III,Não,Não,81,119.622,254.179,119.622,256.576
+Centro-Oeste,DF,Pública,Nível III,Não,Sem resposta,8,10.973,233.61,10.973,246.925
+Centro-Oeste,DF,Pública,Nível III,Não,Sim,874,1230.946,252.424,1230.946,258.968
+Centro-Oeste,DF,Pública,Nível III,Sem resposta,Não,5,7.574,266.349,7.574,276.72
+Centro-Oeste,DF,Pública,Nível III,Sem resposta,Sem resposta,1,1.138,241.994,1.138,257.85
+Centro-Oeste,DF,Pública,Nível III,Sem resposta,Sim,54,74.411,245.49,74.411,250.231
+Centro-Oeste,DF,Pública,Nível III,Sim,Não,52,79.06,267.369,79.06,274.723
+Centro-Oeste,DF,Pública,Nível III,Sim,Sem resposta,9,14.042,233.852,14.042,250.022
+Centro-Oeste,DF,Pública,Nível III,Sim,Sim,610,821.09,262.248,821.09,271.514
+Centro-Oeste,DF,Pública,Nível IV,Não,Não,45,58.846,251.907,58.846,255.743
+Centro-Oeste,DF,Pública,Nível IV,Não,Sem resposta,10,13.24,252.66,13.24,274.874
+Centro-Oeste,DF,Pública,Nível IV,Não,Sim,1209,1625.168,255.774,1625.168,259.781
+Centro-Oeste,DF,Pública,Nível IV,Sem resposta,Não,6,7.861,251.062,7.861,254.975
+Centro-Oeste,DF,Pública,Nível IV,Sem resposta,Sem resposta,2,2.731,234.777,2.731,222.383
+Centro-Oeste,DF,Pública,Nível IV,Sem resposta,Sim,78,106.366,253.171,106.366,250.824
+Centro-Oeste,DF,Pública,Nível IV,Sim,Não,88,115.488,257.627,115.488,268.327
+Centro-Oeste,DF,Pública,Nível IV,Sim,Sem resposta,19,24.847,242.878,24.847,258.488
+Centro-Oeste,DF,Pública,Nível IV,Sim,Sim,1848,2453.351,264.579,2453.351,274.871
+Centro-Oeste,DF,Pública,Nível V,Não,Não,15,19.926,242.545,19.926,253.041
+Centro-Oeste,DF,Pública,Nível V,Não,Sem resposta,8,9.921,242.288,9.921,235.237
+Centro-Oeste,DF,Pública,Nível V,Não,Sim,803,1069.601,254.434,1069.601,259.618
+Centro-Oeste,DF,Pública,Nível V,Sem resposta,Sem resposta,1,2.0,246.342,2.0,185.518
+Centro-Oeste,DF,Pública,Nível V,Sem resposta,Sim,75,101.975,257.5,101.975,259.134
+Centro-Oeste,DF,Pública,Nível V,Sim,Não,59,75.468,247.04,75.468,248.929
+Centro-Oeste,DF,Pública,Nível V,Sim,Sem resposta,30,40.165,255.763,40.165,270.106
+Centro-Oeste,DF,Pública,Nível V,Sim,Sim,3092,4077.338,264.935,4077.338,273.547
+Centro-Oeste,DF,Pública,Nível VI,Não,Não,1,1.1,298.707,1.1,343.073
+Centro-Oeste,DF,Pública,Nível VI,Não,Sim,286,377.451,255.701,377.451,258.919
+Centro-Oeste,DF,Pública,Nível VI,Sem resposta,Sem resposta,2,2.885,255.562,2.885,316.952
+Centro-Oeste,DF,Pública,Nível VI,Sem resposta,Sim,47,61.302,264.653,61.302,260.056
+Centro-Oeste,DF,Pública,Nível VI,Sim,Não,44,54.587,267.442,54.587,271.488
+Centro-Oeste,DF,Pública,Nível VI,Sim,Sem resposta,28,42.198,241.299,42.198,267.696
+Centro-Oeste,DF,Pública,Nível VI,Sim,Sim,3038,3982.417,268.178,3982.417,275.936
+Centro-Oeste,DF,Pública,Nível VII,Não,Sim,59,80.827,251.68,80.827,246.202
+Centro-Oeste,DF,Pública,Nível VII,Sem resposta,Sim,35,44.014,264.692,44.014,260.169
+Centro-Oeste,DF,Pública,Nível VII,Sim,Não,21,26.285,269.458,26.285,267.568
+Centro-Oeste,DF,Pública,Nível VII,Sim,Sem resposta,23,29.783,278.069,29.783,284.119
+Centro-Oeste,DF,Pública,Nível VII,Sim,Sim,3080,4006.284,278.335,4006.284,277.878
+Centro-Oeste,DF,Pública,Nível VIII,Sem resposta,Sim,3,3.923,257.722,3.923,214.109
+Centro-Oeste,DF,Pública,Nível VIII,Sim,Sem resposta,4,4.632,251.875,4.632,239.341
+Centro-Oeste,DF,Pública,Nível VIII,Sim,Sim,571,754.912,290.75,754.912,288.408
+Centro-Oeste,DF,Pública,Sem resposta,Não,Não,1,1.722,176.445,1.722,158.339
+Centro-Oeste,DF,Pública,Sem resposta,Não,Sem resposta,5,6.381,235.772,6.381,179.096
+Centro-Oeste,DF,Pública,Sem resposta,Sem resposta,Não,8,11.768,251.558,11.768,244.74
+Centro-Oeste,DF,Pública,Sem resposta,Sem resposta,Sem resposta,1551,2154.034,264.417,2154.034,268.927
+Centro-Oeste,DF,Pública,Sem resposta,Sem resposta,Sim,12,18.054,244.221,18.054,221.532
+Centro-Oeste,DF,Pública,Sem resposta,Sim,Sem resposta,8,10.733,234.365,10.733,235.603
+Centro-Oeste,DF,Pública,Sem resposta,Sim,Sim,1,1.156,193.17,1.156,226.865
+Centro-Oeste,GO,Privada,Nível I,Não,Não,1,6.438,258.291,6.438,316.498
+Centro-Oeste,GO,Privada,Nível I,Não,Sim,1,0.0,,0.0,
+Centro-Oeste,GO,Privada,Nível I,Sim,Sim,10,0.0,,0.0,
+Centro-Oeste,GO,Privada,Nível II,Não,Sim,6,34.949,291.735,34.949,306.949
+Centro-Oeste,GO,Privada,Nível II,Sim,Não,2,21.248,289.848,21.248,255.805
+Centro-Oeste,GO,Privada,Nível II,Sim,Sim,3,18.091,292.808,18.091,279.755
+Centro-Oeste,GO,Privada,Nível III,Não,Não,1,15.565,230.02,15.565,311.031
+Centro-Oeste,GO,Privada,Nível III,Não,Sim,9,53.381,302.342,53.381,296.7
+Centro-Oeste,GO,Privada,Nível III,Sim,Não,1,2.457,269.553,2.457,286.406
+Centro-Oeste,GO,Privada,Nível III,Sim,Sim,13,100.762,315.913,100.762,306.995
+Centro-Oeste,GO,Privada,Nível IV,Não,Não,1,15.565,301.517,15.565,319.66
+Centro-Oeste,GO,Privada,Nível IV,Não,Sim,36,282.813,270.963,282.813,272.864
+Centro-Oeste,GO,Privada,Nível IV,Sem resposta,Sim,2,23.842,263.111,23.842,243.96
+Centro-Oeste,GO,Privada,Nível IV,Sim,Sem resposta,1,1.379,289.629,1.379,340.068
+Centro-Oeste,GO,Privada,Nível IV,Sim,Sim,49,331.922,307.866,331.922,300.979
+Centro-Oeste,GO,Privada,Nível V,Não,Sim,26,160.559,280.338,160.559,282.839
+Centro-Oeste,GO,Privada,Nível V,Sem resposta,Sim,1,6.438,391.69,6.438,333.504
+Centro-Oeste,GO,Privada,Nível V,Sim,Não,2,6.696,259.987,6.696,265.076
+Centro-Oeste,GO,Privada,Nível V,Sim,Sim,148,1130.349,305.747,1130.349,306.154
+Centro-Oeste,GO,Privada,Nível VI,Não,Sim,19,118.369,297.271,118.369,291.563
+Centro-Oeste,GO,Privada,Nível VI,Sem resposta,Sim,3,17.474,279.652,17.474,299.028
+Centro-Oeste,GO,Privada,Nível VI,Sim,Não,1,7.357,230.761,7.357,163.819
+Centro-Oeste,GO,Privada,Nível VI,Sim,Sem resposta,1,5.058,233.621,5.058,290.72
+Centro-Oeste,GO,Privada,Nível VI,Sim,Sim,228,1748.668,307.929,1748.668,303.055
+Centro-Oeste,GO,Privada,Nível VII,Não,Sim,9,68.54,282.07,68.54,280.204
+Centro-Oeste,GO,Privada,Nível VII,Sem resposta,Sim,3,21.872,271.637,21.872,295.075
+Centro-Oeste,GO,Privada,Nível VII,Sim,Não,3,46.694,278.173,46.694,303.671
+Centro-Oeste,GO,Privada,Nível VII,Sim,Sim,402,3516.92,313.872,3516.92,309.875
+Centro-Oeste,GO,Privada,Nível VIII,Sem resposta,Sem resposta,1,12.106,267.236,12.106,221.249
+Centro-Oeste,GO,Privada,Nível VIII,Sim,Sim,118,1088.545,319.596,1088.545,296.912
+Centro-Oeste,GO,Privada,Sem resposta,Sem resposta,Sem resposta,60,426.944,311.176,426.944,302.271
+Centro-Oeste,GO,Pública,Nível I,Não,Não,228,256.652,261.127,256.652,261.675
+Centro-Oeste,GO,Pública,Nível I,Não,Sem resposta,2,2.042,264.997,2.042,231.606
+Centro-Oeste,GO,Pública,Nível I,Não,Sim,55,53.026,263.271,53.026,262.363
+Centro-Oeste,GO,Pública,Nível I,Sem resposta,Não,11,11.512,239.036,11.512,246.534
+Centro-Oeste,GO,Pública,Nível I,Sem resposta,Sem resposta,1,0.967,292.405,0.967,244.266
+Centro-Oeste,GO,Pública,Nível I,Sem resposta,Sim,6,5.728,233.321,5.728,232.522
+Centro-Oeste,GO,Pública,Nível I,Sim,Não,9,7.383,246.178,7.383,248.417
+Centro-Oeste,GO,Pública,Nível I,Sim,Sim,32,0.0,,0.0,
+Centro-Oeste,GO,Pública,Nível II,Não,Não,696,800.276,268.152,800.276,268.343
+Centro-Oeste,GO,Pública,Nível II,Não,Sem resposta,16,17.547,270.182,17.547,267.062
+Centro-Oeste,GO,Pública,Nível II,Não,Sim,2074,2330.381,271.335,2330.381,276.721
+Centro-Oeste,GO,Pública,Nível II,Sem resposta,Não,38,42.215,260.106,42.215,270.592
+Centro-Oeste,GO,Pública,Nível II,Sem resposta,Sem resposta,1,1.028,220.146,1.028,230.627
+Centro-Oeste,GO,Pública,Nível II,Sem resposta,Sim,97,104.783,254.576,104.783,259.565
+Centro-Oeste,GO,Pública,Nível II,Sim,Não,203,231.214,262.66,231.214,271.664
+Centro-Oeste,GO,Pública,Nível II,Sim,Sem resposta,9,10.364,277.951,10.364,294.593
+Centro-Oeste,GO,Pública,Nível II,Sim,Sim,435,504.585,269.77,504.585,274.817
+Centro-Oeste,GO,Pública,Nível III,Não,Não,314,346.496,270.381,346.496,271.878
+Centro-Oeste,GO,Pública,Nível III,Não,Sem resposta,16,18.005,262.8,18.005,254.813
+Centro-Oeste,GO,Pública,Nível III,Não,Sim,3577,4027.899,273.844,4027.899,281.028
+Centro-Oeste,GO,Pública,Nível III,Sem resposta,Não,17,18.409,256.309,18.409,262.74
+Centro-Oeste,GO,Pública,Nível III,Sem resposta,Sem resposta,3,2.913,206.525,2.913,241.036
+Centro-Oeste,GO,Pública,Nível III,Sem resposta,Sim,159,186.789,266.633,186.789,264.279
+Centro-Oeste,GO,Pública,Nível III,Sim,Não,267,303.493,274.557,303.493,280.899
+Centro-Oeste,GO,Pública,Nível III,Sim,Sem resposta,14,15.075,262.469,15.075,267.785
+Centro-Oeste,GO,Pública,Nível III,Sim,Sim,1975,2240.979,276.223,2240.979,283.324
+Centro-Oeste,GO,Pública,Nível IV,Não,Não,173,191.547,271.823,191.547,275.191
+Centro-Oeste,GO,Pública,Nível IV,Não,Sem resposta,24,26.404,276.763,26.404,267.234
+Centro-Oeste,GO,Pública,Nível IV,Não,Sim,3989,4547.911,275.326,4547.911,281.11
+Centro-Oeste,GO,Pública,Nível IV,Sem resposta,Não,9,10.423,284.885,10.423,271.852
+Centro-Oeste,GO,Pública,Nível IV,Sem resposta,Sem resposta,3,3.135,311.603,3.135,286.478
+Centro-Oeste,GO,Pública,Nível IV,Sem resposta,Sim,222,249.81,264.127,249.81,273.059
+Centro-Oeste,GO,Pública,Nível IV,Sim,Não,248,271.493,272.419,271.493,279.276
+Centro-Oeste,GO,Pública,Nível IV,Sim,Sem resposta,35,38.192,274.943,38.192,269.294
+Centro-Oeste,GO,Pública,Nível IV,Sim,Sim,5092,5771.376,280.155,5771.376,286.282
+Centro-Oeste,GO,Pública,Nível V,Não,Não,35,38.05,276.073,38.05,271.29
+Centro-Oeste,GO,Pública,Nível V,Não,Sem resposta,12,13.828,272.68,13.828,286.65
+Centro-Oeste,GO,Pública,Nível V,Não,Sim,2310,2610.998,278.277,2610.998,280.939
+Centro-Oeste,GO,Pública,Nível V,Sem resposta,Não,6,6.699,272.658,6.699,273.477
+Centro-Oeste,GO,Pública,Nível V,Sem resposta,Sem resposta,5,5.704,262.615,5.704,245.439
+Centro-Oeste,GO,Pública,Nível V,Sem resposta,Sim,161,179.268,268.088,179.268,276.395
+Centro-Oeste,GO,Pública,Nível V,Sim,Não,143,157.922,275.198,157.922,280.1
+Centro-Oeste,GO,Pública,Nível V,Sim,Sem resposta,47,58.699,278.285,58.699,275.025
+Centro-Oeste,GO,Pública,Nível V,Sim,Sim,7336,8172.541,284.223,8172.541,290.137
+Centro-Oeste,GO,Pública,Nível VI,Não,Não,5,5.103,303.797,5.103,283.384
+Centro-Oeste,GO,Pública,Nível VI,Não,Sem resposta,3,3.225,271.288,3.225,273.612
+Centro-Oeste,GO,Pública,Nível VI,Não,Sim,640,704.865,279.709,704.865,280.802
+Centro-Oeste,GO,Pública,Nível VI,Sem resposta,Não,1,1.0,221.323,1.0,255.124
+Centro-Oeste,GO,Pública,Nível VI,Sem resposta,Sem resposta,3,3.232,283.673,3.232,297.039
+Centro-Oeste,GO,Pública,Nível VI,Sem resposta,Sim,101,110.081,280.522,110.081,279.207
+Centro-Oeste,GO,Pública,Nível VI,Sim,Não,74,82.671,272.326,82.671,274.501
+Centro-Oeste,GO,Pública,Nível VI,Sim,Sem resposta,34,36.715,277.937,36.715,289.872
+Centro-Oeste,GO,Pública,Nível VI,Sim,Sim,6170,7015.197,286.816,7015.197,290.603
+Centro-Oeste,GO,Pública,Nível VII,Não,Sem resposta,1,0.967,228.122,0.967,183.405
+Centro-Oeste,GO,Pública,Nível VII,Não,Sim,123,141.194,280.737,141.194,283.244
+Centro-Oeste,GO,Pública,Nível VII,Sem resposta,Não,1,1.032,262.897,1.032,249.099
+Centro-Oeste,GO,Pública,Nível VII,Sem resposta,Sem resposta,3,3.08,275.741,3.08,295.903
+Centro-Oeste,GO,Pública,Nível VII,Sem resposta,Sim,42,45.658,261.981,45.658,263.184
+Centro-Oeste,GO,Pública,Nível VII,Sim,Não,14,15.285,279.006,15.285,274.023
+Centro-Oeste,GO,Pública,Nível VII,Sim,Sem resposta,16,18.218,272.887,18.218,257.0
+Centro-Oeste,GO,Pública,Nível VII,Sim,Sim,4607,5125.765,292.219,5125.765,292.38
+Centro-Oeste,GO,Pública,Nível VIII,Sim,Sem resposta,1,1.0,403.987,1.0,339.43
+Centro-Oeste,GO,Pública,Nível VIII,Sim,Sim,521,577.526,295.831,577.526,289.716
+Centro-Oeste,GO,Pública,Sem resposta,Não,Não,1,1.25,251.986,1.25,299.182
+Centro-Oeste,GO,Pública,Sem resposta,Não,Sem resposta,10,11.448,266.578,11.448,269.909
+Centro-Oeste,GO,Pública,Sem resposta,Sem resposta,Não,33,35.824,261.676,35.824,266.444
+Centro-Oeste,GO,Pública,Sem resposta,Sem resposta,Sem resposta,2867,3211.637,279.66,3211.637,282.936
+Centro-Oeste,GO,Pública,Sem resposta,Sem resposta,Sim,26,29.955,244.081,29.955,223.568
+Centro-Oeste,GO,Pública,Sem resposta,Sim,Sem resposta,14,14.089,259.214,14.089,260.719
+Centro-Oeste,GO,Pública,Sem resposta,Sim,Sim,1,1.026,349.107,1.026,381.4
+Centro-Oeste,MS,Privada,Nível I,Não,Não,1,1.478,202.944,1.478,293.062
+Centro-Oeste,MS,Privada,Nível I,Sim,Sim,7,0.0,,0.0,
+Centro-Oeste,MS,Privada,Nível II,Não,Não,5,7.541,291.532,7.541,288.562
+Centro-Oeste,MS,Privada,Nível II,Não,Sim,1,1.528,284.181,1.528,248.807
+Centro-Oeste,MS,Privada,Nível III,Não,Não,2,3.057,320.263,3.057,312.374
+Centro-Oeste,MS,Privada,Nível III,Não,Sim,8,12.543,251.036,12.543,271.779
+Centro-Oeste,MS,Privada,Nível III,Sem resposta,Sim,1,1.528,314.454,1.528,272.222
+Centro-Oeste,MS,Privada,Nível III,Sim,Não,1,1.478,289.265,1.478,270.48
+Centro-Oeste,MS,Privada,Nível III,Sim,Sim,13,21.88,316.458,21.88,304.017
+Centro-Oeste,MS,Privada,Nível IV,Não,Não,1,1.478,364.688,1.478,315.796
+Centro-Oeste,MS,Privada,Nível IV,Não,Sim,18,36.183,291.284,36.183,274.177
+Centro-Oeste,MS,Privada,Nível IV,Sim,Não,3,8.59,375.521,8.59,334.157
+Centro-Oeste,MS,Privada,Nível IV,Sim,Sim,37,75.671,323.51,75.671,304.517
+Centro-Oeste,MS,Privada,Nível V,Não,Sim,19,33.455,310.57,33.455,304.487
+Centro-Oeste,MS,Privada,Nível V,Sem resposta,Sim,1,1.053,223.777,1.053,239.645
+Centro-Oeste,MS,Privada,Nível V,Sim,Não,1,2.371,286.499,2.371,317.24
+Centro-Oeste,MS,Privada,Nível V,Sim,Sem resposta,1,1.528,256.98,1.528,245.436
+Centro-Oeste,MS,Privada,Nível V,Sim,Sim,107,226.558,321.238,226.558,311.33
+Centro-Oeste,MS,Privada,Nível VI,Não,Sim,14,31.883,306.53,31.883,307.651
+Centro-Oeste,MS,Privada,Nível VI,Sim,Sem resposta,1,2.217,248.359,2.217,220.135
+Centro-Oeste,MS,Privada,Nível VI,Sim,Sim,209,438.849,317.996,438.849,315.017
+Centro-Oeste,MS,Privada,Nível VII,Não,Sim,6,17.626,319.823,17.626,260.349
+Centro-Oeste,MS,Privada,Nível VII,Sem resposta,Sim,4,7.697,340.537,7.697,303.652
+Centro-Oeste,MS,Privada,Nível VII,Sim,Não,1,2.371,228.72,2.371,248.521
+Centro-Oeste,MS,Privada,Nível VII,Sim,Sem resposta,1,1.478,230.185,1.478,201.414
+Centro-Oeste,MS,Privada,Nível VII,Sim,Sim,548,1165.87,326.368,1165.87,317.992
+Centro-Oeste,MS,Privada,Nível VIII,Sem resposta,Sim,1,1.478,328.286,1.478,244.125
+Centro-Oeste,MS,Privada,Nível VIII,Sim,Sem resposta,1,2.371,296.473,2.371,285.145
+Centro-Oeste,MS,Privada,Nível VIII,Sim,Sim,297,651.183,336.223,651.183,314.184
+Centro-Oeste,MS,Privada,Sem resposta,Sem resposta,Sem resposta,73,169.106,336.151,169.106,319.476
+Centro-Oeste,MS,Privada,Sem resposta,Sem resposta,Sim,1,1.478,229.33,1.478,287.761
+Centro-Oeste,MS,Privada,Sem resposta,Sim,Sem resposta,1,1.478,351.38,1.478,344.223
+Centro-Oeste,MS,Pública,Nível I,Não,Não,52,85.096,232.016,85.096,244.714
+Centro-Oeste,MS,Pública,Nível I,Não,Sim,10,13.421,246.355,13.421,245.807
+Centro-Oeste,MS,Pública,Nível I,Sem resposta,Não,7,10.065,227.198,10.065,210.174
+Centro-Oeste,MS,Pública,Nível I,Sim,Não,1,1.45,241.136,1.45,274.763
+Centro-Oeste,MS,Pública,Nível I,Sim,Sim,2,0.0,,0.0,
+Centro-Oeste,MS,Pública,Nível II,Não,Não,237,347.625,248.537,347.625,252.288
+Centro-Oeste,MS,Pública,Nível II,Não,Sem resposta,14,18.077,254.063,18.077,241.354
+Centro-Oeste,MS,Pública,Nível II,Não,Sim,637,983.78,251.962,983.78,256.955
+Centro-Oeste,MS,Pública,Nível II,Sem resposta,Não,14,20.858,263.879,20.858,268.87
+Centro-Oeste,MS,Pública,Nível II,Sem resposta,Sem resposta,1,1.176,235.744,1.176,188.827
+Centro-Oeste,MS,Pública,Nível II,Sem resposta,Sim,43,67.969,237.166,67.969,233.523
+Centro-Oeste,MS,Pública,Nível II,Sim,Não,39,63.132,265.718,63.132,242.625
+Centro-Oeste,MS,Pública,Nível II,Sim,Sim,71,106.381,259.889,106.381,266.704
+Centro-Oeste,MS,Pública,Nível III,Não,Não,117,172.568,262.045,172.568,265.25
+Centro-Oeste,MS,Pública,Nível III,Não,Sem resposta,12,17.603,248.474,17.603,254.369
+Centro-Oeste,MS,Pública,Nível III,Não,Sim,1220,1750.089,259.348,1750.089,265.48
+Centro-Oeste,MS,Pública,Nível III,Sem resposta,Não,12,16.167,229.003,16.167,227.683
+Centro-Oeste,MS,Pública,Nível III,Sem resposta,Sem resposta,3,5.171,234.244,5.171,254.498
+Centro-Oeste,MS,Pública,Nível III,Sem resposta,Sim,72,110.23,252.915,110.23,246.517
+Centro-Oeste,MS,Pública,Nível III,Sim,Não,59,95.111,259.124,95.111,268.472
+Centro-Oeste,MS,Pública,Nível III,Sim,Sem resposta,3,4.281,272.757,4.281,287.822
+Centro-Oeste,MS,Pública,Nível III,Sim,Sim,469,713.598,268.047,713.598,275.448
+Centro-Oeste,MS,Pública,Nível IV,Não,Não,64,99.243,257.89,99.243,264.67
+Centro-Oeste,MS,Pública,Nível IV,Não,Sem resposta,11,14.514,258.232,14.514,246.55
+Centro-Oeste,MS,Pública,Nível IV,Não,Sim,1577,2263.88,260.387,2263.88,264.745
+Centro-Oeste,MS,Pública,Nível IV,Sem resposta,Não,7,9.749,259.259,9.749,239.417
+Centro-Oeste,MS,Pública,Nível IV,Sem resposta,Sem resposta,5,8.842,279.876,8.842,272.708
+Centro-Oeste,MS,Pública,Nível IV,Sem resposta,Sim,112,167.331,254.134,167.331,256.291
+Centro-Oeste,MS,Pública,Nível IV,Sim,Não,64,92.677,258.315,92.677,263.931
+Centro-Oeste,MS,Pública,Nível IV,Sim,Sem resposta,9,14.346,242.308,14.346,253.875
+Centro-Oeste,MS,Pública,Nível IV,Sim,Sim,1401,2011.047,271.315,2011.047,277.157
+Centro-Oeste,MS,Pública,Nível V,Não,Não,13,17.832,255.754,17.832,260.045
+Centro-Oeste,MS,Pública,Nível V,Não,Sem resposta,17,23.623,239.787,23.623,248.47
+Centro-Oeste,MS,Pública,Nível V,Não,Sim,1121,1608.758,260.837,1608.758,263.593
+Centro-Oeste,MS,Pública,Nível V,Sem resposta,Não,2,2.975,243.182,2.975,233.444
+Centro-Oeste,MS,Pública,Nível V,Sem resposta,Sem resposta,4,8.618,230.211,8.618,248.189
+Centro-Oeste,MS,Pública,Nível V,Sem resposta,Sim,85,124.4,254.054,124.4,253.912
+Centro-Oeste,MS,Pública,Nível V,Sim,Não,46,70.931,273.703,70.931,278.343
+Centro-Oeste,MS,Pública,Nível V,Sim,Sem resposta,18,23.387,245.829,23.387,268.917
+Centro-Oeste,MS,Pública,Nível V,Sim,Sim,2434,3471.414,271.41,3471.414,277.828
+Centro-Oeste,MS,Pública,Nível VI,Não,Não,2,3.041,244.006,3.041,198.184
+Centro-Oeste,MS,Pública,Nível VI,Não,Sem resposta,1,1.094,279.899,1.094,326.819
+Centro-Oeste,MS,Pública,Nível VI,Não,Sim,424,599.88,261.904,599.88,259.044
+Centro-Oeste,MS,Pública,Nível VI,Sem resposta,Não,1,1.316,277.908,1.316,268.29
+Centro-Oeste,MS,Pública,Nível VI,Sem resposta,Sim,67,99.222,266.448,99.222,264.931
+Centro-Oeste,MS,Pública,Nível VI,Sim,Não,26,41.206,288.562,41.206,287.083
+Centro-Oeste,MS,Pública,Nível VI,Sim,Sem resposta,17,24.12,267.225,24.12,281.809
+Centro-Oeste,MS,Pública,Nível VI,Sim,Sim,2384,3410.476,272.388,3410.476,277.654
+Centro-Oeste,MS,Pública,Nível VII,Não,Sim,81,118.874,260.114,118.874,259.04
+Centro-Oeste,MS,Pública,Nível VII,Sem resposta,Não,2,2.403,295.745,2.403,244.744
+Centro-Oeste,MS,Pública,Nível VII,Sem resposta,Sem resposta,3,4.535,254.37,4.535,248.66
+Centro-Oeste,MS,Pública,Nível VII,Sem resposta,Sim,43,68.674,266.121,68.674,263.437
+Centro-Oeste,MS,Pública,Nível VII,Sim,Não,9,12.776,281.943,12.776,288.468
+Centro-Oeste,MS,Pública,Nível VII,Sim,Sem resposta,12,16.545,293.508,16.545,286.805
+Centro-Oeste,MS,Pública,Nível VII,Sim,Sim,2143,3058.182,281.146,3058.182,281.991
+Centro-Oeste,MS,Pública,Nível VIII,Não,Sim,1,1.077,291.534,1.077,305.648
+Centro-Oeste,MS,Pública,Nível VIII,Sem resposta,Sim,6,8.097,263.258,8.097,279.565
+Centro-Oeste,MS,Pública,Nível VIII,Sim,Sem resposta,2,3.672,313.364,3.672,188.308
+Centro-Oeste,MS,Pública,Nível VIII,Sim,Sim,280,372.775,286.321,372.775,284.45
+Centro-Oeste,MS,Pública,Sem resposta,Não,Sem resposta,2,3.456,212.437,3.456,226.234
+Centro-Oeste,MS,Pública,Sem resposta,Não,Sim,3,3.565,270.213,3.565,268.078
+Centro-Oeste,MS,Pública,Sem resposta,Sem resposta,Não,11,15.217,260.724,15.217,270.83
+Centro-Oeste,MS,Pública,Sem resposta,Sem resposta,Sem resposta,1049,1576.991,261.831,1576.991,262.777
+Centro-Oeste,MS,Pública,Sem resposta,Sem resposta,Sim,17,26.561,232.296,26.561,227.896
+Centro-Oeste,MS,Pública,Sem resposta,Sim,Sem resposta,4,6.289,288.198,6.289,255.371
+Centro-Oeste,MS,Pública,Sem resposta,Sim,Sim,1,2.538,201.312,2.538,220.394
+Centro-Oeste,MT,Privada,Nível I,Não,Não,6,4.405,210.209,4.405,190.812
+Centro-Oeste,MT,Privada,Nível I,Não,Sem resposta,1,0.0,,0.0,
+Centro-Oeste,MT,Privada,Nível I,Não,Sim,4,0.0,,0.0,
+Centro-Oeste,MT,Privada,Nível I,Sem resposta,Não,1,0.0,,0.0,
+Centro-Oeste,MT,Privada,Nível I,Sem resposta,Sim,4,0.0,,0.0,
+Centro-Oeste,MT,Privada,Nível I,Sim,Sim,10,0.0,,0.0,
+Centro-Oeste,MT,Privada,Nível II,Não,Não,2,7.61,290.258,7.61,319.132
+Centro-Oeste,MT,Privada,Nível II,Não,Sim,1,5.874,438.47,5.874,329.959
+Centro-Oeste,MT,Privada,Nível II,Sem resposta,Sim,1,5.874,302.631,5.874,287.854
+Centro-Oeste,MT,Privada,Nível II,Sim,Sim,1,2.937,301.914,2.937,260.58
+Centro-Oeste,MT,Privada,Nível III,Não,Sim,12,35.451,309.015,35.451,300.928
+Centro-Oeste,MT,Privada,Nível III,Sim,Sim,12,33.785,362.548,33.785,332.075
+Centro-Oeste,MT,Privada,Nível IV,Não,Não,1,1.736,277.38,1.736,335.371
+Centro-Oeste,MT,Privada,Nível IV,Não,Sim,16,51.54,297.931,51.54,307.398
+Centro-Oeste,MT,Privada,Nível IV,Sim,Não,3,10.215,342.062,10.215,344.479
+Centro-Oeste,MT,Privada,Nível IV,Sim,Sim,49,156.216,309.557,156.216,316.055
+Centro-Oeste,MT,Privada,Nível V,Não,Sim,22,65.56,324.211,65.56,311.624
+Centro-Oeste,MT,Privada,Nível V,Sem resposta,Sim,2,3.473,291.399,3.473,333.018
+Centro-Oeste,MT,Privada,Nível V,Sim,Não,1,2.937,285.148,2.937,268.921
+Centro-Oeste,MT,Privada,Nível V,Sim,Sem resposta,1,5.874,258.738,5.874,256.522
+Centro-Oeste,MT,Privada,Nível V,Sim,Sim,146,421.012,306.004,421.012,312.679
+Centro-Oeste,MT,Privada,Nível VI,Não,Sim,19,49.343,291.869,49.343,295.916
+Centro-Oeste,MT,Privada,Nível VI,Sem resposta,Sim,2,3.473,271.704,3.473,257.536
+Centro-Oeste,MT,Privada,Nível VI,Sim,Não,3,6.41,335.689,6.41,317.659
+Centro-Oeste,MT,Privada,Nível VI,Sim,Sem resposta,1,1.736,256.061,1.736,289.936
+Centro-Oeste,MT,Privada,Nível VI,Sim,Sim,264,753.226,309.739,753.226,307.017
+Centro-Oeste,MT,Privada,Nível VII,Não,Sim,7,19.561,289.923,19.561,297.109
+Centro-Oeste,MT,Privada,Nível VII,Sem resposta,Sim,5,9.883,272.092,9.883,258.613
+Centro-Oeste,MT,Privada,Nível VII,Sim,Não,4,10.815,280.891,10.815,240.559
+Centro-Oeste,MT,Privada,Nível VII,Sim,Sem resposta,2,7.01,330.978,7.01,348.138
+Centro-Oeste,MT,Privada,Nível VII,Sim,Sim,510,1394.429,319.788,1394.429,314.485
+Centro-Oeste,MT,Privada,Nível VIII,Sem resposta,Sim,1,2.937,257.544,2.937,198.08
+Centro-Oeste,MT,Privada,Nível VIII,Sim,Sim,168,455.502,319.615,455.502,307.921
+Centro-Oeste,MT,Privada,Sem resposta,Sem resposta,Sem resposta,66,149.037,321.255,149.037,301.42
+Centro-Oeste,MT,Privada,Sem resposta,Sem resposta,Sim,1,1.736,188.623,1.736,224.271
+Centro-Oeste,MT,Privada,Sem resposta,Sim,Sem resposta,1,4.405,219.148,4.405,155.226
+Centro-Oeste,MT,Pública,Nível I,Não,Não,94,113.554,245.811,113.554,243.711
+Centro-Oeste,MT,Pública,Nível I,Não,Sim,16,8.526,233.118,8.526,232.256
+Centro-Oeste,MT,Pública,Nível I,Sem resposta,Não,6,7.098,241.401,7.098,228.738
+Centro-Oeste,MT,Pública,Nível I,Sem resposta,Sim,1,0.0,,0.0,
+Centro-Oeste,MT,Pública,Nível I,Sim,Sim,19,0.0,,0.0,
+Centro-Oeste,MT,Pública,Nível II,Não,Não,534,641.648,247.667,641.648,250.051
+Centro-Oeste,MT,Pública,Nível II,Não,Sem resposta,18,21.791,236.859,21.791,248.406
+Centro-Oeste,MT,Pública,Nível II,Não,Sim,1055,1264.647,253.339,1264.647,257.318
+Centro-Oeste,MT,Pública,Nível II,Sem resposta,Não,45,57.935,248.146,57.935,243.954
+Centro-Oeste,MT,Pública,Nível II,Sem resposta,Sem resposta,4,4.608,218.821,4.608,197.037
+Centro-Oeste,MT,Pública,Nível II,Sem resposta,Sim,68,80.37,241.578,80.37,244.376
+Centro-Oeste,MT,Pública,Nível II,Sim,Não,82,96.725,256.728,96.725,260.199
+Centro-Oeste,MT,Pública,Nível II,Sim,Sem resposta,2,2.841,220.21,2.841,214.572
+Centro-Oeste,MT,Pública,Nível II,Sim,Sim,141,174.084,262.015,174.084,269.942
+Centro-Oeste,MT,Pública,Nível III,Não,Não,248,292.621,251.515,292.621,255.793
+Centro-Oeste,MT,Pública,Nível III,Não,Sem resposta,15,18.234,232.679,18.234,222.577
+Centro-Oeste,MT,Pública,Nível III,Não,Sim,2218,2663.201,253.824,2663.201,258.566
+Centro-Oeste,MT,Pública,Nível III,Sem resposta,Não,18,20.291,245.865,20.291,248.711
+Centro-Oeste,MT,Pública,Nível III,Sem resposta,Sem resposta,2,2.304,196.812,2.304,225.223
+Centro-Oeste,MT,Pública,Nível III,Sem resposta,Sim,124,146.144,236.106,146.144,235.01
+Centro-Oeste,MT,Pública,Nível III,Sim,Não,119,153.506,263.089,153.506,263.291
+Centro-Oeste,MT,Pública,Nível III,Sim,Sem resposta,18,21.446,249.993,21.446,253.997
+Centro-Oeste,MT,Pública,Nível III,Sim,Sim,975,1185.18,264.295,1185.18,271.858
+Centro-Oeste,MT,Pública,Nível IV,Não,Não,102,126.516,250.958,126.516,254.762
+Centro-Oeste,MT,Pública,Nível IV,Não,Sem resposta,20,24.886,241.759,24.886,228.539
+Centro-Oeste,MT,Pública,Nível IV,Não,Sim,2565,3075.078,256.258,3075.078,261.437
+Centro-Oeste,MT,Pública,Nível IV,Sem resposta,Não,13,16.001,233.034,16.001,231.662
+Centro-Oeste,MT,Pública,Nível IV,Sem resposta,Sem resposta,5,5.579,229.592,5.579,222.928
+Centro-Oeste,MT,Pública,Nível IV,Sem resposta,Sim,198,238.059,248.023,238.059,249.397
+Centro-Oeste,MT,Pública,Nível IV,Sim,Não,158,196.729,261.425,196.729,267.18
+Centro-Oeste,MT,Pública,Nível IV,Sim,Sem resposta,23,28.407,231.764,28.407,242.428
+Centro-Oeste,MT,Pública,Nível IV,Sim,Sim,2701,3283.872,267.694,3283.872,274.752
+Centro-Oeste,MT,Pública,Nível V,Não,Não,26,31.496,256.438,31.496,266.562
+Centro-Oeste,MT,Pública,Nível V,Não,Sem resposta,15,19.077,249.941,19.077,259.928
+Centro-Oeste,MT,Pública,Nível V,Não,Sim,1548,1843.835,255.736,1843.835,258.739
+Centro-Oeste,MT,Pública,Nível V,Sem resposta,Não,6,7.246,251.509,7.246,261.068
+Centro-Oeste,MT,Pública,Nível V,Sem resposta,Sem resposta,11,13.446,246.018,13.446,233.142
+Centro-Oeste,MT,Pública,Nível V,Sem resposta,Sim,176,210.218,249.453,210.218,250.468
+Centro-Oeste,MT,Pública,Nível V,Sim,Não,81,99.947,268.435,99.947,267.361
+Centro-Oeste,MT,Pública,Nível V,Sim,Sem resposta,30,34.936,252.851,34.936,244.521
+Centro-Oeste,MT,Pública,Nível V,Sim,Sim,4007,4850.441,269.594,4850.441,277.104
+Centro-Oeste,MT,Pública,Nível VI,Não,Não,3,3.152,272.466,3.152,284.585
+Centro-Oeste,MT,Pública,Nível VI,Não,Sem resposta,2,2.144,303.713,2.144,280.741
+Centro-Oeste,MT,Pública,Nível VI,Não,Sim,481,576.539,257.545,576.539,258.171
+Centro-Oeste,MT,Pública,Nível VI,Sem resposta,Sem resposta,2,2.512,195.279,2.512,231.747
+Centro-Oeste,MT,Pública,Nível VI,Sem resposta,Sim,106,125.298,247.349,125.298,244.239
+Centro-Oeste,MT,Pública,Nível VI,Sim,Não,21,25.398,254.22,25.398,258.239
+Centro-Oeste,MT,Pública,Nível VI,Sim,Sem resposta,24,31.079,265.752,31.079,264.712
+Centro-Oeste,MT,Pública,Nível VI,Sim,Sim,3375,4136.434,272.308,4136.434,278.629
+Centro-Oeste,MT,Pública,Nível VII,Não,Sim,87,101.225,263.963,101.225,254.665
+Centro-Oeste,MT,Pública,Nível VII,Sem resposta,Sem resposta,1,1.136,277.049,1.136,315.942
+Centro-Oeste,MT,Pública,Nível VII,Sem resposta,Sim,50,61.882,256.472,61.882,249.572
+Centro-Oeste,MT,Pública,Nível VII,Sim,Não,12,14.53,250.644,14.53,285.723
+Centro-Oeste,MT,Pública,Nível VII,Sim,Sem resposta,16,18.308,253.057,18.308,252.233
+Centro-Oeste,MT,Pública,Nível VII,Sim,Sim,2498,3022.041,274.099,3022.041,277.641
+Centro-Oeste,MT,Pública,Nível VIII,Não,Sim,1,1.042,186.66,1.042,177.498
+Centro-Oeste,MT,Pública,Nível VIII,Sem resposta,Sim,2,2.92,224.185,2.92,294.567
+Centro-Oeste,MT,Pública,Nível VIII,Sim,Sem resposta,1,1.231,231.687,1.231,213.297
+Centro-Oeste,MT,Pública,Nível VIII,Sim,Sim,295,361.586,278.705,361.586,279.656
+Centro-Oeste,MT,Pública,Sem resposta,Não,Sem resposta,6,7.246,248.569,7.246,242.56
+Centro-Oeste,MT,Pública,Sem resposta,Não,Sim,2,2.893,285.985,2.893,227.082
+Centro-Oeste,MT,Pública,Sem resposta,Sem resposta,Não,11,13.116,238.932,13.116,228.771
+Centro-Oeste,MT,Pública,Sem resposta,Sem resposta,Sem resposta,1120,1347.789,253.238,1347.789,253.29
+Centro-Oeste,MT,Pública,Sem resposta,Sem resposta,Sim,44,52.63,230.182,52.63,209.343
+Centro-Oeste,MT,Pública,Sem resposta,Sim,Sem resposta,19,23.215,232.2,23.215,222.7
+Centro-Oeste,MT,Pública,Sem resposta,Sim,Sim,3,3.182,234.013,3.182,207.086
+Nordeste,AL,Privada,Nível I,Não,Não,2,8.673,296.162,8.673,310.455
+Nordeste,AL,Privada,Nível I,Não,Sim,1,2.296,302.916,2.296,337.415
+Nordeste,AL,Privada,Nível I,Sim,Sim,1,0.0,,0.0,
+Nordeste,AL,Privada,Nível II,Não,Não,6,34.184,305.078,34.184,288.772
+Nordeste,AL,Privada,Nível II,Não,Sem resposta,1,5.102,245.581,5.102,283.206
+Nordeste,AL,Privada,Nível II,Não,Sim,16,74.235,245.574,74.235,252.786
+Nordeste,AL,Privada,Nível II,Sem resposta,Sim,1,3.827,228.153,3.827,298.751
+Nordeste,AL,Privada,Nível II,Sim,Não,2,9.821,312.471,9.821,234.194
+Nordeste,AL,Privada,Nível II,Sim,Sim,4,16.958,230.931,16.958,273.858
+Nordeste,AL,Privada,Nível III,Não,Não,6,25.191,300.251,25.191,299.56
+Nordeste,AL,Privada,Nível III,Não,Sim,36,154.847,277.883,154.847,269.293
+Nordeste,AL,Privada,Nível III,Sem resposta,Sim,4,14.796,282.512,14.796,318.204
+Nordeste,AL,Privada,Nível III,Sim,Não,2,7.398,269.953,7.398,315.617
+Nordeste,AL,Privada,Nível III,Sim,Sim,39,148.531,287.075,148.531,287.867
+Nordeste,AL,Privada,Nível IV,Não,Não,1,2.296,223.921,2.296,265.237
+Nordeste,AL,Privada,Nível IV,Não,Sim,65,267.339,282.187,267.339,279.153
+Nordeste,AL,Privada,Nível IV,Sem resposta,Sim,4,22.96,294.868,22.96,281.553
+Nordeste,AL,Privada,Nível IV,Sim,Não,5,20.6,293.682,20.6,291.603
+Nordeste,AL,Privada,Nível IV,Sim,Sim,101,425.947,297.061,425.947,297.182
+Nordeste,AL,Privada,Nível V,Não,Sim,41,167.026,286.753,167.026,280.523
+Nordeste,AL,Privada,Nível V,Sem resposta,Sim,4,19.579,241.749,19.579,242.96
+Nordeste,AL,Privada,Nível V,Sim,Não,1,3.827,263.755,3.827,281.21
+Nordeste,AL,Privada,Nível V,Sim,Sim,168,647.179,296.235,647.179,299.543
+Nordeste,AL,Privada,Nível VI,Não,Sem resposta,1,3.827,261.301,3.827,309.965
+Nordeste,AL,Privada,Nível VI,Não,Sim,24,95.216,274.288,95.216,270.201
+Nordeste,AL,Privada,Nível VI,Sem resposta,Sim,1,1.722,216.011,1.722,263.604
+Nordeste,AL,Privada,Nível VI,Sim,Não,1,6.378,363.466,6.378,337.552
+Nordeste,AL,Privada,Nível VI,Sim,Sim,233,879.053,294.37,879.053,298.448
+Nordeste,AL,Privada,Nível VII,Não,Sim,11,40.363,274.931,40.363,282.54
+Nordeste,AL,Privada,Nível VII,Sem resposta,Sim,4,21.684,286.145,21.684,288.247
+Nordeste,AL,Privada,Nível VII,Sim,Não,1,2.296,347.602,2.296,298.067
+Nordeste,AL,Privada,Nível VII,Sim,Sim,248,996.661,297.795,996.661,290.548
+Nordeste,AL,Privada,Nível VIII,Sim,Sim,60,240.814,307.737,240.814,311.126
+Nordeste,AL,Privada,Sem resposta,Sem resposta,Sem resposta,67,271.682,282.123,271.682,285.002
+Nordeste,AL,Privada,Sem resposta,Sem resposta,Sim,2,7.398,246.373,7.398,235.726
+Nordeste,AL,Privada,Sem resposta,Sim,Sim,1,2.296,218.165,2.296,178.761
+Nordeste,AL,Pública,Nível I,Não,Não,833,867.044,251.83,867.044,248.853
+Nordeste,AL,Pública,Nível I,Não,Sem resposta,14,14.04,234.105,14.04,234.152
+Nordeste,AL,Pública,Nível I,Não,Sim,288,274.309,251.177,274.309,246.889
+Nordeste,AL,Pública,Nível I,Sem resposta,Não,81,83.641,236.061,83.641,228.285
+Nordeste,AL,Pública,Nível I,Sem resposta,Sem resposta,3,2.993,218.366,2.993,180.992
+Nordeste,AL,Pública,Nível I,Sem resposta,Sim,26,22.381,246.499,22.381,230.909
+Nordeste,AL,Pública,Nível I,Sim,Não,20,20.725,239.234,20.725,239.438
+Nordeste,AL,Pública,Nível I,Sim,Sem resposta,1,0.0,,0.0,
+Nordeste,AL,Pública,Nível I,Sim,Sim,7,1.022,280.889,1.022,283.532
+Nordeste,AL,Pública,Nível II,Não,Não,1129,1208.852,254.334,1208.852,251.863
+Nordeste,AL,Pública,Nível II,Não,Sem resposta,59,60.854,245.509,60.854,241.033
+Nordeste,AL,Pública,Nível II,Não,Sim,6110,6520.38,256.87,6520.38,257.74
+Nordeste,AL,Pública,Nível II,Sem resposta,Não,87,89.218,255.032,89.218,240.52
+Nordeste,AL,Pública,Nível II,Sem resposta,Sem resposta,11,13.244,250.326,13.244,255.57
+Nordeste,AL,Pública,Nível II,Sem resposta,Sim,425,453.998,246.304,453.998,247.63
+Nordeste,AL,Pública,Nível II,Sim,Não,137,146.814,259.348,146.814,255.558
+Nordeste,AL,Pública,Nível II,Sim,Sem resposta,11,11.248,253.34,11.248,247.609
+Nordeste,AL,Pública,Nível II,Sim,Sim,518,585.003,269.531,585.003,270.572
+Nordeste,AL,Pública,Nível III,Não,Não,187,195.852,251.931,195.852,253.155
+Nordeste,AL,Pública,Nível III,Não,Sem resposta,33,40.974,250.206,40.974,245.701
+Nordeste,AL,Pública,Nível III,Não,Sim,4580,4952.614,258.165,4952.614,260.615
+Nordeste,AL,Pública,Nível III,Sem resposta,Não,15,14.836,243.173,14.836,239.482
+Nordeste,AL,Pública,Nível III,Sem resposta,Sem resposta,8,7.98,256.68,7.98,263.175
+Nordeste,AL,Pública,Nível III,Sem resposta,Sim,261,287.33,255.997,287.33,250.143
+Nordeste,AL,Pública,Nível III,Sim,Não,79,84.923,261.702,84.923,260.255
+Nordeste,AL,Pública,Nível III,Sim,Sem resposta,11,11.433,250.052,11.433,255.086
+Nordeste,AL,Pública,Nível III,Sim,Sim,1361,1524.723,271.21,1524.723,277.279
+Nordeste,AL,Pública,Nível IV,Não,Não,41,46.55,259.543,46.55,266.373
+Nordeste,AL,Pública,Nível IV,Não,Sem resposta,21,25.414,259.322,25.414,240.577
+Nordeste,AL,Pública,Nível IV,Não,Sim,2663,2859.531,260.905,2859.531,261.915
+Nordeste,AL,Pública,Nível IV,Sem resposta,Não,4,3.99,222.025,3.99,243.723
+Nordeste,AL,Pública,Nível IV,Sem resposta,Sem resposta,2,1.964,207.276,1.964,189.008
+Nordeste,AL,Pública,Nível IV,Sem resposta,Sim,207,213.943,254.315,213.943,249.962
+Nordeste,AL,Pública,Nível IV,Sim,Não,65,78.107,272.394,78.107,278.037
+Nordeste,AL,Pública,Nível IV,Sim,Sem resposta,16,16.545,245.693,16.545,246.312
+Nordeste,AL,Pública,Nível IV,Sim,Sim,1934,2173.218,272.812,2173.218,277.013
+Nordeste,AL,Pública,Nível V,Não,Não,9,11.516,255.807,11.516,251.636
+Nordeste,AL,Pública,Nível V,Não,Sem resposta,6,6.209,235.173,6.209,229.04
+Nordeste,AL,Pública,Nível V,Não,Sim,868,932.387,258.895,932.387,260.635
+Nordeste,AL,Pública,Nível V,Sem resposta,Sem resposta,1,0.958,216.254,0.958,195.643
+Nordeste,AL,Pública,Nível V,Sem resposta,Sim,110,117.028,242.563,117.028,245.339
+Nordeste,AL,Pública,Nível V,Sim,Não,29,30.359,260.459,30.359,270.467
+Nordeste,AL,Pública,Nível V,Sim,Sem resposta,16,16.768,258.378,16.768,263.209
+Nordeste,AL,Pública,Nível V,Sim,Sim,1567,1763.651,274.99,1763.651,278.078
+Nordeste,AL,Pública,Nível VI,Não,Não,1,0.964,266.692,0.964,235.694
+Nordeste,AL,Pública,Nível VI,Não,Sem resposta,1,1.0,290.814,1.0,296.452
+Nordeste,AL,Pública,Nível VI,Não,Sim,165,177.998,257.816,177.998,252.402
+Nordeste,AL,Pública,Nível VI,Sem resposta,Não,1,1.0,190.905,1.0,189.982
+Nordeste,AL,Pública,Nível VI,Sem resposta,Sem resposta,2,2.205,227.531,2.205,250.145
+Nordeste,AL,Pública,Nível VI,Sem resposta,Sim,25,30.996,250.316,30.996,267.041
+Nordeste,AL,Pública,Nível VI,Sim,Não,6,6.12,266.293,6.12,249.406
+Nordeste,AL,Pública,Nível VI,Sim,Sem resposta,7,7.157,255.918,7.157,270.018
+Nordeste,AL,Pública,Nível VI,Sim,Sim,978,1105.635,274.711,1105.635,278.169
+Nordeste,AL,Pública,Nível VII,Não,Sim,19,19.211,260.542,19.211,258.41
+Nordeste,AL,Pública,Nível VII,Sem resposta,Sem resposta,1,1.0,194.578,1.0,198.639
+Nordeste,AL,Pública,Nível VII,Sem resposta,Sim,11,11.386,247.116,11.386,244.166
+Nordeste,AL,Pública,Nível VII,Sim,Não,1,0.929,220.847,0.929,294.843
+Nordeste,AL,Pública,Nível VII,Sim,Sem resposta,3,3.114,247.875,3.114,239.795
+Nordeste,AL,Pública,Nível VII,Sim,Sim,366,401.318,277.7,401.318,275.601
+Nordeste,AL,Pública,Nível VIII,Sim,Sim,23,27.788,262.875,27.788,252.764
+Nordeste,AL,Pública,Sem resposta,Não,Sem resposta,12,14.573,273.015,14.573,245.377
+Nordeste,AL,Pública,Sem resposta,Não,Sim,3,3.96,218.965,3.96,216.037
+Nordeste,AL,Pública,Sem resposta,Sem resposta,Não,15,15.1,240.159,15.1,218.034
+Nordeste,AL,Pública,Sem resposta,Sem resposta,Sem resposta,1024,1147.385,260.232,1147.385,259.277
+Nordeste,AL,Pública,Sem resposta,Sem resposta,Sim,33,34.72,226.998,34.72,208.628
+Nordeste,AL,Pública,Sem resposta,Sim,Sem resposta,8,8.872,216.18,8.872,218.198
+Nordeste,AL,Pública,Sem resposta,Sim,Sim,3,2.999,230.454,2.999,235.863
+Nordeste,BA,Privada,Nível I,Não,Não,2,3.945,261.331,3.945,277.011
+Nordeste,BA,Privada,Nível I,Sem resposta,Não,1,1.691,204.266,1.691,275.487
+Nordeste,BA,Privada,Nível II,Não,Não,13,38.888,271.274,38.888,262.877
+Nordeste,BA,Privada,Nível II,Não,Sim,73,302.021,271.285,302.021,274.428
+Nordeste,BA,Privada,Nível II,Sem resposta,Não,2,3.945,258.961,3.945,232.291
+Nordeste,BA,Privada,Nível II,Sem resposta,Sim,7,51.633,240.088,51.633,277.741
+Nordeste,BA,Privada,Nível II,Sim,Não,9,56.222,283.5,56.222,334.675
+Nordeste,BA,Privada,Nível II,Sim,Sim,11,111.941,352.278,111.941,334.195
+Nordeste,BA,Privada,Nível III,Não,Não,3,6.763,292.003,6.763,281.134
+Nordeste,BA,Privada,Nível III,Não,Sem resposta,1,2.254,281.574,2.254,254.59
+Nordeste,BA,Privada,Nível III,Não,Sim,74,580.066,301.256,580.066,297.992
+Nordeste,BA,Privada,Nível III,Sem resposta,Sim,7,44.881,261.784,44.881,274.439
+Nordeste,BA,Privada,Nível III,Sim,Não,7,101.66,301.433,101.66,266.086
+Nordeste,BA,Privada,Nível III,Sim,Sim,64,580.995,291.154,580.995,299.636
+Nordeste,BA,Privada,Nível IV,Não,Sim,58,515.027,300.212,515.027,300.857
+Nordeste,BA,Privada,Nível IV,Sem resposta,Sim,7,93.83,360.086,93.83,302.734
+Nordeste,BA,Privada,Nível IV,Sim,Não,1,33.115,374.938,33.115,370.487
+Nordeste,BA,Privada,Nível IV,Sim,Sim,118,2030.143,304.698,2030.143,312.994
+Nordeste,BA,Privada,Nível V,Não,Sim,32,407.847,302.596,407.847,291.448
+Nordeste,BA,Privada,Nível V,Sem resposta,Sim,1,3.382,252.871,3.382,253.724
+Nordeste,BA,Privada,Nível V,Sim,Sim,162,3255.609,310.126,3255.609,308.981
+Nordeste,BA,Privada,Nível VI,Não,Sim,5,130.648,302.188,130.648,290.255
+Nordeste,BA,Privada,Nível VI,Sem resposta,Sim,3,62.436,314.339,62.436,313.661
+Nordeste,BA,Privada,Nível VI,Sim,Não,1,6.207,321.234,6.207,299.982
+Nordeste,BA,Privada,Nível VI,Sim,Sim,113,2805.376,323.739,2805.376,318.269
+Nordeste,BA,Privada,Nível VII,Não,Sim,2,69.54,305.102,69.54,275.029
+Nordeste,BA,Privada,Nível VII,Sem resposta,Sim,1,32.339,284.205,32.339,259.335
+Nordeste,BA,Privada,Nível VII,Sim,Sim,135,4099.381,330.666,4099.381,319.934
+Nordeste,BA,Privada,Nível VIII,Sim,Sim,25,770.176,348.34,770.176,324.429
+Nordeste,BA,Privada,Sem resposta,Sem resposta,Sem resposta,41,574.948,317.283,574.948,310.745
+Nordeste,BA,Privada,Sem resposta,Sem resposta,Sim,1,2.818,258.251,2.818,210.971
+Nordeste,BA,Privada,Sem resposta,Sim,Sem resposta,1,26.275,295.823,26.275,320.621
+Nordeste,BA,Pública,Nível I,Não,Não,4132,4868.539,239.07,4868.539,235.075
+Nordeste,BA,Pública,Nível I,Não,Sem resposta,82,94.723,237.875,94.723,227.05
+Nordeste,BA,Pública,Nível I,Não,Sim,1283,1374.299,237.776,1374.299,238.605
+Nordeste,BA,Pública,Nível I,Sem resposta,Não,317,375.561,233.612,375.561,226.796
+Nordeste,BA,Pública,Nível I,Sem resposta,Sem resposta,22,23.704,213.946,23.704,208.801
+Nordeste,BA,Pública,Nível I,Sem resposta,Sim,117,127.829,232.923,127.829,228.021
+Nordeste,BA,Pública,Nível I,Sim,Não,105,126.733,225.058,126.733,229.978
+Nordeste,BA,Pública,Nível I,Sim,Sem resposta,5,2.179,219.244,2.179,192.454
+Nordeste,BA,Pública,Nível I,Sim,Sim,90,11.741,241.318,11.741,247.608
+Nordeste,BA,Pública,Nível II,Não,Não,4970,5826.791,244.429,5826.791,244.731
+Nordeste,BA,Pública,Nível II,Não,Sem resposta,251,301.043,240.598,301.043,229.82
+Nordeste,BA,Pública,Nível II,Não,Sim,22380,26225.757,248.227,26225.757,252.113
+Nordeste,BA,Pública,Nível II,Sem resposta,Não,360,423.87,236.588,423.87,236.915
+Nordeste,BA,Pública,Nível II,Sem resposta,Sem resposta,54,63.718,228.499,63.718,230.138
+Nordeste,BA,Pública,Nível II,Sem resposta,Sim,1453,1728.261,238.729,1728.261,239.802
+Nordeste,BA,Pública,Nível II,Sim,Não,711,866.971,247.289,866.971,247.533
+Nordeste,BA,Pública,Nível II,Sim,Sem resposta,49,63.963,244.255,63.963,243.076
+Nordeste,BA,Pública,Nível II,Sim,Sim,2590,3107.264,255.806,3107.264,263.211
+Nordeste,BA,Pública,Nível III,Não,Não,826,981.571,246.151,981.571,248.731
+Nordeste,BA,Pública,Nível III,Não,Sem resposta,112,129.39,242.01,129.39,247.6
+Nordeste,BA,Pública,Nível III,Não,Sim,15722,18418.226,250.635,18418.226,254.786
+Nordeste,BA,Pública,Nível III,Sem resposta,Não,64,79.286,241.975,79.286,230.799
+Nordeste,BA,Pública,Nível III,Sem resposta,Sem resposta,37,48.508,232.028,48.508,224.54
+Nordeste,BA,Pública,Nível III,Sem resposta,Sim,980,1194.98,241.635,1194.98,242.793
+Nordeste,BA,Pública,Nível III,Sim,Não,416,500.756,253.504,500.756,259.214
+Nordeste,BA,Pública,Nível III,Sim,Sem resposta,60,70.915,240.18,70.915,246.122
+Nordeste,BA,Pública,Nível III,Sim,Sim,6237,7482.727,262.069,7482.727,270.437
+Nordeste,BA,Pública,Nível IV,Não,Não,187,226.609,250.085,226.609,249.144
+Nordeste,BA,Pública,Nível IV,Não,Sem resposta,72,90.091,244.591,90.091,243.073
+Nordeste,BA,Pública,Nível IV,Não,Sim,9373,10999.66,251.841,10999.66,253.686
+Nordeste,BA,Pública,Nível IV,Sem resposta,Não,31,35.125,238.953,35.125,220.244
+Nordeste,BA,Pública,Nível IV,Sem resposta,Sem resposta,28,34.211,236.019,34.211,217.704
+Nordeste,BA,Pública,Nível IV,Sem resposta,Sim,730,869.123,243.104,869.123,247.139
+Nordeste,BA,Pública,Nível IV,Sim,Não,271,331.125,255.881,331.125,261.003
+Nordeste,BA,Pública,Nível IV,Sim,Sem resposta,70,84.624,246.416,84.624,246.768
+Nordeste,BA,Pública,Nível IV,Sim,Sim,9094,10860.341,264.943,10860.341,271.498
+Nordeste,BA,Pública,Nível V,Não,Não,27,30.279,253.073,30.279,250.129
+Nordeste,BA,Pública,Nível V,Não,Sem resposta,26,34.341,227.029,34.341,221.721
+Nordeste,BA,Pública,Nível V,Não,Sim,3328,3902.269,251.39,3902.269,251.908
+Nordeste,BA,Pública,Nível V,Sem resposta,Não,7,8.791,235.298,8.791,238.137
+Nordeste,BA,Pública,Nível V,Sem resposta,Sem resposta,23,30.71,251.948,30.71,256.988
+Nordeste,BA,Pública,Nível V,Sem resposta,Sim,312,372.748,244.618,372.748,241.071
+Nordeste,BA,Pública,Nível V,Sim,Não,135,158.074,255.379,158.074,262.91
+Nordeste,BA,Pública,Nível V,Sim,Sem resposta,78,90.907,248.702,90.907,244.709
+Nordeste,BA,Pública,Nível V,Sim,Sim,8069,9588.363,266.542,9588.363,270.963
+Nordeste,BA,Pública,Nível VI,Não,Não,2,2.381,245.547,2.381,260.493
+Nordeste,BA,Pública,Nível VI,Não,Sem resposta,5,6.69,226.331,6.69,249.046
+Nordeste,BA,Pública,Nível VI,Não,Sim,666,770.84,250.653,770.84,251.892
+Nordeste,BA,Pública,Nível VI,Sem resposta,Sem resposta,6,7.086,241.361,7.086,228.325
+Nordeste,BA,Pública,Nível VI,Sem resposta,Sim,147,175.064,243.259,175.064,241.504
+Nordeste,BA,Pública,Nível VI,Sim,Não,27,30.471,262.097,30.471,261.091
+Nordeste,BA,Pública,Nível VI,Sim,Sem resposta,26,32.673,256.448,32.673,253.625
+Nordeste,BA,Pública,Nível VI,Sim,Sim,4691,5574.152,268.386,5574.152,271.77
+Nordeste,BA,Pública,Nível VII,Não,Não,1,1.217,222.929,1.217,212.437
+Nordeste,BA,Pública,Nível VII,Não,Sem resposta,3,3.814,240.094,3.814,247.337
+Nordeste,BA,Pública,Nível VII,Não,Sim,105,126.584,248.82,126.584,243.08
+Nordeste,BA,Pública,Nível VII,Sem resposta,Sem resposta,4,4.962,250.182,4.962,195.277
+Nordeste,BA,Pública,Nível VII,Sem resposta,Sim,53,65.179,234.545,65.179,230.325
+Nordeste,BA,Pública,Nível VII,Sim,Não,5,5.618,252.242,5.618,229.459
+Nordeste,BA,Pública,Nível VII,Sim,Sem resposta,16,20.684,250.29,20.684,230.732
+Nordeste,BA,Pública,Nível VII,Sim,Sim,2401,2821.269,271.06,2821.269,269.148
+Nordeste,BA,Pública,Nível VIII,Sem resposta,Sim,3,4.047,235.35,4.047,204.864
+Nordeste,BA,Pública,Nível VIII,Sim,Sem resposta,1,1.03,225.483,1.03,198.789
+Nordeste,BA,Pública,Nível VIII,Sim,Sim,198,235.923,260.558,235.923,257.379
+Nordeste,BA,Pública,Sem resposta,Não,Não,6,6.45,208.07,6.45,213.862
+Nordeste,BA,Pública,Sem resposta,Não,Sem resposta,64,79.026,229.977,79.026,223.992
+Nordeste,BA,Pública,Sem resposta,Não,Sim,9,12.485,234.499,12.485,212.379
+Nordeste,BA,Pública,Sem resposta,Sem resposta,Não,57,71.24,224.463,71.24,212.97
+Nordeste,BA,Pública,Sem resposta,Sem resposta,Sem resposta,5112,6239.365,247.404,6239.365,247.423
+Nordeste,BA,Pública,Sem resposta,Sem resposta,Sim,167,204.978,226.318,204.978,210.82
+Nordeste,BA,Pública,Sem resposta,Sim,Não,2,2.268,180.403,2.268,214.089
+Nordeste,BA,Pública,Sem resposta,Sim,Sem resposta,76,99.25,233.266,99.25,226.776
+Nordeste,BA,Pública,Sem resposta,Sim,Sim,17,20.667,216.99,20.667,213.809
+Nordeste,CE,Privada,Nível I,Não,Sim,1,7.222,229.047,7.222,217.065
+Nordeste,CE,Privada,Nível II,Não,Não,3,24.389,289.524,24.389,365.343
+Nordeste,CE,Privada,Nível II,Não,Sim,15,135.425,287.239,135.425,276.883
+Nordeste,CE,Privada,Nível II,Sem resposta,Não,1,17.326,280.235,17.326,301.634
+Nordeste,CE,Privada,Nível II,Sim,Sim,3,21.444,306.695,21.444,309.847
+Nordeste,CE,Privada,Nível III,Não,Não,1,6.419,320.291,6.419,319.658
+Nordeste,CE,Privada,Nível III,Não,Sim,14,107.232,296.997,107.232,307.861
+Nordeste,CE,Privada,Nível III,Sim,Não,2,21.658,257.115,21.658,305.238
+Nordeste,CE,Privada,Nível III,Sim,Sim,25,228.888,323.3,228.888,319.881
+Nordeste,CE,Privada,Nível IV,Não,Não,1,12.995,290.518,12.995,290.9
+Nordeste,CE,Privada,Nível IV,Não,Sim,30,261.165,297.227,261.165,297.643
+Nordeste,CE,Privada,Nível IV,Sem resposta,Sim,1,7.222,196.515,7.222,271.259
+Nordeste,CE,Privada,Nível IV,Sim,Não,2,17.329,269.848,17.329,248.555
+Nordeste,CE,Privada,Nível IV,Sim,Sim,76,741.265,323.961,741.265,323.725
+Nordeste,CE,Privada,Nível V,Não,Sim,23,228.47,273.463,228.47,291.894
+Nordeste,CE,Privada,Nível V,Sem resposta,Sim,2,17.97,277.596,17.97,338.938
+Nordeste,CE,Privada,Nível V,Sim,Sim,125,1292.517,311.411,1292.517,318.287
+Nordeste,CE,Privada,Nível VI,Não,Sim,15,156.912,300.664,156.912,301.523
+Nordeste,CE,Privada,Nível VI,Sim,Não,1,7.222,272.063,7.222,309.24
+Nordeste,CE,Privada,Nível VI,Sim,Sem resposta,1,10.107,235.361,10.107,190.714
+Nordeste,CE,Privada,Nível VI,Sim,Sim,188,1929.685,318.239,1929.685,315.544
+Nordeste,CE,Privada,Nível VII,Não,Sim,5,53.588,269.284,53.588,284.989
+Nordeste,CE,Privada,Nível VII,Sem resposta,Sim,2,23.104,245.438,23.104,262.22
+Nordeste,CE,Privada,Nível VII,Sim,Sem resposta,2,23.102,311.387,23.102,272.728
+Nordeste,CE,Privada,Nível VII,Sim,Sim,228,2252.665,322.947,2252.665,315.785
+Nordeste,CE,Privada,Nível VIII,Sim,Sim,67,668.255,316.277,668.255,308.163
+Nordeste,CE,Privada,Sem resposta,Sem resposta,Não,2,18.773,294.202,18.773,292.782
+Nordeste,CE,Privada,Sem resposta,Sem resposta,Sem resposta,56,483.651,313.617,483.651,300.457
+Nordeste,CE,Pública,Nível I,Não,Não,3416,3678.02,262.546,3678.02,261.65
+Nordeste,CE,Pública,Nível I,Não,Sem resposta,35,37.786,263.246,37.786,259.614
+Nordeste,CE,Pública,Nível I,Não,Sim,1257,1223.239,265.292,1223.239,266.495
+Nordeste,CE,Pública,Nível I,Sem resposta,Não,156,169.232,253.911,169.232,252.925
+Nordeste,CE,Pública,Nível I,Sem resposta,Sem resposta,4,3.45,222.873,3.45,235.703
+Nordeste,CE,Pública,Nível I,Sem resposta,Sim,36,30.409,267.219,30.409,254.707
+Nordeste,CE,Pública,Nível I,Sim,Não,59,61.031,261.658,61.031,263.751
+Nordeste,CE,Pública,Nível I,Sim,Sem resposta,1,1.0,251.777,1.0,245.204
+Nordeste,CE,Pública,Nível I,Sim,Sim,67,11.42,280.747,11.42,269.012
+Nordeste,CE,Pública,Nível II,Não,Não,3708,4021.684,267.242,4021.684,268.372
+Nordeste,CE,Pública,Nível II,Não,Sem resposta,184,199.181,260.269,199.181,260.955
+Nordeste,CE,Pública,Nível II,Não,Sim,21340,22990.958,270.522,22990.958,273.443
+Nordeste,CE,Pública,Nível II,Sem resposta,Não,191,207.47,255.702,207.47,255.743
+Nordeste,CE,Pública,Nível II,Sem resposta,Sem resposta,25,27.338,243.702,27.338,241.228
+Nordeste,CE,Pública,Nível II,Sem resposta,Sim,860,931.348,256.481,931.348,255.618
+Nordeste,CE,Pública,Nível II,Sim,Não,545,589.085,266.971,589.085,269.345
+Nordeste,CE,Pública,Nível II,Sim,Sem resposta,22,23.34,277.114,23.34,263.888
+Nordeste,CE,Pública,Nível II,Sim,Sim,2020,2178.209,281.227,2178.209,284.061
+Nordeste,CE,Pública,Nível III,Não,Não,541,588.488,267.374,588.488,265.954
+Nordeste,CE,Pública,Nível III,Não,Sem resposta,93,100.693,259.498,100.693,257.977
+Nordeste,CE,Pública,Nível III,Não,Sim,13814,14945.314,270.232,14945.314,274.28
+Nordeste,CE,Pública,Nível III,Sem resposta,Não,46,49.759,259.177,49.759,263.352
+Nordeste,CE,Pública,Nível III,Sem resposta,Sem resposta,13,14.542,256.959,14.542,248.438
+Nordeste,CE,Pública,Nível III,Sem resposta,Sim,621,672.725,258.29,672.725,261.534
+Nordeste,CE,Pública,Nível III,Sim,Não,267,292.874,272.702,292.874,279.527
+Nordeste,CE,Pública,Nível III,Sim,Sem resposta,45,51.219,269.304,51.219,273.419
+Nordeste,CE,Pública,Nível III,Sim,Sim,4504,4873.484,285.588,4873.484,290.1
+Nordeste,CE,Pública,Nível IV,Não,Não,155,167.301,268.592,167.301,270.205
+Nordeste,CE,Pública,Nível IV,Não,Sem resposta,56,61.466,255.061,61.466,258.768
+Nordeste,CE,Pública,Nível IV,Não,Sim,7995,8635.87,270.584,8635.87,275.218
+Nordeste,CE,Pública,Nível IV,Sem resposta,Não,17,18.37,247.093,18.37,250.389
+Nordeste,CE,Pública,Nível IV,Sem resposta,Sem resposta,11,13.229,260.89,13.229,277.311
+Nordeste,CE,Pública,Nível IV,Sem resposta,Sim,400,444.484,257.196,444.484,257.516
+Nordeste,CE,Pública,Nível IV,Sim,Não,196,209.71,275.478,209.71,274.683
+Nordeste,CE,Pública,Nível IV,Sim,Sem resposta,65,69.977,275.632,69.977,271.231
+Nordeste,CE,Pública,Nível IV,Sim,Sim,6462,6954.996,285.92,6954.996,291.793
+Nordeste,CE,Pública,Nível V,Não,Não,25,27.829,277.909,27.829,266.593
+Nordeste,CE,Pública,Nível V,Não,Sem resposta,13,14.799,243.144,14.799,219.318
+Nordeste,CE,Pública,Nível V,Não,Sim,2945,3184.441,272.487,3184.441,274.71
+Nordeste,CE,Pública,Nível V,Sem resposta,Não,1,1.045,343.693,1.045,222.635
+Nordeste,CE,Pública,Nível V,Sem resposta,Sem resposta,6,6.577,263.461,6.577,235.832
+Nordeste,CE,Pública,Nível V,Sem resposta,Sim,224,240.218,260.239,240.218,260.737
+Nordeste,CE,Pública,Nível V,Sim,Não,79,89.156,276.268,89.156,283.267
+Nordeste,CE,Pública,Nível V,Sim,Sem resposta,45,50.717,256.947,50.717,265.017
+Nordeste,CE,Pública,Nível V,Sim,Sim,5741,6255.548,289.412,6255.548,292.688
+Nordeste,CE,Pública,Nível VI,Não,Sem resposta,5,5.561,268.89,5.561,234.139
+Nordeste,CE,Pública,Nível VI,Não,Sim,657,711.963,266.054,711.963,272.353
+Nordeste,CE,Pública,Nível VI,Sem resposta,Sem resposta,5,5.356,248.72,5.356,239.84
+Nordeste,CE,Pública,Nível VI,Sem resposta,Sim,87,92.944,256.448,92.944,259.501
+Nordeste,CE,Pública,Nível VI,Sim,Não,29,31.472,283.014,31.472,289.511
+Nordeste,CE,Pública,Nível VI,Sim,Sem resposta,18,19.527,261.666,19.527,260.53
+Nordeste,CE,Pública,Nível VI,Sim,Sim,3378,3688.009,290.913,3688.009,294.234
+Nordeste,CE,Pública,Nível VII,Não,Não,1,1.0,261.383,1.0,176.431
+Nordeste,CE,Pública,Nível VII,Não,Sim,98,104.959,262.171,104.959,257.857
+Nordeste,CE,Pública,Nível VII,Sem resposta,Sem resposta,2,2.08,359.467,2.08,283.37
+Nordeste,CE,Pública,Nível VII,Sem resposta,Sim,30,31.962,265.255,31.962,266.667
+Nordeste,CE,Pública,Nível VII,Sim,Não,9,9.409,266.222,9.409,254.845
+Nordeste,CE,Pública,Nível VII,Sim,Sem resposta,13,13.769,248.869,13.769,256.378
+Nordeste,CE,Pública,Nível VII,Sim,Sim,1879,2070.953,292.22,2070.953,291.22
+Nordeste,CE,Pública,Nível VIII,Sem resposta,Sim,3,3.815,208.438,3.815,182.371
+Nordeste,CE,Pública,Nível VIII,Sim,Sem resposta,2,2.182,284.383,2.182,349.322
+Nordeste,CE,Pública,Nível VIII,Sim,Sim,150,168.477,283.705,168.477,279.189
+Nordeste,CE,Pública,Sem resposta,Não,Não,1,1.069,261.268,1.069,313.855
+Nordeste,CE,Pública,Sem resposta,Não,Sem resposta,47,51.035,244.986,51.035,243.051
+Nordeste,CE,Pública,Sem resposta,Não,Sim,7,7.362,228.819,7.362,232.497
+Nordeste,CE,Pública,Sem resposta,Sem resposta,Não,52,54.422,246.512,54.422,253.329
+Nordeste,CE,Pública,Sem resposta,Sem resposta,Sem resposta,4624,5043.133,266.989,5043.133,268.774
+Nordeste,CE,Pública,Sem resposta,Sem resposta,Sim,118,128.725,233.96,128.725,219.309
+Nordeste,CE,Pública,Sem resposta,Sim,Não,2,2.174,213.655,2.174,173.662
+Nordeste,CE,Pública,Sem resposta,Sim,Sem resposta,29,31.859,240.762,31.859,241.86
+Nordeste,CE,Pública,Sem resposta,Sim,Sim,10,11.109,245.101,11.109,227.947
+Nordeste,MA,Privada,Nível I,Não,Não,6,9.797,246.169,9.797,249.052
+Nordeste,MA,Privada,Nível I,Não,Sim,17,1.598,273.863,1.598,346.835
+Nordeste,MA,Privada,Nível I,Sem resposta,Não,1,2.605,268.898,2.605,304.09
+Nordeste,MA,Privada,Nível I,Sem resposta,Sim,2,1.598,251.879,1.598,201.777
+Nordeste,MA,Privada,Nível I,Sim,Não,1,0.0,,0.0,
+Nordeste,MA,Privada,Nível I,Sim,Sim,31,0.0,,0.0,
+Nordeste,MA,Privada,Nível II,Não,Não,23,44.765,248.553,44.765,261.45
+Nordeste,MA,Privada,Nível II,Não,Sim,66,120.274,268.96,120.274,276.791
+Nordeste,MA,Privada,Nível II,Sem resposta,Não,3,5.594,244.513,5.594,217.325
+Nordeste,MA,Privada,Nível II,Sem resposta,Sim,3,3.614,249.521,3.614,233.193
+Nordeste,MA,Privada,Nível II,Sim,Não,6,13.61,279.308,13.61,286.049
+Nordeste,MA,Privada,Nível II,Sim,Sem resposta,1,1.598,297.103,1.598,306.214
+Nordeste,MA,Privada,Nível II,Sim,Sim,13,18.829,277.183,18.829,272.16
+Nordeste,MA,Privada,Nível III,Não,Não,3,6.381,259.449,6.381,294.127
+Nordeste,MA,Privada,Nível III,Não,Sem resposta,2,3.907,229.352,3.907,252.45
+Nordeste,MA,Privada,Nível III,Não,Sim,93,205.449,286.343,205.449,287.357
+Nordeste,MA,Privada,Nível III,Sem resposta,Não,1,1.156,309.502,1.156,276.316
+Nordeste,MA,Privada,Nível III,Sem resposta,Sim,2,4.203,295.789,4.203,268.639
+Nordeste,MA,Privada,Nível III,Sim,Não,12,20.347,271.662,20.347,258.217
+Nordeste,MA,Privada,Nível III,Sim,Sim,53,103.411,293.947,103.411,307.134
+Nordeste,MA,Privada,Nível IV,Não,Não,3,6.511,264.926,6.511,264.018
+Nordeste,MA,Privada,Nível IV,Não,Sem resposta,1,3.48,315.678,3.48,317.39
+Nordeste,MA,Privada,Nível IV,Não,Sim,91,181.324,284.566,181.324,292.767
+Nordeste,MA,Privada,Nível IV,Sem resposta,Sim,4,13.851,286.074,13.851,265.619
+Nordeste,MA,Privada,Nível IV,Sim,Não,10,20.77,303.184,20.77,337.448
+Nordeste,MA,Privada,Nível IV,Sim,Sim,172,315.774,305.199,315.774,305.305
+Nordeste,MA,Privada,Nível V,Não,Sim,54,115.721,293.332,115.721,302.514
+Nordeste,MA,Privada,Nível V,Sem resposta,Sim,4,7.541,254.452,7.541,252.115
+Nordeste,MA,Privada,Nível V,Sim,Não,7,15.071,288.777,15.071,297.954
+Nordeste,MA,Privada,Nível V,Sim,Sem resposta,1,3.48,320.191,3.48,337.853
+Nordeste,MA,Privada,Nível V,Sim,Sim,319,638.867,306.516,638.867,310.034
+Nordeste,MA,Privada,Nível VI,Não,Sim,27,53.322,301.539,53.322,298.21
+Nordeste,MA,Privada,Nível VI,Sem resposta,Sim,2,2.605,307.11,2.605,352.781
+Nordeste,MA,Privada,Nível VI,Sim,Não,3,3.907,312.597,3.907,300.889
+Nordeste,MA,Privada,Nível VI,Sim,Sem resposta,2,3.291,280.097,3.291,294.453
+Nordeste,MA,Privada,Nível VI,Sim,Sim,392,802.833,307.202,802.833,312.706
+Nordeste,MA,Privada,Nível VII,Não,Sim,8,18.985,353.333,18.985,332.835
+Nordeste,MA,Privada,Nível VII,Sem resposta,Sem resposta,1,4.972,417.031,4.972,366.251
+Nordeste,MA,Privada,Nível VII,Sem resposta,Sim,5,11.294,297.793,11.294,281.336
+Nordeste,MA,Privada,Nível VII,Sim,Não,2,3.256,296.523,3.256,193.738
+Nordeste,MA,Privada,Nível VII,Sim,Sem resposta,1,1.302,301.983,1.302,280.225
+Nordeste,MA,Privada,Nível VII,Sim,Sim,564,1244.156,326.308,1244.156,317.069
+Nordeste,MA,Privada,Nível VIII,Sim,Sim,146,354.197,324.816,354.197,310.898
+Nordeste,MA,Privada,Sem resposta,Sem resposta,Sem resposta,98,193.752,296.536,193.752,297.681
+Nordeste,MA,Pública,Nível I,Não,Não,1720,1957.404,240.556,1957.404,241.68
+Nordeste,MA,Pública,Nível I,Não,Sem resposta,25,29.747,216.076,29.747,225.832
+Nordeste,MA,Pública,Nível I,Não,Sim,394,321.025,234.695,321.025,234.064
+Nordeste,MA,Pública,Nível I,Sem resposta,Não,197,225.064,231.787,225.064,234.83
+Nordeste,MA,Pública,Nível I,Sem resposta,Sem resposta,10,9.941,225.287,9.941,202.161
+Nordeste,MA,Pública,Nível I,Sem resposta,Sim,39,31.553,237.43,31.553,222.542
+Nordeste,MA,Pública,Nível I,Sim,Não,40,44.034,232.731,44.034,234.728
+Nordeste,MA,Pública,Nível I,Sim,Sim,47,1.167,174.323,1.167,198.123
+Nordeste,MA,Pública,Nível II,Não,Não,4436,5062.72,246.557,5062.72,249.255
+Nordeste,MA,Pública,Nível II,Não,Sem resposta,173,205.137,233.715,205.137,240.519
+Nordeste,MA,Pública,Nível II,Não,Sim,11446,13043.301,245.38,13043.301,249.943
+Nordeste,MA,Pública,Nível II,Sem resposta,Não,395,452.167,237.174,452.167,237.617
+Nordeste,MA,Pública,Nível II,Sem resposta,Sem resposta,41,50.55,226.645,50.55,218.388
+Nordeste,MA,Pública,Nível II,Sem resposta,Sim,921,1047.014,239.538,1047.014,239.824
+Nordeste,MA,Pública,Nível II,Sim,Não,506,582.154,247.295,582.154,250.437
+Nordeste,MA,Pública,Nível II,Sim,Sem resposta,28,32.245,230.143,32.245,233.798
+Nordeste,MA,Pública,Nível II,Sim,Sim,1022,1155.415,255.317,1155.415,261.951
+Nordeste,MA,Pública,Nível III,Não,Não,735,839.669,246.126,839.669,246.529
+Nordeste,MA,Pública,Nível III,Não,Sem resposta,123,143.749,237.442,143.749,239.412
+Nordeste,MA,Pública,Nível III,Não,Sim,10401,11803.579,248.753,11803.579,252.093
+Nordeste,MA,Pública,Nível III,Sem resposta,Não,88,100.071,238.157,100.071,228.266
+Nordeste,MA,Pública,Nível III,Sem resposta,Sem resposta,33,37.883,228.672,37.883,216.482
+Nordeste,MA,Pública,Nível III,Sem resposta,Sim,819,960.117,239.77,960.117,237.89
+Nordeste,MA,Pública,Nível III,Sim,Não,257,291.026,260.332,291.026,264.31
+Nordeste,MA,Pública,Nível III,Sim,Sem resposta,39,46.942,247.117,46.942,239.778
+Nordeste,MA,Pública,Nível III,Sim,Sim,3174,3562.91,260.78,3562.91,267.028
+Nordeste,MA,Pública,Nível IV,Não,Não,175,198.188,248.25,198.188,247.25
+Nordeste,MA,Pública,Nível IV,Não,Sem resposta,52,57.17,228.766,57.17,222.639
+Nordeste,MA,Pública,Nível IV,Não,Sim,6134,6894.34,250.436,6894.34,253.097
+Nordeste,MA,Pública,Nível IV,Sem resposta,Não,16,17.24,240.533,17.24,233.548
+Nordeste,MA,Pública,Nível IV,Sem resposta,Sem resposta,31,34.44,240.932,34.44,231.405
+Nordeste,MA,Pública,Nível IV,Sem resposta,Sim,610,693.439,239.67,693.439,240.839
+Nordeste,MA,Pública,Nível IV,Sim,Não,184,203.111,251.993,203.111,253.563
+Nordeste,MA,Pública,Nível IV,Sim,Sem resposta,54,60.329,237.147,60.329,237.317
+Nordeste,MA,Pública,Nível IV,Sim,Sim,4877,5527.009,263.632,5527.009,270.657
+Nordeste,MA,Pública,Nível V,Não,Não,23,30.017,254.367,30.017,250.014
+Nordeste,MA,Pública,Nível V,Não,Sem resposta,24,26.195,242.183,26.195,247.596
+Nordeste,MA,Pública,Nível V,Não,Sim,2091,2338.74,251.752,2338.74,253.773
+Nordeste,MA,Pública,Nível V,Sem resposta,Não,7,8.321,204.153,8.321,212.581
+Nordeste,MA,Pública,Nível V,Sem resposta,Sem resposta,11,12.624,229.496,12.624,234.31
+Nordeste,MA,Pública,Nível V,Sem resposta,Sim,275,313.72,237.125,313.72,242.697
+Nordeste,MA,Pública,Nível V,Sim,Não,90,98.927,263.804,98.927,269.823
+Nordeste,MA,Pública,Nível V,Sim,Sem resposta,47,53.035,237.853,53.035,239.024
+Nordeste,MA,Pública,Nível V,Sim,Sim,4185,4696.156,266.878,4696.156,273.215
+Nordeste,MA,Pública,Nível VI,Não,Não,3,3.452,268.55,3.452,275.881
+Nordeste,MA,Pública,Nível VI,Não,Sem resposta,3,3.991,271.819,3.991,278.243
+Nordeste,MA,Pública,Nível VI,Não,Sim,413,462.437,250.821,462.437,253.386
+Nordeste,MA,Pública,Nível VI,Sem resposta,Não,2,2.336,210.613,2.336,200.109
+Nordeste,MA,Pública,Nível VI,Sem resposta,Sem resposta,3,3.286,214.623,3.286,193.391
+Nordeste,MA,Pública,Nível VI,Sem resposta,Sim,106,122.487,233.723,122.487,233.735
+Nordeste,MA,Pública,Nível VI,Sim,Não,6,6.433,266.476,6.433,241.344
+Nordeste,MA,Pública,Nível VI,Sim,Sem resposta,24,26.42,252.265,26.42,238.436
+Nordeste,MA,Pública,Nível VI,Sim,Sim,2470,2760.817,268.764,2760.817,274.017
+Nordeste,MA,Pública,Nível VII,Não,Não,1,1.067,258.838,1.067,299.458
+Nordeste,MA,Pública,Nível VII,Não,Sim,56,61.11,247.114,61.11,242.424
+Nordeste,MA,Pública,Nível VII,Sem resposta,Não,2,2.315,208.91,2.315,196.252
+Nordeste,MA,Pública,Nível VII,Sem resposta,Sem resposta,1,1.114,186.021,1.114,185.228
+Nordeste,MA,Pública,Nível VII,Sem resposta,Sim,39,43.769,225.691,43.769,229.496
+Nordeste,MA,Pública,Nível VII,Sim,Não,9,9.432,250.15,9.432,242.248
+Nordeste,MA,Pública,Nível VII,Sim,Sem resposta,11,12.647,261.596,12.647,265.376
+Nordeste,MA,Pública,Nível VII,Sim,Sim,1115,1241.829,269.404,1241.829,270.35
+Nordeste,MA,Pública,Nível VIII,Não,Sim,1,1.212,259.075,1.212,193.218
+Nordeste,MA,Pública,Nível VIII,Sem resposta,Sim,2,1.95,345.582,1.95,323.307
+Nordeste,MA,Pública,Nível VIII,Sim,Sem resposta,2,2.15,181.221,2.15,165.22
+Nordeste,MA,Pública,Nível VIII,Sim,Sim,100,113.482,260.372,113.482,251.796
+Nordeste,MA,Pública,Sem resposta,Não,Não,2,2.567,199.486,2.567,189.129
+Nordeste,MA,Pública,Sem resposta,Não,Sem resposta,40,45.824,226.179,45.824,217.095
+Nordeste,MA,Pública,Sem resposta,Não,Sim,9,10.663,220.705,10.663,222.38
+Nordeste,MA,Pública,Sem resposta,Sem resposta,Não,44,48.291,224.31,48.291,216.406
+Nordeste,MA,Pública,Sem resposta,Sem resposta,Sem resposta,3308,3758.008,244.197,3758.008,245.594
+Nordeste,MA,Pública,Sem resposta,Sem resposta,Sim,172,206.643,219.487,206.643,208.002
+Nordeste,MA,Pública,Sem resposta,Sim,Não,4,4.36,225.097,4.36,197.846
+Nordeste,MA,Pública,Sem resposta,Sim,Sem resposta,46,53.839,241.729,53.839,220.424
+Nordeste,MA,Pública,Sem resposta,Sim,Sim,17,20.822,218.316,20.822,202.078
+Nordeste,PB,Privada,Nível I,Não,Não,1,3.327,329.703,3.327,198.552
+Nordeste,PB,Privada,Nível I,Sim,Sim,1,0.0,,0.0,
+Nordeste,PB,Privada,Nível II,Não,Não,8,25.787,316.05,25.787,312.598
+Nordeste,PB,Privada,Nível II,Não,Sim,25,87.237,297.528,87.237,278.057
+Nordeste,PB,Privada,Nível II,Sem resposta,Sim,1,2.496,214.512,2.496,311.947
+Nordeste,PB,Privada,Nível II,Sim,Não,1,2.496,295.342,2.496,322.454
+Nordeste,PB,Privada,Nível II,Sim,Sim,3,8.318,298.686,8.318,315.337
+Nordeste,PB,Privada,Nível III,Não,Não,3,11.004,275.44,11.004,296.765
+Nordeste,PB,Privada,Nível III,Não,Sim,56,220.084,293.608,220.084,293.284
+Nordeste,PB,Privada,Nível III,Sem resposta,Sim,3,12.177,220.839,12.177,286.572
+Nordeste,PB,Privada,Nível III,Sim,Não,2,7.071,262.487,7.071,308.921
+Nordeste,PB,Privada,Nível III,Sim,Sim,35,119.489,311.413,119.489,313.469
+Nordeste,PB,Privada,Nível IV,Não,Não,3,9.756,282.913,9.756,294.595
+Nordeste,PB,Privada,Nível IV,Não,Sem resposta,1,4.159,352.658,4.159,319.752
+Nordeste,PB,Privada,Nível IV,Não,Sim,71,274.918,287.331,274.918,296.779
+Nordeste,PB,Privada,Nível IV,Sem resposta,Sem resposta,1,4.765,272.419,4.765,229.794
+Nordeste,PB,Privada,Nível IV,Sem resposta,Sim,1,6.354,225.686,6.354,267.095
+Nordeste,PB,Privada,Nível IV,Sim,Não,1,4.765,283.842,4.765,264.82
+Nordeste,PB,Privada,Nível IV,Sim,Sem resposta,1,7.148,441.515,7.148,376.995
+Nordeste,PB,Privada,Nível IV,Sim,Sim,116,446.926,305.784,446.926,311.749
+Nordeste,PB,Privada,Nível V,Não,Sim,44,177.283,285.453,177.283,291.695
+Nordeste,PB,Privada,Nível V,Sem resposta,Sim,4,15.92,295.031,15.92,294.13
+Nordeste,PB,Privada,Nível V,Sim,Não,2,9.681,266.131,9.681,360.182
+Nordeste,PB,Privada,Nível V,Sim,Sem resposta,2,8.509,318.819,8.509,291.333
+Nordeste,PB,Privada,Nível V,Sim,Sim,197,765.361,306.523,765.361,301.821
+Nordeste,PB,Privada,Nível VI,Não,Sim,29,113.219,285.748,113.219,280.617
+Nordeste,PB,Privada,Nível VI,Sem resposta,Sem resposta,2,9.756,306.786,9.756,319.425
+Nordeste,PB,Privada,Nível VI,Sem resposta,Sim,4,10.814,247.933,10.814,289.378
+Nordeste,PB,Privada,Nível VI,Sim,Sim,280,1130.516,299.504,1130.516,297.587
+Nordeste,PB,Privada,Nível VII,Não,Sim,7,36.38,330.732,36.38,326.619
+Nordeste,PB,Privada,Nível VII,Sem resposta,Sim,1,7.148,410.617,7.148,358.258
+Nordeste,PB,Privada,Nível VII,Sim,Não,2,10.097,315.532,10.097,289.48
+Nordeste,PB,Privada,Nível VII,Sim,Sem resposta,2,8.849,263.511,8.849,302.818
+Nordeste,PB,Privada,Nível VII,Sim,Sim,301,1272.263,309.591,1272.263,300.462
+Nordeste,PB,Privada,Nível VIII,Sim,Sem resposta,1,3.327,291.982,3.327,303.285
+Nordeste,PB,Privada,Nível VIII,Sim,Sim,68,329.711,327.571,329.711,311.016
+Nordeste,PB,Privada,Sem resposta,Sem resposta,Sem resposta,103,406.887,299.821,406.887,297.338
+Nordeste,PB,Pública,Nível I,Não,Não,619,706.533,250.09,706.533,249.321
+Nordeste,PB,Pública,Nível I,Não,Sem resposta,8,8.867,227.988,8.867,232.256
+Nordeste,PB,Pública,Nível I,Não,Sim,232,213.363,247.25,213.363,255.914
+Nordeste,PB,Pública,Nível I,Sem resposta,Não,34,40.192,243.04,40.192,238.705
+Nordeste,PB,Pública,Nível I,Sem resposta,Sem resposta,2,2.225,196.01,2.225,191.214
+Nordeste,PB,Pública,Nível I,Sem resposta,Sim,12,15.793,230.533,15.793,257.845
+Nordeste,PB,Pública,Nível I,Sim,Não,20,19.78,255.422,19.78,258.115
+Nordeste,PB,Pública,Nível I,Sim,Sem resposta,1,0.0,,0.0,
+Nordeste,PB,Pública,Nível I,Sim,Sim,19,1.111,267.775,1.111,253.547
+Nordeste,PB,Pública,Nível II,Não,Não,941,1099.144,255.42,1099.144,261.921
+Nordeste,PB,Pública,Nível II,Não,Sem resposta,48,54.856,252.096,54.856,254.129
+Nordeste,PB,Pública,Nível II,Não,Sim,5095,6004.833,258.329,6004.833,264.609
+Nordeste,PB,Pública,Nível II,Sem resposta,Não,72,87.958,247.12,87.958,256.592
+Nordeste,PB,Pública,Nível II,Sem resposta,Sem resposta,9,9.767,224.758,9.767,210.958
+Nordeste,PB,Pública,Nível II,Sem resposta,Sim,238,276.842,250.238,276.842,248.137
+Nordeste,PB,Pública,Nível II,Sim,Não,147,168.436,268.626,168.436,270.856
+Nordeste,PB,Pública,Nível II,Sim,Sem resposta,5,6.65,247.823,6.65,271.177
+Nordeste,PB,Pública,Nível II,Sim,Sim,668,788.118,271.924,788.118,278.028
+Nordeste,PB,Pública,Nível III,Não,Não,212,270.519,251.049,270.519,257.551
+Nordeste,PB,Pública,Nível III,Não,Sem resposta,32,39.208,247.065,39.208,255.635
+Nordeste,PB,Pública,Nível III,Não,Sim,3973,4673.022,258.805,4673.022,265.164
+Nordeste,PB,Pública,Nível III,Sem resposta,Não,17,21.168,233.117,21.168,241.132
+Nordeste,PB,Pública,Nível III,Sem resposta,Sem resposta,4,4.643,267.544,4.643,211.59
+Nordeste,PB,Pública,Nível III,Sem resposta,Sim,208,255.938,246.233,255.938,248.023
+Nordeste,PB,Pública,Nível III,Sim,Não,93,110.026,264.875,110.026,275.531
+Nordeste,PB,Pública,Nível III,Sim,Sem resposta,8,8.742,273.096,8.742,279.278
+Nordeste,PB,Pública,Nível III,Sim,Sim,1629,1942.178,271.318,1942.178,280.189
+Nordeste,PB,Pública,Nível IV,Não,Não,62,71.084,252.297,71.084,260.585
+Nordeste,PB,Pública,Nível IV,Não,Sem resposta,26,31.377,242.822,31.377,248.267
+Nordeste,PB,Pública,Nível IV,Não,Sim,2577,3080.096,258.584,3080.096,264.049
+Nordeste,PB,Pública,Nível IV,Sem resposta,Não,3,3.707,224.343,3.707,282.381
+Nordeste,PB,Pública,Nível IV,Sem resposta,Sem resposta,3,5.298,232.178,5.298,251.058
+Nordeste,PB,Pública,Nível IV,Sem resposta,Sim,152,189.872,246.616,189.872,249.287
+Nordeste,PB,Pública,Nível IV,Sim,Não,63,81.848,263.7,81.848,282.096
+Nordeste,PB,Pública,Nível IV,Sim,Sem resposta,14,15.218,262.302,15.218,275.889
+Nordeste,PB,Pública,Nível IV,Sim,Sim,2436,2905.599,274.412,2905.599,285.056
+Nordeste,PB,Pública,Nível V,Não,Não,13,16.058,264.193,16.058,285.436
+Nordeste,PB,Pública,Nível V,Não,Sem resposta,7,9.607,227.486,9.607,236.445
+Nordeste,PB,Pública,Nível V,Não,Sim,994,1252.279,265.758,1252.279,269.205
+Nordeste,PB,Pública,Nível V,Sem resposta,Não,1,1.065,252.341,1.065,244.446
+Nordeste,PB,Pública,Nível V,Sem resposta,Sem resposta,4,4.982,221.475,4.982,236.839
+Nordeste,PB,Pública,Nível V,Sem resposta,Sim,70,84.787,261.856,84.787,257.732
+Nordeste,PB,Pública,Nível V,Sim,Não,32,42.775,267.112,42.775,286.097
+Nordeste,PB,Pública,Nível V,Sim,Sem resposta,17,19.603,249.392,19.603,260.384
+Nordeste,PB,Pública,Nível V,Sim,Sim,2123,2545.378,275.05,2545.378,282.694
+Nordeste,PB,Pública,Nível VI,Não,Sem resposta,1,2.003,288.504,2.003,327.959
+Nordeste,PB,Pública,Nível VI,Não,Sim,193,225.55,257.643,225.55,258.287
+Nordeste,PB,Pública,Nível VI,Sem resposta,Sem resposta,1,0.868,214.421,0.868,272.74
+Nordeste,PB,Pública,Nível VI,Sem resposta,Sim,32,38.146,251.853,38.146,254.209
+Nordeste,PB,Pública,Nível VI,Sim,Não,6,6.761,263.184,6.761,287.47
+Nordeste,PB,Pública,Nível VI,Sim,Sem resposta,4,5.235,245.097,5.235,216.437
+Nordeste,PB,Pública,Nível VI,Sim,Sim,1243,1499.938,280.059,1499.938,283.372
+Nordeste,PB,Pública,Nível VII,Não,Sem resposta,1,1.0,316.063,1.0,266.57
+Nordeste,PB,Pública,Nível VII,Não,Sim,17,21.311,244.863,21.311,251.108
+Nordeste,PB,Pública,Nível VII,Sem resposta,Sim,11,13.102,254.782,13.102,247.77
+Nordeste,PB,Pública,Nível VII,Sim,Não,2,2.16,277.305,2.16,293.419
+Nordeste,PB,Pública,Nível VII,Sim,Sem resposta,2,2.305,270.984,2.305,295.316
+Nordeste,PB,Pública,Nível VII,Sim,Sim,618,756.948,279.293,756.948,283.546
+Nordeste,PB,Pública,Nível VIII,Sem resposta,Sim,1,1.422,196.137,1.422,170.855
+Nordeste,PB,Pública,Nível VIII,Sim,Sim,44,53.117,284.904,53.117,273.008
+Nordeste,PB,Pública,Sem resposta,Não,Sem resposta,12,15.156,253.31,15.156,255.734
+Nordeste,PB,Pública,Sem resposta,Não,Sim,1,0.905,290.234,0.905,314.588
+Nordeste,PB,Pública,Sem resposta,Sem resposta,Não,30,35.612,259.002,35.612,253.875
+Nordeste,PB,Pública,Sem resposta,Sem resposta,Sem resposta,2130,2635.463,258.854,2635.463,265.676
+Nordeste,PB,Pública,Sem resposta,Sem resposta,Sim,35,46.604,215.464,46.604,208.7
+Nordeste,PB,Pública,Sem resposta,Sim,Não,2,2.693,280.417,2.693,250.143
+Nordeste,PB,Pública,Sem resposta,Sim,Sem resposta,6,7.683,232.72,7.683,227.05
+Nordeste,PB,Pública,Sem resposta,Sim,Sim,9,11.473,234.902,11.473,201.494
+Nordeste,PE,Privada,Nível II,Não,Não,2,13.172,273.72,13.172,298.713
+Nordeste,PE,Privada,Nível II,Não,Sem resposta,1,8.196,377.482,8.196,259.037
+Nordeste,PE,Privada,Nível II,Não,Sim,25,159.2,308.754,159.2,298.626
+Nordeste,PE,Privada,Nível II,Sem resposta,Sim,1,4.734,327.372,4.734,293.641
+Nordeste,PE,Privada,Nível II,Sim,Não,1,4.734,296.699,4.734,269.779
+Nordeste,PE,Privada,Nível II,Sim,Sim,2,14.202,313.412,14.202,335.0
+Nordeste,PE,Privada,Nível III,Não,Sim,43,255.368,297.504,255.368,302.114
+Nordeste,PE,Privada,Nível III,Sem resposta,Não,1,5.523,228.909,5.523,209.428
+Nordeste,PE,Privada,Nível III,Sem resposta,Sim,1,4.734,228.428,4.734,309.093
+Nordeste,PE,Privada,Nível III,Sim,Não,3,20.031,246.429,20.031,283.01
+Nordeste,PE,Privada,Nível III,Sim,Sim,38,253.408,294.335,253.408,303.917
+Nordeste,PE,Privada,Nível IV,Não,Sim,51,302.596,287.73,302.596,285.383
+Nordeste,PE,Privada,Nível IV,Sem resposta,Sim,3,24.038,302.456,24.038,273.969
+Nordeste,PE,Privada,Nível IV,Sim,Não,2,11.046,308.951,11.046,305.753
+Nordeste,PE,Privada,Nível IV,Sim,Sim,111,715.001,300.195,715.001,302.818
+Nordeste,PE,Privada,Nível V,Não,Sim,49,324.645,296.07,324.645,302.44
+Nordeste,PE,Privada,Nível V,Sem resposta,Sim,8,56.208,287.498,56.208,307.603
+Nordeste,PE,Privada,Nível V,Sim,Não,2,13.719,295.169,13.719,333.343
+Nordeste,PE,Privada,Nível V,Sim,Sem resposta,1,4.734,272.91,4.734,272.302
+Nordeste,PE,Privada,Nível V,Sim,Sim,236,1538.355,305.434,1538.355,305.716
+Nordeste,PE,Privada,Nível VI,Não,Sim,17,100.27,288.616,100.27,274.303
+Nordeste,PE,Privada,Nível VI,Sem resposta,Sim,5,31.623,296.483,31.623,283.44
+Nordeste,PE,Privada,Nível VI,Sim,Não,4,23.733,300.569,23.733,305.573
+Nordeste,PE,Privada,Nível VI,Sim,Sem resposta,3,15.386,311.93,15.386,309.454
+Nordeste,PE,Privada,Nível VI,Sim,Sim,292,1909.729,310.252,1909.729,306.597
+Nordeste,PE,Privada,Nível VII,Não,Sim,7,44.704,326.186,44.704,321.784
+Nordeste,PE,Privada,Nível VII,Sem resposta,Sem resposta,1,4.734,312.544,4.734,345.022
+Nordeste,PE,Privada,Nível VII,Sim,Não,3,23.796,350.263,23.796,318.391
+Nordeste,PE,Privada,Nível VII,Sim,Sem resposta,2,10.652,260.054,10.652,234.415
+Nordeste,PE,Privada,Nível VII,Sim,Sim,436,2866.808,324.367,2866.808,311.346
+Nordeste,PE,Privada,Nível VIII,Sim,Sem resposta,1,5.129,298.719,5.129,276.562
+Nordeste,PE,Privada,Nível VIII,Sim,Sim,111,771.754,336.294,771.754,307.555
+Nordeste,PE,Privada,Sem resposta,Não,Sem resposta,1,5.523,240.832,5.523,312.855
+Nordeste,PE,Privada,Sem resposta,Sem resposta,Sem resposta,125,809.775,302.275,809.775,302.139
+Nordeste,PE,Privada,Sem resposta,Sim,Sem resposta,1,8.742,253.777,8.742,296.11
+Nordeste,PE,Pública,Nível I,Não,Não,1465,1548.999,267.808,1548.999,264.945
+Nordeste,PE,Pública,Nível I,Não,Sem resposta,19,15.762,246.511,15.762,227.555
+Nordeste,PE,Pública,Nível I,Não,Sim,747,475.151,263.385,475.151,263.608
+Nordeste,PE,Pública,Nível I,Sem resposta,Não,106,107.676,259.735,107.676,253.761
+Nordeste,PE,Pública,Nível I,Sem resposta,Sem resposta,1,0.0,,0.0,
+Nordeste,PE,Pública,Nível I,Sem resposta,Sim,48,23.093,256.387,23.093,261.835
+Nordeste,PE,Pública,Nível I,Sim,Não,25,22.981,279.21,22.981,268.716
+Nordeste,PE,Pública,Nível I,Sim,Sem resposta,4,2.68,228.362,2.68,299.653
+Nordeste,PE,Pública,Nível I,Sim,Sim,147,1.972,206.915,1.972,276.272
+Nordeste,PE,Pública,Nível II,Não,Não,2293,2467.801,268.485,2467.801,268.576
+Nordeste,PE,Pública,Nível II,Não,Sem resposta,138,144.572,265.861,144.572,263.742
+Nordeste,PE,Pública,Nível II,Não,Sim,13038,14029.566,272.18,14029.566,273.919
+Nordeste,PE,Pública,Nível II,Sem resposta,Não,150,160.419,256.023,160.419,258.744
+Nordeste,PE,Pública,Nível II,Sem resposta,Sem resposta,15,16.597,249.091,16.597,236.263
+Nordeste,PE,Pública,Nível II,Sem resposta,Sim,733,789.616,259.656,789.616,259.704
+Nordeste,PE,Pública,Nível II,Sim,Não,315,341.674,268.157,341.674,271.878
+Nordeste,PE,Pública,Nível II,Sim,Sem resposta,16,16.772,264.425,16.772,244.316
+Nordeste,PE,Pública,Nível II,Sim,Sim,1282,1387.976,282.02,1387.976,286.672
+Nordeste,PE,Pública,Nível III,Não,Não,484,526.144,270.005,526.144,271.453
+Nordeste,PE,Pública,Nível III,Não,Sem resposta,100,107.845,257.564,107.845,264.857
+Nordeste,PE,Pública,Nível III,Não,Sim,11663,12541.037,271.46,12541.037,274.908
+Nordeste,PE,Pública,Nível III,Sem resposta,Não,45,47.079,256.291,47.079,261.376
+Nordeste,PE,Pública,Nível III,Sem resposta,Sem resposta,13,13.576,257.18,13.576,252.411
+Nordeste,PE,Pública,Nível III,Sem resposta,Sim,638,682.219,262.077,682.219,264.286
+Nordeste,PE,Pública,Nível III,Sim,Não,220,241.888,280.406,241.888,287.7
+Nordeste,PE,Pública,Nível III,Sim,Sem resposta,43,46.454,273.703,46.454,274.993
+Nordeste,PE,Pública,Nível III,Sim,Sim,3992,4351.407,285.185,4351.407,290.63
+Nordeste,PE,Pública,Nível IV,Não,Não,151,162.631,274.952,162.631,276.734
+Nordeste,PE,Pública,Nível IV,Não,Sem resposta,60,64.983,270.536,64.983,274.574
+Nordeste,PE,Pública,Nível IV,Não,Sim,7485,8021.563,273.47,8021.563,275.758
+Nordeste,PE,Pública,Nível IV,Sem resposta,Não,22,24.249,274.26,24.249,257.812
+Nordeste,PE,Pública,Nível IV,Sem resposta,Sem resposta,10,10.453,266.817,10.453,264.995
+Nordeste,PE,Pública,Nível IV,Sem resposta,Sim,512,548.924,265.375,548.924,264.73
+Nordeste,PE,Pública,Nível IV,Sim,Não,192,219.766,278.394,219.766,282.64
+Nordeste,PE,Pública,Nível IV,Sim,Sem resposta,61,64.937,267.322,64.937,269.397
+Nordeste,PE,Pública,Nível IV,Sim,Sim,6628,7212.936,286.287,7212.936,290.986
+Nordeste,PE,Pública,Nível V,Não,Não,29,30.798,284.132,30.798,281.048
+Nordeste,PE,Pública,Nível V,Não,Sem resposta,28,29.258,248.661,29.258,255.914
+Nordeste,PE,Pública,Nível V,Não,Sim,2826,3023.277,274.012,3023.277,277.671
+Nordeste,PE,Pública,Nível V,Sem resposta,Não,5,4.986,236.896,4.986,254.263
+Nordeste,PE,Pública,Nível V,Sem resposta,Sem resposta,5,5.626,281.975,5.626,243.844
+Nordeste,PE,Pública,Nível V,Sem resposta,Sim,320,342.129,264.024,342.129,267.093
+Nordeste,PE,Pública,Nível V,Sim,Não,82,87.62,277.555,87.62,282.884
+Nordeste,PE,Pública,Nível V,Sim,Sem resposta,41,44.246,279.771,44.246,270.531
+Nordeste,PE,Pública,Nível V,Sim,Sim,6312,6855.696,290.035,6855.696,293.025
+Nordeste,PE,Pública,Nível VI,Não,Sem resposta,5,5.272,236.141,5.272,238.003
+Nordeste,PE,Pública,Nível VI,Não,Sim,555,595.911,273.159,595.911,273.895
+Nordeste,PE,Pública,Nível VI,Sem resposta,Não,2,2.774,221.417,2.774,176.68
+Nordeste,PE,Pública,Nível VI,Sem resposta,Sem resposta,6,6.467,245.728,6.467,245.171
+Nordeste,PE,Pública,Nível VI,Sem resposta,Sim,110,114.388,258.446,114.388,269.979
+Nordeste,PE,Pública,Nível VI,Sim,Não,25,26.772,300.057,26.772,304.788
+Nordeste,PE,Pública,Nível VI,Sim,Sem resposta,24,25.896,266.236,25.896,279.042
+Nordeste,PE,Pública,Nível VI,Sim,Sim,3846,4202.226,293.428,4202.226,296.574
+Nordeste,PE,Pública,Nível VII,Não,Sim,77,82.151,278.274,82.151,275.344
+Nordeste,PE,Pública,Nível VII,Sem resposta,Sem resposta,1,1.027,271.322,1.027,288.115
+Nordeste,PE,Pública,Nível VII,Sem resposta,Sim,33,36.242,271.9,36.242,269.143
+Nordeste,PE,Pública,Nível VII,Sim,Não,9,9.745,267.113,9.745,261.452
+Nordeste,PE,Pública,Nível VII,Sim,Sem resposta,15,16.937,307.707,16.937,290.721
+Nordeste,PE,Pública,Nível VII,Sim,Sim,2076,2284.071,299.61,2284.071,299.511
+Nordeste,PE,Pública,Nível VIII,Sim,Sim,175,197.584,317.759,197.584,304.252
+Nordeste,PE,Pública,Sem resposta,Não,Sem resposta,51,54.973,254.433,54.973,239.913
+Nordeste,PE,Pública,Sem resposta,Não,Sim,1,1.071,226.27,1.071,256.614
+Nordeste,PE,Pública,Sem resposta,Sem resposta,Não,74,78.565,262.724,78.565,269.497
+Nordeste,PE,Pública,Sem resposta,Sem resposta,Sem resposta,6253,6693.872,274.038,6693.872,277.141
+Nordeste,PE,Pública,Sem resposta,Sem resposta,Sim,107,114.505,238.397,114.505,226.428
+Nordeste,PE,Pública,Sem resposta,Sim,Sem resposta,28,30.568,259.803,30.568,248.998
+Nordeste,PE,Pública,Sem resposta,Sim,Sim,2,1.947,364.226,1.947,340.571
+Nordeste,PI,Privada,Nível I,Não,Não,3,5.95,280.131,5.95,274.32
+Nordeste,PI,Privada,Nível I,Não,Sim,3,3.299,271.933,3.299,294.724
+Nordeste,PI,Privada,Nível I,Sim,Sim,1,0.0,,0.0,
+Nordeste,PI,Privada,Nível II,Não,Não,12,23.151,326.326,23.151,303.369
+Nordeste,PI,Privada,Nível II,Não,Sim,35,61.076,297.157,61.076,296.615
+Nordeste,PI,Privada,Nível II,Sem resposta,Sim,1,1.042,344.393,1.042,319.263
+Nordeste,PI,Privada,Nível II,Sim,Não,1,3.085,282.583,3.085,279.708
+Nordeste,PI,Privada,Nível II,Sim,Sim,7,12.341,287.996,12.341,292.808
+Nordeste,PI,Privada,Nível III,Não,Não,2,4.3,366.186,4.3,337.342
+Nordeste,PI,Privada,Nível III,Não,Sim,85,163.835,307.509,163.835,309.316
+Nordeste,PI,Privada,Nível III,Sem resposta,Sim,5,10.47,318.37,10.47,322.258
+Nordeste,PI,Privada,Nível III,Sim,Não,1,1.542,434.665,1.542,366.591
+Nordeste,PI,Privada,Nível III,Sim,Sem resposta,2,3.366,280.223,3.366,339.222
+Nordeste,PI,Privada,Nível III,Sim,Sim,76,139.318,328.527,139.318,322.228
+Nordeste,PI,Privada,Nível IV,Não,Não,2,5.784,292.27,5.784,251.271
+Nordeste,PI,Privada,Nível IV,Não,Sim,91,163.837,296.596,163.837,310.853
+Nordeste,PI,Privada,Nível IV,Sem resposta,Sim,2,2.758,256.834,2.758,316.16
+Nordeste,PI,Privada,Nível IV,Sim,Não,3,5.13,316.048,5.13,315.752
+Nordeste,PI,Privada,Nível IV,Sim,Sem resposta,1,1.215,244.03,1.215,263.645
+Nordeste,PI,Privada,Nível IV,Sim,Sim,207,360.961,316.63,360.961,322.353
+Nordeste,PI,Privada,Nível V,Não,Sim,64,119.403,317.772,119.403,322.99
+Nordeste,PI,Privada,Nível V,Sem resposta,Sim,2,3.915,390.506,3.915,318.399
+Nordeste,PI,Privada,Nível V,Sim,Não,4,8.869,324.12,8.869,335.176
+Nordeste,PI,Privada,Nível V,Sim,Sim,413,759.2,322.522,759.2,319.343
+Nordeste,PI,Privada,Nível VI,Não,Sim,16,28.408,275.148,28.408,295.546
+Nordeste,PI,Privada,Nível VI,Sem resposta,Sim,3,8.215,260.476,8.215,306.801
+Nordeste,PI,Privada,Nível VI,Sim,Não,3,5.071,290.285,5.071,341.532
+Nordeste,PI,Privada,Nível VI,Sim,Sim,414,731.123,321.548,731.123,317.171
+Nordeste,PI,Privada,Nível VII,Não,Sim,7,9.77,293.35,9.77,309.474
+Nordeste,PI,Privada,Nível VII,Sem resposta,Sim,2,4.3,304.395,4.3,311.534
+Nordeste,PI,Privada,Nível VII,Sim,Não,2,6.17,263.846,6.17,278.055
+Nordeste,PI,Privada,Nível VII,Sim,Sem resposta,1,2.314,267.008,2.314,224.851
+Nordeste,PI,Privada,Nível VII,Sim,Sim,496,984.211,340.32,984.211,330.17
+Nordeste,PI,Privada,Nível VIII,Sim,Sim,131,306.558,371.868,306.558,342.661
+Nordeste,PI,Privada,Sem resposta,Sem resposta,Não,2,5.013,342.807,5.013,353.932
+Nordeste,PI,Privada,Sem resposta,Sem resposta,Sem resposta,61,119.003,326.019,119.003,326.86
+Nordeste,PI,Pública,Nível I,Não,Não,1413,1545.026,257.151,1545.026,256.407
+Nordeste,PI,Pública,Nível I,Não,Sem resposta,10,10.279,233.673,10.279,234.947
+Nordeste,PI,Pública,Nível I,Não,Sim,449,376.037,256.594,376.037,254.276
+Nordeste,PI,Pública,Nível I,Sem resposta,Não,75,82.457,247.948,82.457,248.865
+Nordeste,PI,Pública,Nível I,Sem resposta,Sem resposta,2,2.002,241.472,2.002,218.145
+Nordeste,PI,Pública,Nível I,Sem resposta,Sim,23,17.387,234.378,17.387,243.276
+Nordeste,PI,Pública,Nível I,Sim,Não,44,44.061,247.084,44.061,247.538
+Nordeste,PI,Pública,Nível I,Sim,Sim,65,1.1,286.768,1.1,269.765
+Nordeste,PI,Pública,Nível II,Não,Não,1726,1922.359,261.129,1922.359,261.556
+Nordeste,PI,Pública,Nível II,Não,Sem resposta,42,47.889,254.749,47.889,249.586
+Nordeste,PI,Pública,Nível II,Não,Sim,7278,8115.634,262.482,8115.634,263.238
+Nordeste,PI,Pública,Nível II,Sem resposta,Não,81,90.513,253.93,90.513,256.126
+Nordeste,PI,Pública,Nível II,Sem resposta,Sem resposta,10,11.28,243.782,11.28,250.556
+Nordeste,PI,Pública,Nível II,Sem resposta,Sim,265,301.914,252.724,301.914,250.079
+Nordeste,PI,Pública,Nível II,Sim,Não,237,265.973,263.856,265.973,263.519
+Nordeste,PI,Pública,Nível II,Sim,Sem resposta,4,4.669,263.957,4.669,269.169
+Nordeste,PI,Pública,Nível II,Sim,Sim,785,877.5,272.484,877.5,274.46
+Nordeste,PI,Pública,Nível III,Não,Não,265,297.413,266.216,297.413,262.608
+Nordeste,PI,Pública,Nível III,Não,Sem resposta,27,29.528,254.272,29.528,246.697
+Nordeste,PI,Pública,Nível III,Não,Sim,4268,4765.074,265.306,4765.074,265.208
+Nordeste,PI,Pública,Nível III,Sem resposta,Não,12,13.458,266.274,13.458,256.097
+Nordeste,PI,Pública,Nível III,Sem resposta,Sem resposta,3,3.475,260.955,3.475,250.934
+Nordeste,PI,Pública,Nível III,Sem resposta,Sim,157,175.655,256.363,175.655,255.192
+Nordeste,PI,Pública,Nível III,Sim,Não,130,145.296,266.586,145.296,271.684
+Nordeste,PI,Pública,Nível III,Sim,Sem resposta,9,9.891,243.203,9.891,244.137
+Nordeste,PI,Pública,Nível III,Sim,Sim,1731,1937.521,276.437,1937.521,279.3
+Nordeste,PI,Pública,Nível IV,Não,Não,63,70.806,270.936,70.806,251.896
+Nordeste,PI,Pública,Nível IV,Não,Sem resposta,8,9.43,246.53,9.43,242.889
+Nordeste,PI,Pública,Nível IV,Não,Sim,2357,2610.411,265.101,2610.411,265.626
+Nordeste,PI,Pública,Nível IV,Sem resposta,Não,3,3.215,264.774,3.215,223.548
+Nordeste,PI,Pública,Nível IV,Sem resposta,Sem resposta,1,1.144,237.078,1.144,226.314
+Nordeste,PI,Pública,Nível IV,Sem resposta,Sim,103,113.919,256.977,113.919,250.195
+Nordeste,PI,Pública,Nível IV,Sim,Não,77,91.507,274.051,91.507,275.682
+Nordeste,PI,Pública,Nível IV,Sim,Sem resposta,19,20.368,238.215,20.368,242.953
+Nordeste,PI,Pública,Nível IV,Sim,Sim,2205,2440.164,278.696,2440.164,279.415
+Nordeste,PI,Pública,Nível V,Não,Não,8,8.196,250.78,8.196,251.523
+Nordeste,PI,Pública,Nível V,Não,Sem resposta,3,3.034,264.597,3.034,254.551
+Nordeste,PI,Pública,Nível V,Não,Sim,750,820.807,268.948,820.807,267.61
+Nordeste,PI,Pública,Nível V,Sem resposta,Não,1,1.225,219.797,1.225,237.178
+Nordeste,PI,Pública,Nível V,Sem resposta,Sem resposta,3,3.265,278.913,3.265,281.01
+Nordeste,PI,Pública,Nível V,Sem resposta,Sim,58,64.769,250.807,64.769,252.996
+Nordeste,PI,Pública,Nível V,Sim,Não,19,22.196,254.728,22.196,250.54
+Nordeste,PI,Pública,Nível V,Sim,Sem resposta,9,9.791,261.734,9.791,280.91
+Nordeste,PI,Pública,Nível V,Sim,Sim,1799,1983.817,279.91,1983.817,281.938
+Nordeste,PI,Pública,Nível VI,Não,Sim,148,162.405,263.932,162.405,263.435
+Nordeste,PI,Pública,Nível VI,Sem resposta,Sem resposta,1,0.883,278.723,0.883,229.055
+Nordeste,PI,Pública,Nível VI,Sem resposta,Sim,23,26.171,257.534,26.171,260.226
+Nordeste,PI,Pública,Nível VI,Sim,Não,5,5.064,244.068,5.064,190.418
+Nordeste,PI,Pública,Nível VI,Sim,Sem resposta,2,2.287,340.403,2.287,271.474
+Nordeste,PI,Pública,Nível VI,Sim,Sim,970,1057.928,281.617,1057.928,281.695
+Nordeste,PI,Pública,Nível VII,Não,Sim,15,17.228,248.465,17.228,250.674
+Nordeste,PI,Pública,Nível VII,Sem resposta,Sim,5,6.042,253.113,6.042,225.886
+Nordeste,PI,Pública,Nível VII,Sim,Não,2,1.93,248.975,1.93,292.143
+Nordeste,PI,Pública,Nível VII,Sim,Sem resposta,1,1.024,295.013,1.024,338.365
+Nordeste,PI,Pública,Nível VII,Sim,Sim,435,479.534,276.957,479.534,277.857
+Nordeste,PI,Pública,Nível VIII,Não,Sim,1,1.395,231.977,1.395,189.774
+Nordeste,PI,Pública,Nível VIII,Sim,Sim,42,45.807,273.943,45.807,268.424
+Nordeste,PI,Pública,Sem resposta,Não,Não,1,1.001,222.014,1.001,181.383
+Nordeste,PI,Pública,Sem resposta,Não,Sem resposta,1,1.038,259.376,1.038,174.444
+Nordeste,PI,Pública,Sem resposta,Sem resposta,Não,15,16.357,258.427,16.357,250.089
+Nordeste,PI,Pública,Sem resposta,Sem resposta,Sem resposta,1205,1345.642,262.117,1345.642,262.499
+Nordeste,PI,Pública,Sem resposta,Sem resposta,Sim,25,30.136,228.019,30.136,207.781
+Nordeste,PI,Pública,Sem resposta,Sim,Sem resposta,6,6.58,237.44,6.58,204.918
+Nordeste,PI,Pública,Sem resposta,Sim,Sim,1,1.168,213.821,1.168,226.933
+Nordeste,RN,Privada,Nível I,Sim,Não,1,1.512,213.235,1.512,220.241
+Nordeste,RN,Privada,Nível I,Sim,Sim,3,0.0,,0.0,
+Nordeste,RN,Privada,Nível II,Não,Não,4,9.526,260.499,9.526,280.749
+Nordeste,RN,Privada,Nível II,Não,Sim,19,41.023,279.909,41.023,306.736
+Nordeste,RN,Privada,Nível II,Sim,Não,1,1.512,324.407,1.512,348.333
+Nordeste,RN,Privada,Nível II,Sim,Sim,7,14.413,255.758,14.413,276.784
+Nordeste,RN,Privada,Nível III,Não,Não,1,3.831,306.558,3.831,307.49
+Nordeste,RN,Privada,Nível III,Não,Sim,41,89.66,292.849,89.66,289.286
+Nordeste,RN,Privada,Nível III,Sem resposta,Sim,2,5.343,259.139,5.343,284.357
+Nordeste,RN,Privada,Nível III,Sim,Não,2,4.913,338.23,4.913,276.643
+Nordeste,RN,Privada,Nível III,Sim,Sim,43,98.451,309.236,98.451,319.373
+Nordeste,RN,Privada,Nível IV,Não,Não,2,5.343,260.841,5.343,254.854
+Nordeste,RN,Privada,Nível IV,Não,Sim,77,172.182,286.521,172.182,300.866
+Nordeste,RN,Privada,Nível IV,Sem resposta,Sim,2,4.913,317.273,4.913,281.98
+Nordeste,RN,Privada,Nível IV,Sim,Não,3,6.3,259.887,6.3,309.528
+Nordeste,RN,Privada,Nível IV,Sim,Sim,161,371.287,302.483,371.287,311.016
+Nordeste,RN,Privada,Nível V,Não,Não,1,2.873,325.501,2.873,350.525
+Nordeste,RN,Privada,Nível V,Não,Sim,64,148.497,278.298,148.497,286.721
+Nordeste,RN,Privada,Nível V,Sem resposta,Sim,7,14.263,301.849,14.263,291.586
+Nordeste,RN,Privada,Nível V,Sim,Não,4,9.324,300.876,9.324,293.594
+Nordeste,RN,Privada,Nível V,Sim,Sim,376,871.063,306.441,871.063,311.192
+Nordeste,RN,Privada,Nível VI,Não,Sem resposta,1,2.268,304.62,2.268,314.099
+Nordeste,RN,Privada,Nível VI,Não,Sim,28,61.208,280.621,61.208,281.03
+Nordeste,RN,Privada,Nível VI,Sem resposta,Não,1,1.915,223.37,1.915,258.922
+Nordeste,RN,Privada,Nível VI,Sem resposta,Sim,5,12.197,263.865,12.197,297.392
+Nordeste,RN,Privada,Nível VI,Sim,Não,3,6.451,254.486,6.451,253.353
+Nordeste,RN,Privada,Nível VI,Sim,Sem resposta,4,9.676,333.472,9.676,300.072
+Nordeste,RN,Privada,Nível VI,Sim,Sim,451,1029.172,305.827,1029.172,310.114
+Nordeste,RN,Privada,Nível VII,Não,Sim,8,15.976,268.468,15.976,270.646
+Nordeste,RN,Privada,Nível VII,Sem resposta,Sim,6,14.237,309.441,14.237,303.769
+Nordeste,RN,Privada,Nível VII,Sim,Não,2,4.385,252.463,4.385,250.098
+Nordeste,RN,Privada,Nível VII,Sim,Sem resposta,1,1.915,287.33,1.915,281.138
+Nordeste,RN,Privada,Nível VII,Sim,Sim,595,1385.542,319.239,1385.542,317.605
+Nordeste,RN,Privada,Nível VIII,Sem resposta,Sim,1,2.268,413.817,2.268,383.448
+Nordeste,RN,Privada,Nível VIII,Sim,Sim,134,344.929,328.499,344.929,315.405
+Nordeste,RN,Privada,Sem resposta,Sem resposta,Não,1,2.873,359.449,2.873,349.688
+Nordeste,RN,Privada,Sem resposta,Sem resposta,Sem resposta,94,231.464,292.371,231.464,299.786
+Nordeste,RN,Privada,Sem resposta,Sem resposta,Sim,2,4.385,212.997,4.385,202.082
+Nordeste,RN,Privada,Sem resposta,Sim,Sem resposta,1,1.915,286.569,1.915,252.338
+Nordeste,RN,Pública,Nível I,Não,Não,469,626.03,242.449,626.03,238.871
+Nordeste,RN,Pública,Nível I,Não,Sem resposta,8,12.567,235.879,12.567,239.469
+Nordeste,RN,Pública,Nível I,Não,Sim,194,195.623,245.142,195.623,244.768
+Nordeste,RN,Pública,Nível I,Sem resposta,Não,30,40.331,242.356,40.331,232.709
+Nordeste,RN,Pública,Nível I,Sem resposta,Sem resposta,1,1.941,245.867,1.941,270.773
+Nordeste,RN,Pública,Nível I,Sem resposta,Sim,11,14.409,230.491,14.409,253.976
+Nordeste,RN,Pública,Nível I,Sim,Não,23,33.912,240.063,33.912,231.604
+Nordeste,RN,Pública,Nível I,Sim,Sim,24,5.088,245.647,5.088,247.751
+Nordeste,RN,Pública,Nível II,Não,Não,692,915.994,252.797,915.994,252.407
+Nordeste,RN,Pública,Nível II,Não,Sem resposta,43,55.441,244.91,55.441,245.14
+Nordeste,RN,Pública,Nível II,Não,Sim,3778,5064.234,252.535,5064.234,259.575
+Nordeste,RN,Pública,Nível II,Sem resposta,Não,44,60.883,237.936,60.883,244.031
+Nordeste,RN,Pública,Nível II,Sem resposta,Sem resposta,8,12.956,231.645,12.956,232.411
+Nordeste,RN,Pública,Nível II,Sem resposta,Sim,195,282.577,244.626,282.577,249.078
+Nordeste,RN,Pública,Nível II,Sim,Não,156,231.165,270.944,231.165,272.217
+Nordeste,RN,Pública,Nível II,Sim,Sem resposta,3,3.466,248.284,3.466,246.21
+Nordeste,RN,Pública,Nível II,Sim,Sim,788,1147.654,276.377,1147.654,282.943
+Nordeste,RN,Pública,Nível III,Não,Não,150,201.748,244.297,201.748,252.531
+Nordeste,RN,Pública,Nível III,Não,Sem resposta,21,29.435,258.192,29.435,246.793
+Nordeste,RN,Pública,Nível III,Não,Sim,2846,3848.553,255.124,3848.553,258.774
+Nordeste,RN,Pública,Nível III,Sem resposta,Não,18,29.262,241.925,29.262,253.845
+Nordeste,RN,Pública,Nível III,Sem resposta,Sem resposta,4,4.651,265.738,4.651,226.069
+Nordeste,RN,Pública,Nível III,Sem resposta,Sim,152,216.318,243.495,216.318,244.11
+Nordeste,RN,Pública,Nível III,Sim,Não,98,128.626,270.404,128.626,280.567
+Nordeste,RN,Pública,Nível III,Sim,Sem resposta,16,24.659,252.057,24.659,267.615
+Nordeste,RN,Pública,Nível III,Sim,Sim,1687,2368.622,278.453,2368.622,287.743
+Nordeste,RN,Pública,Nível IV,Não,Não,35,43.664,249.968,43.664,249.817
+Nordeste,RN,Pública,Nível IV,Não,Sem resposta,10,12.249,249.678,12.249,255.921
+Nordeste,RN,Pública,Nível IV,Não,Sim,1818,2416.762,257.313,2416.762,260.809
+Nordeste,RN,Pública,Nível IV,Sem resposta,Não,6,8.288,265.361,8.288,279.439
+Nordeste,RN,Pública,Nível IV,Sem resposta,Sem resposta,2,2.787,229.139,2.787,267.153
+Nordeste,RN,Pública,Nível IV,Sem resposta,Sim,139,185.55,258.725,185.55,259.671
+Nordeste,RN,Pública,Nível IV,Sim,Não,78,115.453,261.671,115.453,267.486
+Nordeste,RN,Pública,Nível IV,Sim,Sem resposta,20,26.483,265.682,26.483,265.891
+Nordeste,RN,Pública,Nível IV,Sim,Sim,2399,3332.343,281.237,3332.343,288.531
+Nordeste,RN,Pública,Nível V,Não,Não,7,9.575,247.179,9.575,274.136
+Nordeste,RN,Pública,Nível V,Não,Sem resposta,6,9.109,271.378,9.109,258.361
+Nordeste,RN,Pública,Nível V,Não,Sim,669,919.432,249.475,919.432,255.602
+Nordeste,RN,Pública,Nível V,Sem resposta,Não,4,6.223,219.961,6.223,198.09
+Nordeste,RN,Pública,Nível V,Sem resposta,Sem resposta,1,1.231,229.449,1.231,193.691
+Nordeste,RN,Pública,Nível V,Sem resposta,Sim,82,111.36,270.225,111.36,268.975
+Nordeste,RN,Pública,Nível V,Sim,Não,25,32.598,274.369,32.598,268.241
+Nordeste,RN,Pública,Nível V,Sim,Sem resposta,11,15.079,294.674,15.079,307.752
+Nordeste,RN,Pública,Nível V,Sim,Sim,2182,3007.181,285.95,3007.181,291.691
+Nordeste,RN,Pública,Nível VI,Não,Não,1,1.212,317.354,1.212,202.679
+Nordeste,RN,Pública,Nível VI,Não,Sim,157,222.337,258.784,222.337,252.416
+Nordeste,RN,Pública,Nível VI,Sem resposta,Sim,27,39.092,255.917,39.092,251.337
+Nordeste,RN,Pública,Nível VI,Sim,Não,13,18.847,290.944,18.847,297.822
+Nordeste,RN,Pública,Nível VI,Sim,Sem resposta,7,9.308,243.261,9.308,272.061
+Nordeste,RN,Pública,Nível VI,Sim,Sim,1294,1862.749,289.659,1862.749,292.031
+Nordeste,RN,Pública,Nível VII,Não,Sim,18,23.459,253.226,23.459,253.931
+Nordeste,RN,Pública,Nível VII,Sem resposta,Sim,15,17.074,251.411,17.074,234.131
+Nordeste,RN,Pública,Nível VII,Sim,Não,5,7.817,314.223,7.817,324.861
+Nordeste,RN,Pública,Nível VII,Sim,Sem resposta,4,4.884,250.541,4.884,291.295
+Nordeste,RN,Pública,Nível VII,Sim,Sim,724,1055.485,303.612,1055.485,301.004
+Nordeste,RN,Pública,Nível VIII,Sim,Sem resposta,1,1.483,275.353,1.483,264.387
+Nordeste,RN,Pública,Nível VIII,Sim,Sim,62,135.897,348.811,135.897,315.411
+Nordeste,RN,Pública,Sem resposta,Não,Sem resposta,7,9.006,252.257,9.006,246.065
+Nordeste,RN,Pública,Sem resposta,Sem resposta,Não,7,8.667,280.228,8.667,295.438
+Nordeste,RN,Pública,Sem resposta,Sem resposta,Sem resposta,943,1389.312,264.441,1389.312,264.98
+Nordeste,RN,Pública,Sem resposta,Sem resposta,Sim,17,26.985,212.757,26.985,196.515
+Nordeste,RN,Pública,Sem resposta,Sim,Sem resposta,5,9.744,234.358,9.744,217.946
+Nordeste,RN,Pública,Sem resposta,Sim,Sim,1,1.129,214.975,1.129,265.932
+Nordeste,SE,Privada,Nível I,Não,Não,1,3.072,289.231,3.072,223.45
+Nordeste,SE,Privada,Nível II,Não,Não,2,3.596,283.703,3.596,288.531
+Nordeste,SE,Privada,Nível II,Não,Sim,14,39.665,295.572,39.665,294.225
+Nordeste,SE,Privada,Nível II,Sim,Não,1,4.2,223.79,4.2,331.638
+Nordeste,SE,Privada,Nível II,Sim,Sim,2,4.994,333.217,4.994,346.959
+Nordeste,SE,Privada,Nível III,Não,Não,3,8.365,337.236,8.365,288.719
+Nordeste,SE,Privada,Nível III,Não,Sim,38,99.018,285.907,99.018,286.333
+Nordeste,SE,Privada,Nível III,Sem resposta,Não,2,4.857,276.375,4.857,284.874
+Nordeste,SE,Privada,Nível III,Sim,Não,1,1.843,322.984,1.843,363.906
+Nordeste,SE,Privada,Nível III,Sim,Sem resposta,1,1.138,346.498,1.138,364.485
+Nordeste,SE,Privada,Nível III,Sim,Sim,30,86.809,310.453,86.809,309.966
+Nordeste,SE,Privada,Nível IV,Não,Não,5,14.724,285.562,14.724,282.397
+Nordeste,SE,Privada,Nível IV,Não,Sem resposta,1,1.843,207.953,1.843,232.782
+Nordeste,SE,Privada,Nível IV,Não,Sim,52,155.298,284.833,155.298,288.392
+Nordeste,SE,Privada,Nível IV,Sem resposta,Não,1,4.2,211.191,4.2,247.17
+Nordeste,SE,Privada,Nível IV,Sem resposta,Sim,1,1.843,281.628,1.843,277.914
+Nordeste,SE,Privada,Nível IV,Sim,Não,3,9.451,260.216,9.451,278.542
+Nordeste,SE,Privada,Nível IV,Sim,Sem resposta,1,4.2,260.682,4.2,320.486
+Nordeste,SE,Privada,Nível IV,Sim,Sim,98,275.468,294.331,275.468,305.981
+Nordeste,SE,Privada,Nível V,Não,Sim,48,137.289,287.181,137.289,291.754
+Nordeste,SE,Privada,Nível V,Sem resposta,Sim,5,11.753,298.515,11.753,282.665
+Nordeste,SE,Privada,Nível V,Sim,Sim,192,537.769,296.55,537.769,302.748
+Nordeste,SE,Privada,Nível VI,Não,Sim,25,66.773,280.265,66.773,281.1
+Nordeste,SE,Privada,Nível VI,Sim,Não,2,7.351,307.491,7.351,272.557
+Nordeste,SE,Privada,Nível VI,Sim,Sem resposta,1,2.458,227.395,2.458,349.839
+Nordeste,SE,Privada,Nível VI,Sim,Sim,241,734.312,304.465,734.312,304.432
+Nordeste,SE,Privada,Nível VII,Não,Sim,8,19.897,297.035,19.897,269.976
+Nordeste,SE,Privada,Nível VII,Sem resposta,Sim,3,8.066,237.746,8.066,295.401
+Nordeste,SE,Privada,Nível VII,Sim,Sem resposta,1,6.826,266.836,6.826,287.493
+Nordeste,SE,Privada,Nível VII,Sim,Sim,302,963.498,316.408,963.498,312.869
+Nordeste,SE,Privada,Nível VIII,Sim,Sim,65,226.354,330.581,226.354,316.17
+Nordeste,SE,Privada,Sem resposta,Sem resposta,Sem resposta,45,132.225,285.922,132.225,298.918
+Nordeste,SE,Privada,Sem resposta,Sim,Sim,1,1.843,209.676,1.843,264.045
+Nordeste,SE,Pública,Nível I,Não,Não,455,515.229,246.007,515.229,243.214
+Nordeste,SE,Pública,Nível I,Não,Sem resposta,7,7.566,242.222,7.566,271.877
+Nordeste,SE,Pública,Nível I,Não,Sim,96,98.103,245.234,98.103,241.958
+Nordeste,SE,Pública,Nível I,Sem resposta,Não,35,39.866,239.632,39.866,236.479
+Nordeste,SE,Pública,Nível I,Sem resposta,Sem resposta,1,1.03,207.835,1.03,251.997
+Nordeste,SE,Pública,Nível I,Sem resposta,Sim,7,7.862,237.084,7.862,229.389
+Nordeste,SE,Pública,Nível I,Sim,Não,7,8.842,216.812,8.842,218.223
+Nordeste,SE,Pública,Nível I,Sim,Sim,11,0.0,,0.0,
+Nordeste,SE,Pública,Nível II,Não,Não,912,1025.051,248.796,1025.051,250.886
+Nordeste,SE,Pública,Nível II,Não,Sem resposta,21,23.371,249.848,23.371,260.364
+Nordeste,SE,Pública,Nível II,Não,Sim,2866,3218.622,252.156,3218.622,256.442
+Nordeste,SE,Pública,Nível II,Sem resposta,Não,64,72.072,242.502,72.072,246.019
+Nordeste,SE,Pública,Nível II,Sem resposta,Sem resposta,9,9.519,226.696,9.519,226.016
+Nordeste,SE,Pública,Nível II,Sem resposta,Sim,192,221.148,242.455,221.148,243.788
+Nordeste,SE,Pública,Nível II,Sim,Não,82,90.93,247.735,90.93,252.933
+Nordeste,SE,Pública,Nível II,Sim,Sem resposta,2,2.614,276.434,2.614,291.38
+Nordeste,SE,Pública,Nível II,Sim,Sim,318,365.904,263.853,365.904,266.782
+Nordeste,SE,Pública,Nível III,Não,Não,167,190.236,250.239,190.236,250.365
+Nordeste,SE,Pública,Nível III,Não,Sem resposta,15,17.589,245.576,17.589,251.727
+Nordeste,SE,Pública,Nível III,Não,Sim,2441,2753.058,255.841,2753.058,259.325
+Nordeste,SE,Pública,Nível III,Sem resposta,Não,16,18.196,225.955,18.196,233.074
+Nordeste,SE,Pública,Nível III,Sem resposta,Sem resposta,7,8.019,241.576,8.019,248.728
+Nordeste,SE,Pública,Nível III,Sem resposta,Sim,130,147.389,246.949,147.389,241.191
+Nordeste,SE,Pública,Nível III,Sim,Não,59,65.499,256.616,65.499,267.669
+Nordeste,SE,Pública,Nível III,Sim,Sem resposta,7,7.775,249.839,7.775,258.921
+Nordeste,SE,Pública,Nível III,Sim,Sim,865,959.936,270.762,959.936,275.291
+Nordeste,SE,Pública,Nível IV,Não,Não,39,44.987,258.436,44.987,239.121
+Nordeste,SE,Pública,Nível IV,Não,Sem resposta,13,15.692,269.687,15.692,254.29
+Nordeste,SE,Pública,Nível IV,Não,Sim,1678,1895.574,256.057,1895.574,259.666
+Nordeste,SE,Pública,Nível IV,Sem resposta,Não,4,4.126,234.684,4.126,238.74
+Nordeste,SE,Pública,Nível IV,Sem resposta,Sem resposta,2,2.5,266.336,2.5,284.098
+Nordeste,SE,Pública,Nível IV,Sem resposta,Sim,105,118.43,247.779,118.43,245.689
+Nordeste,SE,Pública,Nível IV,Sim,Não,39,44.381,261.001,44.381,261.959
+Nordeste,SE,Pública,Nível IV,Sim,Sem resposta,8,8.802,225.038,8.802,231.832
+Nordeste,SE,Pública,Nível IV,Sim,Sim,1493,1672.211,266.853,1672.211,273.293
+Nordeste,SE,Pública,Nível V,Não,Não,2,1.889,248.843,1.889,183.576
+Nordeste,SE,Pública,Nível V,Não,Sem resposta,1,1.182,231.165,1.182,204.166
+Nordeste,SE,Pública,Nível V,Não,Sim,686,769.795,259.389,769.795,259.507
+Nordeste,SE,Pública,Nível V,Sem resposta,Não,4,4.58,252.016,4.58,237.518
+Nordeste,SE,Pública,Nível V,Sem resposta,Sem resposta,5,6.031,233.79,6.031,210.354
+Nordeste,SE,Pública,Nível V,Sem resposta,Sim,76,84.746,243.941,84.746,256.528
+Nordeste,SE,Pública,Nível V,Sim,Não,21,24.101,265.79,24.101,262.727
+Nordeste,SE,Pública,Nível V,Sim,Sem resposta,6,7.353,259.846,7.353,270.823
+Nordeste,SE,Pública,Nível V,Sim,Sim,1406,1568.857,270.242,1568.857,272.94
+Nordeste,SE,Pública,Nível VI,Não,Não,1,1.111,232.443,1.111,206.274
+Nordeste,SE,Pública,Nível VI,Não,Sem resposta,2,2.5,245.634,2.5,226.157
+Nordeste,SE,Pública,Nível VI,Não,Sim,134,149.318,253.073,149.318,248.075
+Nordeste,SE,Pública,Nível VI,Sem resposta,Sem resposta,1,1.037,213.502,1.037,262.702
+Nordeste,SE,Pública,Nível VI,Sem resposta,Sim,28,32.282,248.061,32.282,237.056
+Nordeste,SE,Pública,Nível VI,Sim,Não,5,5.108,273.345,5.108,251.344
+Nordeste,SE,Pública,Nível VI,Sim,Sem resposta,2,3.701,237.146,3.701,241.122
+Nordeste,SE,Pública,Nível VI,Sim,Sim,864,971.959,270.579,971.959,272.721
+Nordeste,SE,Pública,Nível VII,Não,Sim,28,34.175,259.729,34.175,252.748
+Nordeste,SE,Pública,Nível VII,Sem resposta,Sem resposta,1,1.037,255.199,1.037,326.665
+Nordeste,SE,Pública,Nível VII,Sem resposta,Sim,8,8.484,254.755,8.484,251.789
+Nordeste,SE,Pública,Nível VII,Sim,Não,2,2.052,309.686,2.052,318.309
+Nordeste,SE,Pública,Nível VII,Sim,Sem resposta,6,6.64,294.964,6.64,265.268
+Nordeste,SE,Pública,Nível VII,Sim,Sim,430,478.378,275.947,478.378,275.819
+Nordeste,SE,Pública,Nível VIII,Sim,Sim,28,31.214,277.579,31.214,265.804
+Nordeste,SE,Pública,Sem resposta,Não,Não,1,0.95,259.09,0.95,261.986
+Nordeste,SE,Pública,Sem resposta,Não,Sem resposta,3,3.971,210.487,3.971,217.013
+Nordeste,SE,Pública,Sem resposta,Não,Sim,2,2.252,230.066,2.252,246.056
+Nordeste,SE,Pública,Sem resposta,Sem resposta,Não,11,12.142,257.351,12.142,278.095
+Nordeste,SE,Pública,Sem resposta,Sem resposta,Sem resposta,724,821.616,255.948,821.616,259.221
+Nordeste,SE,Pública,Sem resposta,Sem resposta,Sim,14,15.885,235.222,15.885,206.94
+Nordeste,SE,Pública,Sem resposta,Sim,Não,1,1.071,179.934,1.071,159.67
+Nordeste,SE,Pública,Sem resposta,Sim,Sem resposta,6,6.991,236.765,6.991,217.121
+Nordeste,SE,Pública,Sem resposta,Sim,Sim,1,1.464,178.262,1.464,184.194
+Norte,AC,Privada,Nível III,Não,Sim,2,2.999,283.464,2.999,301.785
+Norte,AC,Privada,Nível III,Sim,Não,1,1.199,347.265,1.199,310.937
+Norte,AC,Privada,Nível III,Sim,Sim,2,2.999,276.369,2.999,287.076
+Norte,AC,Privada,Nível IV,Não,Sim,8,10.196,286.379,10.196,300.022
+Norte,AC,Privada,Nível IV,Sim,Não,1,1.199,254.771,1.199,288.765
+Norte,AC,Privada,Nível IV,Sim,Sim,14,31.39,290.289,31.39,311.347
+Norte,AC,Privada,Nível V,Não,Sim,5,7.797,264.88,7.797,277.163
+Norte,AC,Privada,Nível V,Sem resposta,Sim,1,1.199,302.364,1.199,322.658
+Norte,AC,Privada,Nível V,Sim,Sim,41,63.648,289.265,63.648,295.391
+Norte,AC,Privada,Nível VI,Não,Sim,4,5.398,254.598,5.398,294.005
+Norte,AC,Privada,Nível VI,Sem resposta,Sim,1,1.799,263.079,1.799,298.434
+Norte,AC,Privada,Nível VI,Sim,Sem resposta,1,1.799,307.761,1.799,371.287
+Norte,AC,Privada,Nível VI,Sim,Sim,66,115.722,328.618,115.722,315.727
+Norte,AC,Privada,Nível VII,Não,Sim,3,3.598,317.34,3.598,295.696
+Norte,AC,Privada,Nível VII,Sem resposta,Sim,3,3.598,338.478,3.598,316.288
+Norte,AC,Privada,Nível VII,Sim,Sim,141,279.81,315.862,279.81,318.955
+Norte,AC,Privada,Nível VIII,Sim,Sim,55,88.148,323.48,88.148,317.458
+Norte,AC,Privada,Sem resposta,Sem resposta,Sem resposta,35,75.501,289.214,75.501,286.509
+Norte,AC,Pública,Nível I,Não,Não,95,129.225,251.267,129.225,251.522
+Norte,AC,Pública,Nível I,Não,Sim,46,8.287,261.267,8.287,236.585
+Norte,AC,Pública,Nível I,Sem resposta,Não,8,14.785,231.401,14.785,224.763
+Norte,AC,Pública,Nível I,Sem resposta,Sem resposta,1,1.133,274.329,1.133,355.008
+Norte,AC,Pública,Nível I,Sem resposta,Sim,4,0.0,,0.0,
+Norte,AC,Pública,Nível I,Sim,Não,3,1.836,247.057,1.836,282.728
+Norte,AC,Pública,Nível I,Sim,Sim,41,0.0,,0.0,
+Norte,AC,Pública,Nível II,Não,Não,554,798.734,257.078,798.734,256.864
+Norte,AC,Pública,Nível II,Não,Sem resposta,5,8.195,254.262,8.195,224.709
+Norte,AC,Pública,Nível II,Não,Sim,544,748.387,255.41,748.387,259.269
+Norte,AC,Pública,Nível II,Sem resposta,Não,37,57.02,248.987,57.02,245.675
+Norte,AC,Pública,Nível II,Sem resposta,Sem resposta,1,2.238,284.393,2.238,223.058
+Norte,AC,Pública,Nível II,Sem resposta,Sim,26,36.192,246.139,36.192,240.187
+Norte,AC,Pública,Nível II,Sim,Não,52,74.812,258.964,74.812,249.077
+Norte,AC,Pública,Nível II,Sim,Sim,53,74.324,250.966,74.324,261.382
+Norte,AC,Pública,Nível III,Não,Não,147,203.009,251.379,203.009,260.557
+Norte,AC,Pública,Nível III,Não,Sem resposta,6,7.769,228.519,7.769,229.017
+Norte,AC,Pública,Nível III,Não,Sim,834,1128.166,261.941,1128.166,263.711
+Norte,AC,Pública,Nível III,Sem resposta,Não,9,12.333,248.762,12.333,268.388
+Norte,AC,Pública,Nível III,Sem resposta,Sem resposta,1,1.278,228.254,1.278,195.097
+Norte,AC,Pública,Nível III,Sem resposta,Sim,49,65.506,262.484,65.506,270.035
+Norte,AC,Pública,Nível III,Sim,Não,62,92.652,270.359,92.652,281.267
+Norte,AC,Pública,Nível III,Sim,Sem resposta,3,3.352,249.214,3.352,265.513
+Norte,AC,Pública,Nível III,Sim,Sim,259,342.872,269.444,342.872,277.54
+Norte,AC,Pública,Nível IV,Não,Não,16,21.205,263.925,21.205,261.812
+Norte,AC,Pública,Nível IV,Não,Sem resposta,7,8.986,259.452,8.986,275.711
+Norte,AC,Pública,Nível IV,Não,Sim,621,809.127,261.733,809.127,266.635
+Norte,AC,Pública,Nível IV,Sem resposta,Não,3,5.018,240.258,5.018,268.153
+Norte,AC,Pública,Nível IV,Sem resposta,Sim,40,50.599,260.629,50.599,255.647
+Norte,AC,Pública,Nível IV,Sim,Não,34,45.011,259.08,45.011,270.78
+Norte,AC,Pública,Nível IV,Sim,Sem resposta,2,2.584,318.727,2.584,313.747
+Norte,AC,Pública,Nível IV,Sim,Sim,587,811.386,269.106,811.386,278.906
+Norte,AC,Pública,Nível V,Não,Não,3,3.34,209.775,3.34,225.649
+Norte,AC,Pública,Nível V,Não,Sem resposta,1,1.647,232.598,1.647,206.813
+Norte,AC,Pública,Nível V,Não,Sim,290,372.22,258.019,372.22,264.836
+Norte,AC,Pública,Nível V,Sem resposta,Não,1,1.115,238.74,1.115,209.356
+Norte,AC,Pública,Nível V,Sem resposta,Sem resposta,1,1.115,229.355,1.115,246.005
+Norte,AC,Pública,Nível V,Sem resposta,Sim,32,41.289,246.988,41.289,251.648
+Norte,AC,Pública,Nível V,Sim,Não,20,26.414,280.777,26.414,282.014
+Norte,AC,Pública,Nível V,Sim,Sem resposta,5,5.493,285.217,5.493,290.286
+Norte,AC,Pública,Nível V,Sim,Sim,765,1001.165,271.641,1001.165,277.927
+Norte,AC,Pública,Nível VI,Não,Sem resposta,2,2.984,261.999,2.984,302.659
+Norte,AC,Pública,Nível VI,Não,Sim,78,100.809,261.495,100.809,260.71
+Norte,AC,Pública,Nível VI,Sem resposta,Sim,21,26.892,252.633,26.892,246.349
+Norte,AC,Pública,Nível VI,Sim,Não,3,3.849,294.73,3.849,332.394
+Norte,AC,Pública,Nível VI,Sim,Sem resposta,3,4.204,245.529,4.204,196.149
+Norte,AC,Pública,Nível VI,Sim,Sim,508,652.266,276.984,652.266,284.889
+Norte,AC,Pública,Nível VII,Não,Sim,8,9.165,266.064,9.165,267.235
+Norte,AC,Pública,Nível VII,Sem resposta,Sim,9,11.262,273.755,11.262,274.312
+Norte,AC,Pública,Nível VII,Sim,Não,1,1.044,272.923,1.044,300.115
+Norte,AC,Pública,Nível VII,Sim,Sim,342,425.656,280.011,425.656,283.022
+Norte,AC,Pública,Nível VIII,Sem resposta,Sem resposta,1,1.789,247.814,1.789,318.723
+Norte,AC,Pública,Nível VIII,Sem resposta,Sim,1,2.181,293.025,2.181,219.405
+Norte,AC,Pública,Nível VIII,Sim,Sim,38,44.054,289.204,44.054,295.263
+Norte,AC,Pública,Sem resposta,Não,Sem resposta,4,4.325,219.458,4.325,255.112
+Norte,AC,Pública,Sem resposta,Sem resposta,Não,2,1.944,271.886,1.944,254.811
+Norte,AC,Pública,Sem resposta,Sem resposta,Sem resposta,272,363.875,259.89,363.875,264.196
+Norte,AC,Pública,Sem resposta,Sem resposta,Sim,9,11.881,219.754,11.881,221.801
+Norte,AC,Pública,Sem resposta,Sim,Sim,1,1.0,210.711,1.0,202.44
+Norte,AM,Privada,Nível II,Não,Não,1,2.451,231.621,2.451,255.981
+Norte,AM,Privada,Nível II,Não,Sim,10,29.012,292.785,29.012,310.287
+Norte,AM,Privada,Nível II,Sim,Não,2,7.561,396.526,7.561,334.82
+Norte,AM,Privada,Nível II,Sim,Sim,2,7.561,318.557,7.561,299.286
+Norte,AM,Privada,Nível III,Não,Não,2,3.666,263.937,3.666,262.174
+Norte,AM,Privada,Nível III,Não,Sim,20,54.344,297.522,54.344,319.832
+Norte,AM,Privada,Nível III,Sim,Não,3,7.354,300.344,7.354,304.226
+Norte,AM,Privada,Nível III,Sim,Sim,16,45.972,320.62,45.972,307.792
+Norte,AM,Privada,Nível IV,Não,Não,1,1.634,336.131,1.634,343.531
+Norte,AM,Privada,Nível IV,Não,Sim,21,56.364,296.466,56.364,295.85
+Norte,AM,Privada,Nível IV,Sem resposta,Sim,1,2.451,345.646,2.451,308.614
+Norte,AM,Privada,Nível IV,Sim,Não,4,12.463,278.759,12.463,300.832
+Norte,AM,Privada,Nível IV,Sim,Sim,72,183.004,302.327,183.004,319.461
+Norte,AM,Privada,Nível V,Não,Não,1,2.451,251.709,2.451,261.973
+Norte,AM,Privada,Nível V,Não,Sim,24,49.993,270.845,49.993,268.21
+Norte,AM,Privada,Nível V,Sem resposta,Sim,2,5.72,269.392,5.72,313.971
+Norte,AM,Privada,Nível V,Sim,Não,1,2.451,275.657,2.451,194.941
+Norte,AM,Privada,Nível V,Sim,Sim,152,392.222,306.945,392.222,308.655
+Norte,AM,Privada,Nível VI,Não,Sim,13,30.211,281.668,30.211,300.66
+Norte,AM,Privada,Nível VI,Sem resposta,Sim,2,2.656,273.055,2.656,324.99
+Norte,AM,Privada,Nível VI,Sim,Não,1,1.022,397.588,1.022,359.369
+Norte,AM,Privada,Nível VI,Sim,Sem resposta,1,2.451,273.05,2.451,305.141
+Norte,AM,Privada,Nível VI,Sim,Sim,181,461.617,302.761,461.617,302.835
+Norte,AM,Privada,Nível VII,Não,Sim,5,11.848,297.153,11.848,329.34
+Norte,AM,Privada,Nível VII,Sem resposta,Sem resposta,1,2.451,207.194,2.451,189.112
+Norte,AM,Privada,Nível VII,Sem resposta,Sim,2,4.086,315.328,4.086,291.605
+Norte,AM,Privada,Nível VII,Sim,Sim,326,832.243,300.503,832.243,308.777
+Norte,AM,Privada,Nível VIII,Sem resposta,Sim,1,4.086,266.964,4.086,341.586
+Norte,AM,Privada,Nível VIII,Sim,Sim,106,267.819,318.037,267.819,311.02
+Norte,AM,Privada,Sem resposta,Sem resposta,Sem resposta,45,111.339,303.129,111.339,299.249
+Norte,AM,Privada,Sem resposta,Sem resposta,Sim,1,1.634,258.711,1.634,239.805
+Norte,AM,Privada,Sem resposta,Sim,Sem resposta,1,2.86,306.497,2.86,305.582
+Norte,AM,Pública,Nível I,Não,Não,1367,1643.405,235.913,1643.405,230.12
+Norte,AM,Pública,Nível I,Não,Sem resposta,23,24.354,224.869,24.354,207.96
+Norte,AM,Pública,Nível I,Não,Sim,79,67.685,230.169,67.685,231.694
+Norte,AM,Pública,Nível I,Sem resposta,Não,114,163.514,221.817,163.514,213.999
+Norte,AM,Pública,Nível I,Sem resposta,Sem resposta,9,8.659,221.284,8.659,191.221
+Norte,AM,Pública,Nível I,Sem resposta,Sim,7,2.167,205.459,2.167,228.273
+Norte,AM,Pública,Nível I,Sim,Não,40,31.378,225.48,31.378,218.435
+Norte,AM,Pública,Nível I,Sim,Sem resposta,2,1.0,227.281,1.0,194.876
+Norte,AM,Pública,Nível I,Sim,Sim,15,1.138,291.93,1.138,305.231
+Norte,AM,Pública,Nível II,Não,Não,4831,6007.831,245.054,6007.831,244.334
+Norte,AM,Pública,Nível II,Não,Sem resposta,99,123.346,234.324,123.346,227.415
+Norte,AM,Pública,Nível II,Não,Sim,3279,4007.713,246.338,4007.713,248.021
+Norte,AM,Pública,Nível II,Sem resposta,Não,407,524.954,236.795,524.954,235.072
+Norte,AM,Pública,Nível II,Sem resposta,Sem resposta,33,43.231,212.007,43.231,209.428
+Norte,AM,Pública,Nível II,Sem resposta,Sim,254,352.914,230.981,352.914,232.046
+Norte,AM,Pública,Nível II,Sim,Não,728,1034.282,250.66,1034.282,237.084
+Norte,AM,Pública,Nível II,Sim,Sem resposta,13,15.016,233.464,15.016,197.068
+Norte,AM,Pública,Nível II,Sim,Sim,358,420.137,248.052,420.137,250.744
+Norte,AM,Pública,Nível III,Não,Não,1211,1427.095,248.243,1427.095,248.544
+Norte,AM,Pública,Nível III,Não,Sem resposta,73,91.744,240.443,91.744,240.042
+Norte,AM,Pública,Nível III,Não,Sim,5102,5980.888,249.531,5980.888,254.298
+Norte,AM,Pública,Nível III,Sem resposta,Não,93,116.725,240.859,116.725,236.542
+Norte,AM,Pública,Nível III,Sem resposta,Sem resposta,25,34.968,222.068,34.968,219.806
+Norte,AM,Pública,Nível III,Sem resposta,Sim,330,415.077,238.392,415.077,240.732
+Norte,AM,Pública,Nível III,Sim,Não,655,790.586,252.578,790.586,258.017
+Norte,AM,Pública,Nível III,Sim,Sem resposta,25,28.125,231.01,28.125,235.971
+Norte,AM,Pública,Nível III,Sim,Sim,1847,2155.997,258.639,2155.997,267.855
+Norte,AM,Pública,Nível IV,Não,Não,283,327.193,249.117,327.193,253.999
+Norte,AM,Pública,Nível IV,Não,Sem resposta,28,31.328,238.523,31.328,247.362
+Norte,AM,Pública,Nível IV,Não,Sim,3772,4358.153,251.746,4358.153,258.006
+Norte,AM,Pública,Nível IV,Sem resposta,Não,33,40.825,242.171,40.825,236.38
+Norte,AM,Pública,Nível IV,Sem resposta,Sem resposta,27,34.331,232.322,34.331,230.121
+Norte,AM,Pública,Nível IV,Sem resposta,Sim,284,346.888,239.675,346.888,241.896
+Norte,AM,Pública,Nível IV,Sim,Não,384,458.034,253.097,458.034,255.743
+Norte,AM,Pública,Nível IV,Sim,Sem resposta,42,47.098,259.823,47.098,251.66
+Norte,AM,Pública,Nível IV,Sim,Sim,3829,4416.151,261.093,4416.151,270.731
+Norte,AM,Pública,Nível V,Não,Não,48,54.31,262.292,54.31,262.678
+Norte,AM,Pública,Nível V,Não,Sem resposta,15,17.56,251.218,17.56,236.222
+Norte,AM,Pública,Nível V,Não,Sim,1478,1690.298,252.143,1690.298,257.391
+Norte,AM,Pública,Nível V,Sem resposta,Não,10,13.029,241.118,13.029,234.24
+Norte,AM,Pública,Nível V,Sem resposta,Sem resposta,24,27.117,225.827,27.117,217.519
+Norte,AM,Pública,Nível V,Sem resposta,Sim,217,249.232,242.841,249.232,243.854
+Norte,AM,Pública,Nível V,Sim,Não,123,141.086,254.792,141.086,264.657
+Norte,AM,Pública,Nível V,Sim,Sem resposta,35,40.092,227.313,40.092,231.82
+Norte,AM,Pública,Nível V,Sim,Sim,3901,4401.723,264.678,4401.723,274.621
+Norte,AM,Pública,Nível VI,Não,Não,4,4.207,245.278,4.207,231.226
+Norte,AM,Pública,Nível VI,Não,Sem resposta,3,3.467,217.213,3.467,216.773
+Norte,AM,Pública,Nível VI,Não,Sim,416,475.144,254.037,475.144,255.487
+Norte,AM,Pública,Nível VI,Sem resposta,Não,3,3.703,273.42,3.703,248.285
+Norte,AM,Pública,Nível VI,Sem resposta,Sem resposta,8,8.681,216.363,8.681,210.218
+Norte,AM,Pública,Nível VI,Sem resposta,Sim,88,104.622,242.735,104.622,242.033
+Norte,AM,Pública,Nível VI,Sim,Não,43,49.728,263.712,49.728,265.363
+Norte,AM,Pública,Nível VI,Sim,Sem resposta,21,25.303,240.18,25.303,235.367
+Norte,AM,Pública,Nível VI,Sim,Sim,2702,3039.641,267.732,3039.641,274.509
+Norte,AM,Pública,Nível VII,Não,Não,1,1.35,200.744,1.35,178.386
+Norte,AM,Pública,Nível VII,Não,Sem resposta,1,1.073,187.795,1.073,239.571
+Norte,AM,Pública,Nível VII,Não,Sim,90,99.876,254.908,99.876,257.083
+Norte,AM,Pública,Nível VII,Sem resposta,Não,1,1.5,259.92,1.5,264.774
+Norte,AM,Pública,Nível VII,Sem resposta,Sim,28,31.059,235.242,31.059,227.365
+Norte,AM,Pública,Nível VII,Sim,Não,8,8.9,284.597,8.9,267.975
+Norte,AM,Pública,Nível VII,Sim,Sem resposta,10,11.55,223.354,11.55,230.443
+Norte,AM,Pública,Nível VII,Sim,Sim,2006,2251.559,275.281,2251.559,278.168
+Norte,AM,Pública,Nível VIII,Sem resposta,Sim,2,2.232,225.421,2.232,160.132
+Norte,AM,Pública,Nível VIII,Sim,Sim,309,345.943,280.971,345.943,275.138
+Norte,AM,Pública,Sem resposta,Não,Não,2,2.322,243.755,2.322,221.421
+Norte,AM,Pública,Sem resposta,Não,Sem resposta,36,47.927,230.202,47.927,220.422
+Norte,AM,Pública,Sem resposta,Não,Sim,3,3.439,236.081,3.439,229.796
+Norte,AM,Pública,Sem resposta,Sem resposta,Não,35,39.777,224.228,39.777,218.058
+Norte,AM,Pública,Sem resposta,Sem resposta,Sem resposta,1999,2382.572,241.609,2382.572,239.517
+Norte,AM,Pública,Sem resposta,Sem resposta,Sim,134,175.56,218.102,175.56,210.111
+Norte,AM,Pública,Sem resposta,Sim,Não,3,1.963,209.294,1.963,203.269
+Norte,AM,Pública,Sem resposta,Sim,Sem resposta,45,56.141,220.78,56.141,211.16
+Norte,AM,Pública,Sem resposta,Sim,Sim,7,7.909,231.577,7.909,210.552
+Norte,AP,Privada,Nível I,Não,Não,2,4.317,297.428,4.317,277.969
+Norte,AP,Privada,Nível I,Sim,Sim,4,0.0,,0.0,
+Norte,AP,Privada,Nível II,Não,Não,7,10.226,233.137,10.226,257.702
+Norte,AP,Privada,Nível II,Não,Sim,4,10.588,324.719,10.588,291.375
+Norte,AP,Privada,Nível II,Sem resposta,Não,1,3.135,393.3,3.135,296.626
+Norte,AP,Privada,Nível II,Sim,Não,1,1.47,190.275,1.47,246.793
+Norte,AP,Privada,Nível II,Sim,Sim,1,1.182,217.732,1.182,194.145
+Norte,AP,Privada,Nível III,Não,Não,1,1.182,272.223,1.182,171.889
+Norte,AP,Privada,Nível III,Não,Sim,10,22.782,280.466,22.782,311.015
+Norte,AP,Privada,Nível III,Sem resposta,Sim,1,2.205,285.122,2.205,333.634
+Norte,AP,Privada,Nível III,Sim,Não,1,1.182,208.424,1.182,253.181
+Norte,AP,Privada,Nível III,Sim,Sim,10,22.254,304.665,22.254,295.962
+Norte,AP,Privada,Nível IV,Não,Sim,8,17.741,282.854,17.741,305.942
+Norte,AP,Privada,Nível IV,Sem resposta,Sim,1,3.135,216.047,3.135,294.247
+Norte,AP,Privada,Nível IV,Sim,Não,2,2.94,267.279,2.94,307.837
+Norte,AP,Privada,Nível IV,Sim,Sim,25,46.261,290.453,46.261,285.772
+Norte,AP,Privada,Nível V,Não,Não,1,1.47,231.036,1.47,254.852
+Norte,AP,Privada,Nível V,Não,Sem resposta,1,1.47,188.152,1.47,261.002
+Norte,AP,Privada,Nível V,Não,Sim,5,10.484,293.278,10.484,299.393
+Norte,AP,Privada,Nível V,Sim,Sem resposta,1,1.47,401.982,1.47,355.326
+Norte,AP,Privada,Nível V,Sim,Sim,58,103.046,301.048,103.046,298.041
+Norte,AP,Privada,Nível VI,Não,Sim,6,11.839,261.208,11.839,255.284
+Norte,AP,Privada,Nível VI,Sim,Sim,68,123.36,298.873,123.36,305.985
+Norte,AP,Privada,Nível VII,Sem resposta,Sim,1,2.205,289.887,2.205,278.252
+Norte,AP,Privada,Nível VII,Sim,Sim,121,226.472,301.745,226.472,312.83
+Norte,AP,Privada,Nível VIII,Sim,Sim,40,71.789,278.754,71.789,301.171
+Norte,AP,Privada,Sem resposta,Sem resposta,Sem resposta,17,31.796,308.64,31.796,318.362
+Norte,AP,Pública,Nível I,Não,Não,82,100.996,237.703,100.996,234.558
+Norte,AP,Pública,Nível I,Não,Sem resposta,1,0.0,,0.0,
+Norte,AP,Pública,Nível I,Não,Sim,12,6.081,258.206,6.081,265.172
+Norte,AP,Pública,Nível I,Sem resposta,Não,4,4.722,240.218,4.722,233.182
+Norte,AP,Pública,Nível I,Sim,Não,1,1.538,219.37,1.538,231.593
+Norte,AP,Pública,Nível I,Sim,Sim,25,0.0,,0.0,
+Norte,AP,Pública,Nível II,Não,Não,317,425.894,244.595,425.894,249.298
+Norte,AP,Pública,Nível II,Não,Sem resposta,4,6.107,250.955,6.107,228.446
+Norte,AP,Pública,Nível II,Não,Sim,462,605.574,249.839,605.574,258.397
+Norte,AP,Pública,Nível II,Sem resposta,Não,29,39.353,227.577,39.353,229.034
+Norte,AP,Pública,Nível II,Sem resposta,Sem resposta,1,1.6,211.638,1.6,224.493
+Norte,AP,Pública,Nível II,Sem resposta,Sim,24,32.357,248.458,32.357,250.257
+Norte,AP,Pública,Nível II,Sim,Não,35,47.493,252.18,47.493,249.71
+Norte,AP,Pública,Nível II,Sim,Sem resposta,3,3.502,274.644,3.502,245.87
+Norte,AP,Pública,Nível II,Sim,Sim,50,63.15,247.033,63.15,260.706
+Norte,AP,Pública,Nível III,Não,Não,94,129.858,250.738,129.858,258.997
+Norte,AP,Pública,Nível III,Não,Sem resposta,9,11.913,254.868,11.913,252.651
+Norte,AP,Pública,Nível III,Não,Sim,841,1094.64,250.905,1094.64,258.378
+Norte,AP,Pública,Nível III,Sem resposta,Não,9,11.433,248.69,11.433,251.618
+Norte,AP,Pública,Nível III,Sem resposta,Sim,79,102.285,243.599,102.285,246.738
+Norte,AP,Pública,Nível III,Sim,Não,39,47.848,268.518,47.848,270.205
+Norte,AP,Pública,Nível III,Sim,Sem resposta,3,3.626,228.754,3.626,253.364
+Norte,AP,Pública,Nível III,Sim,Sim,303,393.416,259.926,393.416,275.101
+Norte,AP,Pública,Nível IV,Não,Não,25,32.651,251.196,32.651,266.175
+Norte,AP,Pública,Nível IV,Não,Sem resposta,6,8.263,253.198,8.263,259.357
+Norte,AP,Pública,Nível IV,Não,Sim,576,745.777,249.82,745.777,256.974
+Norte,AP,Pública,Nível IV,Sem resposta,Não,4,4.982,239.554,4.982,235.404
+Norte,AP,Pública,Nível IV,Sem resposta,Sem resposta,1,1.174,285.907,1.174,333.73
+Norte,AP,Pública,Nível IV,Sem resposta,Sim,53,68.588,242.903,68.588,248.959
+Norte,AP,Pública,Nível IV,Sim,Não,28,35.081,254.51,35.081,271.502
+Norte,AP,Pública,Nível IV,Sim,Sem resposta,5,8.787,279.642,8.787,273.658
+Norte,AP,Pública,Nível IV,Sim,Sim,577,737.859,262.536,737.859,276.95
+Norte,AP,Pública,Nível V,Não,Não,2,2.288,233.959,2.288,276.22
+Norte,AP,Pública,Nível V,Não,Sem resposta,4,5.197,249.398,5.197,256.338
+Norte,AP,Pública,Nível V,Não,Sim,273,343.666,253.735,343.666,261.759
+Norte,AP,Pública,Nível V,Sem resposta,Sem resposta,2,2.786,225.273,2.786,227.249
+Norte,AP,Pública,Nível V,Sem resposta,Sim,30,36.643,252.117,36.643,254.003
+Norte,AP,Pública,Nível V,Sim,Não,24,30.623,258.859,30.623,273.393
+Norte,AP,Pública,Nível V,Sim,Sem resposta,6,7.73,282.193,7.73,241.063
+Norte,AP,Pública,Nível V,Sim,Sim,659,838.932,262.805,838.932,276.845
+Norte,AP,Pública,Nível VI,Não,Sim,68,88.433,245.793,88.433,261.839
+Norte,AP,Pública,Nível VI,Sem resposta,Não,1,1.042,280.498,1.042,280.584
+Norte,AP,Pública,Nível VI,Sem resposta,Sim,19,23.369,242.627,23.369,256.421
+Norte,AP,Pública,Nível VI,Sim,Não,1,1.152,295.444,1.152,222.365
+Norte,AP,Pública,Nível VI,Sim,Sem resposta,5,6.988,219.049,6.988,230.088
+Norte,AP,Pública,Nível VI,Sim,Sim,553,698.667,262.85,698.667,279.637
+Norte,AP,Pública,Nível VII,Não,Sim,14,17.524,236.624,17.524,257.107
+Norte,AP,Pública,Nível VII,Sem resposta,Sim,10,11.932,232.659,11.932,269.848
+Norte,AP,Pública,Nível VII,Sim,Não,2,2.173,235.979,2.173,275.526
+Norte,AP,Pública,Nível VII,Sim,Sem resposta,2,2.216,231.79,2.216,186.747
+Norte,AP,Pública,Nível VII,Sim,Sim,442,545.378,276.065,545.378,283.856
+Norte,AP,Pública,Nível VIII,Sim,Sim,56,65.601,268.455,65.601,287.539
+Norte,AP,Pública,Sem resposta,Não,Sem resposta,5,6.067,262.55,6.067,247.313
+Norte,AP,Pública,Sem resposta,Não,Sim,1,1.08,247.477,1.08,258.759
+Norte,AP,Pública,Sem resposta,Sem resposta,Não,2,2.484,232.758,2.484,230.24
+Norte,AP,Pública,Sem resposta,Sem resposta,Sem resposta,370,478.647,252.432,478.647,256.973
+Norte,AP,Pública,Sem resposta,Sem resposta,Sim,12,17.793,223.261,17.793,219.85
+Norte,AP,Pública,Sem resposta,Sim,Sem resposta,1,1.042,235.786,1.042,194.0
+Norte,PA,Privada,Nível I,Não,Não,3,17.035,235.477,17.035,219.217
+Norte,PA,Privada,Nível I,Não,Sim,1,8.123,267.536,8.123,279.947
+Norte,PA,Privada,Nível I,Sem resposta,Não,1,4.682,280.24,4.682,193.784
+Norte,PA,Privada,Nível I,Sim,Sim,12,0.0,,0.0,
+Norte,PA,Privada,Nível II,Não,Não,14,106.83,263.908,106.83,275.961
+Norte,PA,Privada,Nível II,Não,Sem resposta,1,2.669,256.715,2.669,264.505
+Norte,PA,Privada,Nível II,Não,Sim,26,182.26,288.435,182.26,303.217
+Norte,PA,Privada,Nível II,Sem resposta,Sim,1,8.123,327.377,8.123,304.775
+Norte,PA,Privada,Nível II,Sim,Não,5,23.289,290.621,23.289,306.16
+Norte,PA,Privada,Nível II,Sim,Sim,6,37.658,265.707,37.658,282.568
+Norte,PA,Privada,Nível III,Não,Não,8,53.436,298.894,53.436,307.536
+Norte,PA,Privada,Nível III,Não,Sem resposta,1,8.123,190.798,8.123,259.881
+Norte,PA,Privada,Nível III,Não,Sim,47,350.018,269.253,350.018,274.387
+Norte,PA,Privada,Nível III,Sem resposta,Sim,4,17.824,300.544,17.824,296.718
+Norte,PA,Privada,Nível III,Sim,Não,2,10.161,354.654,10.161,318.188
+Norte,PA,Privada,Nível III,Sim,Sem resposta,1,7.492,268.8,7.492,268.456
+Norte,PA,Privada,Nível III,Sim,Sim,40,287.935,295.944,287.935,312.057
+Norte,PA,Privada,Nível IV,Não,Não,3,21.865,284.141,21.865,303.743
+Norte,PA,Privada,Nível IV,Não,Sim,71,499.51,282.205,499.51,293.869
+Norte,PA,Privada,Nível IV,Sem resposta,Sim,3,24.565,265.699,24.565,255.91
+Norte,PA,Privada,Nível IV,Sim,Não,3,18.182,315.005,18.182,305.545
+Norte,PA,Privada,Nível IV,Sim,Sim,113,796.128,297.222,796.128,305.374
+Norte,PA,Privada,Nível V,Não,Não,1,10.831,333.131,10.831,313.372
+Norte,PA,Privada,Nível V,Não,Sim,43,322.743,284.401,322.743,297.019
+Norte,PA,Privada,Nível V,Sem resposta,Sim,4,23.432,241.474,23.432,244.872
+Norte,PA,Privada,Nível V,Sim,Não,3,20.854,343.926,20.854,329.598
+Norte,PA,Privada,Nível V,Sim,Sim,226,1632.825,303.744,1632.825,313.253
+Norte,PA,Privada,Nível VI,Não,Sim,17,123.79,285.016,123.79,290.274
+Norte,PA,Privada,Nível VI,Sem resposta,Sim,3,23.317,317.395,23.317,319.767
+Norte,PA,Privada,Nível VI,Sim,Não,1,7.492,365.934,7.492,350.322
+Norte,PA,Privada,Nível VI,Sim,Sem resposta,1,8.123,360.775,8.123,354.262
+Norte,PA,Privada,Nível VI,Sim,Sim,260,1808.566,302.691,1808.566,305.469
+Norte,PA,Privada,Nível VII,Não,Sim,3,20.602,255.508,20.602,246.375
+Norte,PA,Privada,Nível VII,Sem resposta,Sim,4,32.689,312.123,32.689,306.171
+Norte,PA,Privada,Nível VII,Sim,Sem resposta,1,7.492,440.698,7.492,351.89
+Norte,PA,Privada,Nível VII,Sim,Sim,282,2001.341,321.057,2001.341,320.019
+Norte,PA,Privada,Nível VIII,Sim,Sim,39,271.882,326.272,271.882,323.671
+Norte,PA,Privada,Sem resposta,Sem resposta,Sem resposta,41,282.939,321.328,282.939,319.642
+Norte,PA,Privada,Sem resposta,Sem resposta,Sim,1,6.243,293.851,6.243,325.194
+Norte,PA,Privada,Sem resposta,Sim,Sim,1,9.928,362.492,9.928,326.595
+Norte,PA,Pública,Nível I,Não,Não,2880,3312.58,245.467,3312.58,245.418
+Norte,PA,Pública,Nível I,Não,Sem resposta,28,32.772,223.626,32.772,223.099
+Norte,PA,Pública,Nível I,Não,Sim,472,298.661,238.299,298.661,240.342
+Norte,PA,Pública,Nível I,Sem resposta,Não,217,231.526,236.709,231.526,235.409
+Norte,PA,Pública,Nível I,Sem resposta,Sem resposta,9,5.641,217.912,5.641,199.802
+Norte,PA,Pública,Nível I,Sem resposta,Sim,40,22.881,253.322,22.881,239.985
+Norte,PA,Pública,Nível I,Sim,Não,75,65.049,242.306,65.049,247.461
+Norte,PA,Pública,Nível I,Sim,Sem resposta,2,0.0,,0.0,
+Norte,PA,Pública,Nível I,Sim,Sim,140,1.03,286.475,1.03,227.56
+Norte,PA,Pública,Nível II,Não,Não,6586,7406.347,251.034,7406.347,255.081
+Norte,PA,Pública,Nível II,Não,Sem resposta,120,166.785,233.549,166.785,237.166
+Norte,PA,Pública,Nível II,Não,Sim,10816,11973.889,251.904,11973.889,257.382
+Norte,PA,Pública,Nível II,Sem resposta,Não,468,520.367,241.362,520.367,245.729
+Norte,PA,Pública,Nível II,Sem resposta,Sem resposta,22,24.34,241.638,24.34,236.373
+Norte,PA,Pública,Nível II,Sem resposta,Sim,652,739.107,241.487,739.107,246.76
+Norte,PA,Pública,Nível II,Sim,Não,905,1002.715,254.179,1002.715,258.102
+Norte,PA,Pública,Nível II,Sim,Sem resposta,21,23.102,230.884,23.102,242.85
+Norte,PA,Pública,Nível II,Sim,Sim,1197,1308.586,257.954,1308.586,267.203
+Norte,PA,Pública,Nível III,Não,Não,1083,1171.609,255.758,1171.609,261.507
+Norte,PA,Pública,Nível III,Não,Sem resposta,86,95.506,244.958,95.506,248.177
+Norte,PA,Pública,Nível III,Não,Sim,10211,11138.763,255.588,11138.763,261.834
+Norte,PA,Pública,Nível III,Sem resposta,Não,85,95.106,248.266,95.106,248.323
+Norte,PA,Pública,Nível III,Sem resposta,Sem resposta,22,24.612,229.758,24.612,229.488
+Norte,PA,Pública,Nível III,Sem resposta,Sim,623,697.562,247.302,697.562,251.032
+Norte,PA,Pública,Nível III,Sim,Não,530,573.067,259.83,573.067,269.084
+Norte,PA,Pública,Nível III,Sim,Sem resposta,40,47.903,258.548,47.903,270.909
+Norte,PA,Pública,Nível III,Sim,Sim,4112,4584.681,264.769,4584.681,274.677
+Norte,PA,Pública,Nível IV,Não,Não,228,246.681,252.095,246.681,254.221
+Norte,PA,Pública,Nível IV,Não,Sem resposta,34,35.894,251.578,35.894,253.412
+Norte,PA,Pública,Nível IV,Não,Sim,5997,6505.192,256.385,6505.192,262.65
+Norte,PA,Pública,Nível IV,Sem resposta,Não,23,24.839,257.915,24.839,258.142
+Norte,PA,Pública,Nível IV,Sem resposta,Sem resposta,11,11.88,253.687,11.88,239.786
+Norte,PA,Pública,Nível IV,Sem resposta,Sim,413,441.804,249.007,441.804,252.01
+Norte,PA,Pública,Nível IV,Sim,Não,303,329.214,264.235,329.214,264.449
+Norte,PA,Pública,Nível IV,Sim,Sem resposta,52,55.291,255.01,55.291,262.276
+Norte,PA,Pública,Nível IV,Sim,Sim,6069,6717.278,267.06,6717.278,276.367
+Norte,PA,Pública,Nível V,Não,Não,36,39.199,252.137,39.199,270.638
+Norte,PA,Pública,Nível V,Não,Sem resposta,19,21.424,251.754,21.424,239.468
+Norte,PA,Pública,Nível V,Não,Sim,1923,2060.924,257.04,2060.924,261.361
+Norte,PA,Pública,Nível V,Sem resposta,Não,5,5.634,235.422,5.634,261.789
+Norte,PA,Pública,Nível V,Sem resposta,Sem resposta,3,3.816,230.05,3.816,213.738
+Norte,PA,Pública,Nível V,Sem resposta,Sim,257,274.067,248.341,274.067,254.966
+Norte,PA,Pública,Nível V,Sim,Não,101,112.037,267.224,112.037,272.341
+Norte,PA,Pública,Nível V,Sim,Sem resposta,35,37.41,258.431,37.41,258.04
+Norte,PA,Pública,Nível V,Sim,Sim,5037,5493.782,269.129,5493.782,278.109
+Norte,PA,Pública,Nível VI,Não,Não,3,2.979,272.502,2.979,283.55
+Norte,PA,Pública,Nível VI,Não,Sem resposta,5,5.291,251.683,5.291,271.75
+Norte,PA,Pública,Nível VI,Não,Sim,388,421.364,259.406,421.364,265.339
+Norte,PA,Pública,Nível VI,Sem resposta,Não,3,3.61,254.951,3.61,234.6
+Norte,PA,Pública,Nível VI,Sem resposta,Sem resposta,3,3.505,310.728,3.505,252.674
+Norte,PA,Pública,Nível VI,Sem resposta,Sim,89,99.906,255.726,99.906,258.3
+Norte,PA,Pública,Nível VI,Sim,Não,29,30.507,264.948,30.507,270.35
+Norte,PA,Pública,Nível VI,Sim,Sem resposta,12,13.524,255.851,13.524,268.313
+Norte,PA,Pública,Nível VI,Sim,Sim,2767,3024.404,271.106,3024.404,278.35
+Norte,PA,Pública,Nível VII,Não,Sim,56,59.074,253.045,59.074,265.739
+Norte,PA,Pública,Nível VII,Sem resposta,Sim,35,40.631,250.951,40.631,253.699
+Norte,PA,Pública,Nível VII,Sim,Não,6,6.425,256.492,6.425,249.592
+Norte,PA,Pública,Nível VII,Sim,Sem resposta,7,7.228,260.523,7.228,271.444
+Norte,PA,Pública,Nível VII,Sim,Sim,1449,1606.911,274.977,1606.911,277.641
+Norte,PA,Pública,Nível VIII,Não,Sim,1,1.375,218.762,1.375,208.662
+Norte,PA,Pública,Nível VIII,Sem resposta,Sim,2,2.135,229.024,2.135,235.538
+Norte,PA,Pública,Nível VIII,Sim,Não,1,1.033,341.073,1.033,323.279
+Norte,PA,Pública,Nível VIII,Sim,Sem resposta,1,1.101,278.306,1.101,156.159
+Norte,PA,Pública,Nível VIII,Sim,Sim,124,132.324,269.821,132.324,278.706
+Norte,PA,Pública,Sem resposta,Não,Sem resposta,24,26.324,236.264,26.324,233.835
+Norte,PA,Pública,Sem resposta,Não,Sim,1,0.969,195.273,0.969,195.538
+Norte,PA,Pública,Sem resposta,Sem resposta,Não,22,123.102,228.671,123.102,228.729
+Norte,PA,Pública,Sem resposta,Sem resposta,Sem resposta,1870,2511.208,248.424,2511.208,254.918
+Norte,PA,Pública,Sem resposta,Sem resposta,Sim,80,89.089,218.504,89.089,202.828
+Norte,PA,Pública,Sem resposta,Sim,Não,1,1.034,220.812,1.034,199.674
+Norte,PA,Pública,Sem resposta,Sim,Sem resposta,18,23.41,227.955,23.41,216.195
+Norte,PA,Pública,Sem resposta,Sim,Sim,7,7.675,212.458,7.675,196.212
+Norte,RO,Privada,Nível I,Não,Não,1,1.378,411.724,1.378,360.793
+Norte,RO,Privada,Nível II,Não,Não,1,1.558,309.392,1.558,159.062
+Norte,RO,Privada,Nível II,Não,Sim,2,4.507,247.315,4.507,290.42
+Norte,RO,Privada,Nível II,Sem resposta,Sim,1,2.527,209.704,2.527,266.842
+Norte,RO,Privada,Nível II,Sim,Não,2,4.422,309.199,4.422,249.628
+Norte,RO,Privada,Nível II,Sim,Sim,1,2.439,249.845,2.439,270.214
+Norte,RO,Privada,Nível III,Não,Não,1,1.378,306.136,1.378,354.247
+Norte,RO,Privada,Nível III,Não,Sim,10,19.923,295.142,19.923,284.999
+Norte,RO,Privada,Nível III,Sim,Sim,20,41.974,275.429,41.974,287.574
+Norte,RO,Privada,Nível IV,Não,Sim,9,14.68,276.757,14.68,273.929
+Norte,RO,Privada,Nível IV,Sem resposta,Sim,1,1.895,279.157,1.895,308.425
+Norte,RO,Privada,Nível IV,Sim,Não,1,1.83,320.674,1.83,324.358
+Norte,RO,Privada,Nível IV,Sim,Sim,53,98.5,289.08,98.5,299.111
+Norte,RO,Privada,Nível V,Não,Sim,10,18.861,258.49,18.861,268.875
+Norte,RO,Privada,Nível V,Sem resposta,Sim,2,3.453,236.707,3.453,203.535
+Norte,RO,Privada,Nível V,Sim,Não,2,4.507,298.959,4.507,254.797
+Norte,RO,Privada,Nível V,Sim,Sem resposta,1,1.558,313.082,1.558,293.713
+Norte,RO,Privada,Nível V,Sim,Sim,93,164.634,291.786,164.634,293.707
+Norte,RO,Privada,Nível VI,Não,Sim,4,6.708,295.949,6.708,294.022
+Norte,RO,Privada,Nível VI,Sem resposta,Sim,3,5.713,311.623,5.713,284.256
+Norte,RO,Privada,Nível VI,Sim,Sem resposta,1,1.22,270.267,1.22,321.736
+Norte,RO,Privada,Nível VI,Sim,Sim,152,260.581,306.655,260.581,308.971
+Norte,RO,Privada,Nível VII,Não,Sim,3,6.437,255.912,6.437,280.594
+Norte,RO,Privada,Nível VII,Sem resposta,Sim,1,1.895,313.073,1.895,301.396
+Norte,RO,Privada,Nível VII,Sim,Não,1,1.22,345.221,1.22,325.111
+Norte,RO,Privada,Nível VII,Sim,Sem resposta,2,2.439,350.097,2.439,325.231
+Norte,RO,Privada,Nível VII,Sim,Sim,243,397.405,309.552,397.405,310.5
+Norte,RO,Privada,Nível VIII,Sim,Sim,94,154.728,313.447,154.728,311.61
+Norte,RO,Privada,Sem resposta,Sem resposta,Sem resposta,34,62.972,296.841,62.972,310.075
+Norte,RO,Privada,Sem resposta,Sim,Sem resposta,2,3.659,338.693,3.659,317.027
+Norte,RO,Pública,Nível I,Não,Não,50,54.61,243.804,54.61,246.67
+Norte,RO,Pública,Nível I,Não,Sem resposta,1,1.857,294.281,1.857,232.606
+Norte,RO,Pública,Nível I,Não,Sim,10,2.117,232.205,2.117,278.337
+Norte,RO,Pública,Nível I,Sim,Não,3,2.615,254.388,2.615,193.606
+Norte,RO,Pública,Nível I,Sim,Sim,4,0.0,,0.0,
+Norte,RO,Pública,Nível II,Não,Não,252,290.314,251.73,290.314,257.086
+Norte,RO,Pública,Nível II,Não,Sem resposta,12,14.423,276.683,14.423,289.756
+Norte,RO,Pública,Nível II,Não,Sim,836,945.922,255.062,945.922,257.767
+Norte,RO,Pública,Nível II,Sem resposta,Não,19,21.639,245.635,21.639,245.768
+Norte,RO,Pública,Nível II,Sem resposta,Sem resposta,1,1.111,263.069,1.111,271.366
+Norte,RO,Pública,Nível II,Sem resposta,Sim,46,52.612,244.502,52.612,250.138
+Norte,RO,Pública,Nível II,Sim,Não,40,47.59,251.586,47.59,258.916
+Norte,RO,Pública,Nível II,Sim,Sem resposta,1,1.15,219.601,1.15,279.158
+Norte,RO,Pública,Nível II,Sim,Sim,94,113.144,269.916,113.144,280.602
+Norte,RO,Pública,Nível III,Não,Não,103,115.094,260.211,115.094,266.478
+Norte,RO,Pública,Nível III,Não,Sem resposta,14,15.139,239.672,15.139,245.515
+Norte,RO,Pública,Nível III,Não,Sim,1628,1868.662,259.812,1868.662,263.751
+Norte,RO,Pública,Nível III,Sem resposta,Não,7,8.124,233.506,8.124,266.576
+Norte,RO,Pública,Nível III,Sem resposta,Sim,97,109.376,246.728,109.376,255.553
+Norte,RO,Pública,Nível III,Sim,Não,43,46.872,268.402,46.872,260.563
+Norte,RO,Pública,Nível III,Sim,Sem resposta,6,6.514,274.372,6.514,283.785
+Norte,RO,Pública,Nível III,Sim,Sim,664,770.331,270.675,770.331,278.278
+Norte,RO,Pública,Nível IV,Não,Não,44,50.172,260.543,50.172,257.792
+Norte,RO,Pública,Nível IV,Não,Sem resposta,10,11.321,256.381,11.321,271.156
+Norte,RO,Pública,Nível IV,Não,Sim,1593,1780.922,259.476,1780.922,261.614
+Norte,RO,Pública,Nível IV,Sem resposta,Não,2,2.231,273.123,2.231,235.213
+Norte,RO,Pública,Nível IV,Sem resposta,Sem resposta,5,5.402,246.344,5.402,213.336
+Norte,RO,Pública,Nível IV,Sem resposta,Sim,112,125.579,257.575,125.579,256.868
+Norte,RO,Pública,Nível IV,Sim,Não,42,47.043,279.075,47.043,278.433
+Norte,RO,Pública,Nível IV,Sim,Sem resposta,10,10.397,263.591,10.397,265.894
+Norte,RO,Pública,Nível IV,Sim,Sim,1680,1942.958,273.243,1942.958,280.681
+Norte,RO,Pública,Nível V,Não,Não,8,8.662,248.528,8.662,261.695
+Norte,RO,Pública,Nível V,Não,Sem resposta,7,7.888,216.133,7.888,228.927
+Norte,RO,Pública,Nível V,Não,Sim,729,820.922,260.636,820.922,260.015
+Norte,RO,Pública,Nível V,Sem resposta,Não,4,4.303,247.136,4.303,243.245
+Norte,RO,Pública,Nível V,Sem resposta,Sem resposta,1,1.188,270.993,1.188,324.88
+Norte,RO,Pública,Nível V,Sem resposta,Sim,79,91.501,251.886,91.501,259.048
+Norte,RO,Pública,Nível V,Sim,Não,33,40.062,266.419,40.062,269.587
+Norte,RO,Pública,Nível V,Sim,Sem resposta,20,23.567,259.513,23.567,260.589
+Norte,RO,Pública,Nível V,Sim,Sim,2104,2409.293,275.226,2409.293,279.43
+Norte,RO,Pública,Nível VI,Não,Não,2,2.537,281.461,2.537,291.024
+Norte,RO,Pública,Nível VI,Não,Sem resposta,3,3.847,254.65,3.847,189.617
+Norte,RO,Pública,Nível VI,Não,Sim,188,212.509,261.789,212.509,260.914
+Norte,RO,Pública,Nível VI,Sem resposta,Sem resposta,1,1.144,229.478,1.144,167.144
+Norte,RO,Pública,Nível VI,Sem resposta,Sim,39,44.541,257.79,44.541,261.039
+Norte,RO,Pública,Nível VI,Sim,Não,9,10.531,274.399,10.531,268.596
+Norte,RO,Pública,Nível VI,Sim,Sem resposta,9,9.852,234.081,9.852,262.429
+Norte,RO,Pública,Nível VI,Sim,Sim,1573,1797.244,276.148,1797.244,280.475
+Norte,RO,Pública,Nível VII,Não,Sim,37,40.791,273.87,40.791,273.249
+Norte,RO,Pública,Nível VII,Sem resposta,Sem resposta,1,1.143,312.93,1.143,307.958
+Norte,RO,Pública,Nível VII,Sem resposta,Sim,19,21.436,269.036,21.436,266.702
+Norte,RO,Pública,Nível VII,Sim,Não,3,3.465,299.465,3.465,303.689
+Norte,RO,Pública,Nível VII,Sim,Sem resposta,5,5.619,266.778,5.619,276.935
+Norte,RO,Pública,Nível VII,Sim,Sim,1093,1254.585,281.215,1254.585,285.625
+Norte,RO,Pública,Nível VIII,Sim,Sem resposta,2,2.142,275.368,2.142,267.014
+Norte,RO,Pública,Nível VIII,Sim,Sim,113,125.711,282.554,125.711,288.115
+Norte,RO,Pública,Sem resposta,Não,Sem resposta,2,2.21,226.668,2.21,246.418
+Norte,RO,Pública,Sem resposta,Sem resposta,Não,3,3.433,239.17,3.433,195.299
+Norte,RO,Pública,Sem resposta,Sem resposta,Sem resposta,881,1016.441,262.264,1016.441,264.294
+Norte,RO,Pública,Sem resposta,Sem resposta,Sim,17,18.989,223.127,18.989,215.416
+Norte,RO,Pública,Sem resposta,Sim,Sem resposta,5,5.306,238.565,5.306,234.672
+Norte,RO,Pública,Sem resposta,Sim,Sim,5,5.898,267.702,5.898,266.379
+Norte,RR,Privada,Nível III,Não,Sim,2,5.58,289.287,5.58,280.39
+Norte,RR,Privada,Nível III,Sim,Sim,2,4.883,284.541,4.883,321.458
+Norte,RR,Privada,Nível IV,Não,Sim,3,8.37,272.879,8.37,281.611
+Norte,RR,Privada,Nível IV,Sim,Sim,9,23.018,284.512,23.018,315.072
+Norte,RR,Privada,Nível V,Não,Sim,4,10.463,305.094,10.463,313.093
+Norte,RR,Privada,Nível V,Sim,Sim,19,50.918,303.034,50.918,315.089
+Norte,RR,Privada,Nível VI,Não,Sim,2,4.185,335.592,4.185,332.088
+Norte,RR,Privada,Nível VI,Sim,Sim,31,76.726,294.743,76.726,282.188
+Norte,RR,Privada,Nível VII,Não,Sim,1,2.79,316.141,2.79,306.034
+Norte,RR,Privada,Nível VII,Sim,Não,1,2.79,351.026,2.79,343.756
+Norte,RR,Privada,Nível VII,Sim,Sim,57,129.737,305.373,129.737,313.261
+Norte,RR,Privada,Nível VIII,Sem resposta,Sim,1,2.79,245.78,2.79,276.017
+Norte,RR,Privada,Nível VIII,Sim,Sim,23,50.221,292.643,50.221,306.996
+Norte,RR,Privada,Sem resposta,Sem resposta,Sem resposta,7,16.74,305.71,16.74,300.532
+Norte,RR,Privada,Sem resposta,Sim,Sem resposta,1,2.79,298.55,2.79,304.136
+Norte,RR,Pública,Nível I,Não,Não,102,148.839,227.482,148.839,226.578
+Norte,RR,Pública,Nível I,Não,Sim,11,9.699,208.996,9.699,218.662
+Norte,RR,Pública,Nível I,Sem resposta,Não,9,12.804,216.507,12.804,191.181
+Norte,RR,Pública,Nível I,Sem resposta,Sem resposta,1,1.455,176.253,1.455,163.504
+Norte,RR,Pública,Nível I,Sim,Não,1,1.125,249.196,1.125,329.718
+Norte,RR,Pública,Nível I,Sim,Sim,3,0.0,,0.0,
+Norte,RR,Pública,Nível II,Não,Não,251,377.352,236.981,377.352,236.367
+Norte,RR,Pública,Nível II,Não,Sem resposta,8,12.083,251.735,12.083,232.728
+Norte,RR,Pública,Nível II,Não,Sim,307,450.422,241.445,450.422,238.541
+Norte,RR,Pública,Nível II,Sem resposta,Não,21,32.382,233.22,32.382,223.145
+Norte,RR,Pública,Nível II,Sem resposta,Sem resposta,1,1.222,269.389,1.222,302.013
+Norte,RR,Pública,Nível II,Sem resposta,Sim,30,47.765,238.49,47.765,227.573
+Norte,RR,Pública,Nível II,Sim,Não,34,49.823,234.357,49.823,247.397
+Norte,RR,Pública,Nível II,Sim,Sim,40,58.956,258.468,58.956,251.621
+Norte,RR,Pública,Nível III,Não,Não,52,71.921,244.32,71.921,246.604
+Norte,RR,Pública,Nível III,Não,Sem resposta,5,7.779,260.275,7.779,218.287
+Norte,RR,Pública,Nível III,Não,Sim,466,686.861,250.522,686.861,249.831
+Norte,RR,Pública,Nível III,Sem resposta,Não,5,7.425,233.253,7.425,257.281
+Norte,RR,Pública,Nível III,Sem resposta,Sem resposta,1,1.481,215.787,1.481,231.574
+Norte,RR,Pública,Nível III,Sem resposta,Sim,30,43.308,224.262,43.308,242.818
+Norte,RR,Pública,Nível III,Sim,Não,23,32.663,246.965,32.663,254.341
+Norte,RR,Pública,Nível III,Sim,Sem resposta,1,1.15,274.985,1.15,193.81
+Norte,RR,Pública,Nível III,Sim,Sim,187,260.582,259.127,260.582,262.445
+Norte,RR,Pública,Nível IV,Não,Não,11,16.254,249.323,16.254,237.451
+Norte,RR,Pública,Nível IV,Não,Sem resposta,3,5.2,258.832,5.2,229.405
+Norte,RR,Pública,Nível IV,Não,Sim,372,525.767,253.358,525.767,251.7
+Norte,RR,Pública,Nível IV,Sem resposta,Não,1,1.32,305.029,1.32,248.872
+Norte,RR,Pública,Nível IV,Sem resposta,Sem resposta,2,3.101,253.373,3.101,186.763
+Norte,RR,Pública,Nível IV,Sem resposta,Sim,38,57.623,227.756,57.623,234.365
+Norte,RR,Pública,Nível IV,Sim,Não,18,24.385,262.194,24.385,274.425
+Norte,RR,Pública,Nível IV,Sim,Sem resposta,3,3.731,262.07,3.731,314.418
+Norte,RR,Pública,Nível IV,Sim,Sim,385,545.772,261.148,545.772,269.359
+Norte,RR,Pública,Nível V,Não,Não,5,6.711,252.728,6.711,236.076
+Norte,RR,Pública,Nível V,Não,Sem resposta,1,1.667,216.35,1.667,302.127
+Norte,RR,Pública,Nível V,Não,Sim,173,245.018,254.103,245.018,250.915
+Norte,RR,Pública,Nível V,Sem resposta,Não,1,1.263,229.745,1.263,262.027
+Norte,RR,Pública,Nível V,Sem resposta,Sim,29,43.268,235.765,43.268,241.704
+Norte,RR,Pública,Nível V,Sim,Não,11,15.656,266.582,15.656,235.915
+Norte,RR,Pública,Nível V,Sim,Sem resposta,3,4.009,265.285,4.009,256.69
+Norte,RR,Pública,Nível V,Sim,Sim,485,714.976,258.559,714.976,266.695
+Norte,RR,Pública,Nível VI,Não,Sim,48,68.451,254.004,68.451,246.331
+Norte,RR,Pública,Nível VI,Sem resposta,Não,2,3.199,250.681,3.199,227.533
+Norte,RR,Pública,Nível VI,Sem resposta,Sim,17,24.088,242.861,24.088,216.913
+Norte,RR,Pública,Nível VI,Sim,Não,7,10.145,278.068,10.145,281.67
+Norte,RR,Pública,Nível VI,Sim,Sem resposta,5,8.175,218.233,8.175,255.696
+Norte,RR,Pública,Nível VI,Sim,Sim,409,576.915,272.306,576.915,277.388
+Norte,RR,Pública,Nível VII,Não,Sim,14,22.069,231.556,22.069,225.554
+Norte,RR,Pública,Nível VII,Sem resposta,Sim,3,4.273,261.135,4.273,220.65
+Norte,RR,Pública,Nível VII,Sim,Não,1,1.714,335.335,1.714,316.713
+Norte,RR,Pública,Nível VII,Sim,Sem resposta,2,2.558,225.723,2.558,210.175
+Norte,RR,Pública,Nível VII,Sim,Sim,373,507.669,278.551,507.669,276.111
+Norte,RR,Pública,Nível VIII,Sim,Sim,46,63.003,268.363,63.003,260.809
+Norte,RR,Pública,Sem resposta,Não,Sim,1,0.923,258.858,0.923,205.676
+Norte,RR,Pública,Sem resposta,Sem resposta,Não,2,2.376,239.371,2.376,257.063
+Norte,RR,Pública,Sem resposta,Sem resposta,Sem resposta,365,534.325,250.329,534.325,251.655
+Norte,RR,Pública,Sem resposta,Sem resposta,Sim,12,18.364,211.649,18.364,207.503
+Norte,RR,Pública,Sem resposta,Sim,Sem resposta,3,3.935,226.466,3.935,238.147
+Norte,TO,Privada,Nível I,Não,Não,3,7.89,233.864,7.89,237.912
+Norte,TO,Privada,Nível II,Não,Não,3,7.053,247.719,7.053,256.845
+Norte,TO,Privada,Nível II,Não,Sim,12,33.232,265.955,33.232,272.768
+Norte,TO,Privada,Nível II,Sem resposta,Sim,1,1.33,268.501,1.33,320.415
+Norte,TO,Privada,Nível II,Sim,Não,2,5.723,277.364,5.723,263.151
+Norte,TO,Privada,Nível II,Sim,Sim,2,4.234,237.649,4.234,229.653
+Norte,TO,Privada,Nível III,Não,Não,1,1.33,336.233,1.33,275.185
+Norte,TO,Privada,Nível III,Não,Sim,14,38.118,259.468,38.118,262.593
+Norte,TO,Privada,Nível III,Sem resposta,Sim,2,6.56,225.743,6.56,279.118
+Norte,TO,Privada,Nível III,Sim,Sim,7,23.063,260.531,23.063,272.381
+Norte,TO,Privada,Nível IV,Não,Sim,15,33.336,266.725,33.336,274.315
+Norte,TO,Privada,Nível IV,Sem resposta,Sim,3,5.663,289.616,5.663,255.063
+Norte,TO,Privada,Nível IV,Sim,Sem resposta,1,1.33,310.337,1.33,366.832
+Norte,TO,Privada,Nível IV,Sim,Sim,23,43.067,303.221,43.067,295.953
+Norte,TO,Privada,Nível V,Não,Sim,12,21.474,303.318,21.474,304.078
+Norte,TO,Privada,Nível V,Sim,Sem resposta,1,4.393,211.184,4.393,210.99
+Norte,TO,Privada,Nível V,Sim,Sim,72,145.703,303.291,145.703,315.063
+Norte,TO,Privada,Nível VI,Não,Sim,4,8.198,304.381,8.198,317.29
+Norte,TO,Privada,Nível VI,Sem resposta,Sim,1,2.068,375.816,2.068,382.84
+Norte,TO,Privada,Nível VI,Sim,Sem resposta,1,3.102,334.216,3.102,195.58
+Norte,TO,Privada,Nível VI,Sim,Sim,132,253.202,322.622,253.202,323.623
+Norte,TO,Privada,Nível VII,Não,Sim,6,11.524,341.773,11.524,306.664
+Norte,TO,Privada,Nível VII,Sem resposta,Sim,4,9.529,350.481,9.529,343.013
+Norte,TO,Privada,Nível VII,Sim,Não,1,1.33,217.279,1.33,257.156
+Norte,TO,Privada,Nível VII,Sim,Sim,223,442.258,326.015,442.258,322.573
+Norte,TO,Privada,Nível VIII,Sim,Sim,78,151.311,326.873,151.311,320.803
+Norte,TO,Privada,Sem resposta,Sem resposta,Sem resposta,30,59.978,304.195,59.978,295.039
+Norte,TO,Pública,Nível I,Não,Não,216,232.16,242.598,232.16,245.475
+Norte,TO,Pública,Nível I,Não,Sem resposta,2,2.126,246.5,2.126,267.37
+Norte,TO,Pública,Nível I,Não,Sim,33,28.528,245.33,28.528,252.066
+Norte,TO,Pública,Nível I,Sem resposta,Não,16,17.407,239.168,17.407,251.402
+Norte,TO,Pública,Nível I,Sim,Não,3,3.343,243.39,3.343,255.843
+Norte,TO,Pública,Nível I,Sim,Sem resposta,1,1.13,202.873,1.13,169.89
+Norte,TO,Pública,Nível I,Sim,Sim,1,0.0,,0.0,
+Norte,TO,Pública,Nível II,Não,Não,752,824.698,251.872,824.698,250.893
+Norte,TO,Pública,Nível II,Não,Sem resposta,19,21.259,232.239,21.259,251.9
+Norte,TO,Pública,Nível II,Não,Sim,1584,1726.62,252.511,1726.62,257.378
+Norte,TO,Pública,Nível II,Sem resposta,Não,45,50.57,242.574,50.57,246.487
+Norte,TO,Pública,Nível II,Sem resposta,Sem resposta,5,5.533,237.806,5.533,256.89
+Norte,TO,Pública,Nível II,Sem resposta,Sim,92,101.938,248.028,101.938,244.342
+Norte,TO,Pública,Nível II,Sim,Não,67,73.491,255.329,73.491,254.314
+Norte,TO,Pública,Nível II,Sim,Sem resposta,2,2.0,263.138,2.0,237.976
+Norte,TO,Pública,Nível II,Sim,Sim,151,169.559,267.52,169.559,272.326
+Norte,TO,Pública,Nível III,Não,Não,270,291.992,254.116,291.992,250.507
+Norte,TO,Pública,Nível III,Não,Sem resposta,16,16.952,243.787,16.952,225.107
+Norte,TO,Pública,Nível III,Não,Sim,1958,2127.273,256.973,2127.273,259.048
+Norte,TO,Pública,Nível III,Sem resposta,Não,13,14.463,247.069,14.463,250.712
+Norte,TO,Pública,Nível III,Sem resposta,Sem resposta,2,2.266,246.388,2.266,207.931
+Norte,TO,Pública,Nível III,Sem resposta,Sim,138,147.914,245.622,147.914,240.437
+Norte,TO,Pública,Nível III,Sim,Não,92,101.311,264.568,101.311,264.796
+Norte,TO,Pública,Nível III,Sim,Sem resposta,6,6.182,232.664,6.182,220.403
+Norte,TO,Pública,Nível III,Sim,Sim,670,731.112,267.305,731.112,274.918
+Norte,TO,Pública,Nível IV,Não,Não,97,103.658,263.902,103.658,258.893
+Norte,TO,Pública,Nível IV,Não,Sem resposta,19,21.061,231.301,21.061,252.208
+Norte,TO,Pública,Nível IV,Não,Sim,1819,1972.032,257.446,1972.032,259.696
+Norte,TO,Pública,Nível IV,Sem resposta,Não,9,9.772,248.55,9.772,238.878
+Norte,TO,Pública,Nível IV,Sem resposta,Sem resposta,5,5.347,226.307,5.347,257.902
+Norte,TO,Pública,Nível IV,Sem resposta,Sim,101,107.079,251.05,107.079,250.4
+Norte,TO,Pública,Nível IV,Sim,Não,68,74.067,266.657,74.067,276.431
+Norte,TO,Pública,Nível IV,Sim,Sem resposta,10,11.806,232.729,11.806,228.651
+Norte,TO,Pública,Nível IV,Sim,Sim,1437,1570.944,269.484,1570.944,274.663
+Norte,TO,Pública,Nível V,Não,Não,10,11.431,259.093,11.431,266.272
+Norte,TO,Pública,Nível V,Não,Sem resposta,6,6.878,216.557,6.878,243.036
+Norte,TO,Pública,Nível V,Não,Sim,849,916.727,259.964,916.727,264.141
+Norte,TO,Pública,Nível V,Sem resposta,Não,1,1.083,275.794,1.083,226.804
+Norte,TO,Pública,Nível V,Sem resposta,Sem resposta,6,6.58,257.208,6.58,230.488
+Norte,TO,Pública,Nível V,Sem resposta,Sim,75,81.48,251.873,81.48,250.511
+Norte,TO,Pública,Nível V,Sim,Não,50,53.133,266.301,53.133,262.886
+Norte,TO,Pública,Nível V,Sim,Sem resposta,15,16.008,241.966,16.008,248.305
+Norte,TO,Pública,Nível V,Sim,Sim,1901,2081.089,274.402,2081.089,277.138
+Norte,TO,Pública,Nível VI,Não,Não,1,1.074,222.986,1.074,195.538
+Norte,TO,Pública,Nível VI,Não,Sem resposta,1,1.0,273.163,1.0,256.316
+Norte,TO,Pública,Nível VI,Não,Sim,184,198.405,256.774,198.405,258.55
+Norte,TO,Pública,Nível VI,Sem resposta,Não,1,1.0,195.008,1.0,208.537
+Norte,TO,Pública,Nível VI,Sem resposta,Sem resposta,1,1.368,235.779,1.368,229.056
+Norte,TO,Pública,Nível VI,Sem resposta,Sim,28,31.663,260.769,31.663,253.294
+Norte,TO,Pública,Nível VI,Sim,Não,14,18.232,281.095,18.232,305.613
+Norte,TO,Pública,Nível VI,Sim,Sem resposta,6,6.195,285.67,6.195,248.866
+Norte,TO,Pública,Nível VI,Sim,Sim,1375,1503.045,275.383,1503.045,277.959
+Norte,TO,Pública,Nível VII,Não,Sim,42,44.969,265.469,44.969,261.325
+Norte,TO,Pública,Nível VII,Sem resposta,Sim,14,17.005,250.485,17.005,235.488
+Norte,TO,Pública,Nível VII,Sim,Não,3,3.041,292.77,3.041,279.742
+Norte,TO,Pública,Nível VII,Sim,Sem resposta,5,5.744,252.241,5.744,294.195
+Norte,TO,Pública,Nível VII,Sim,Sim,847,925.884,279.084,925.884,280.11
+Norte,TO,Pública,Nível VIII,Sem resposta,Sim,1,1.056,269.39,1.056,221.809
+Norte,TO,Pública,Nível VIII,Sim,Sim,84,90.903,272.624,90.903,266.851
+Norte,TO,Pública,Sem resposta,Não,Sem resposta,3,3.247,305.552,3.247,262.367
+Norte,TO,Pública,Sem resposta,Não,Sim,1,1.2,189.393,1.2,187.847
+Norte,TO,Pública,Sem resposta,Sem resposta,Não,3,3.227,217.19,3.227,186.041
+Norte,TO,Pública,Sem resposta,Sem resposta,Sem resposta,714,783.867,257.357,783.867,256.246
+Norte,TO,Pública,Sem resposta,Sem resposta,Sim,25,26.907,221.752,26.907,205.493
+Norte,TO,Pública,Sem resposta,Sim,Sem resposta,14,14.852,229.031,14.852,231.804
+Norte,TO,Pública,Sem resposta,Sim,Sim,2,2.312,248.13,2.312,182.932
+Sudeste,ES,Privada,Nível II,Não,Não,2,9.927,268.766,9.927,172.125
+Sudeste,ES,Privada,Nível II,Não,Sim,3,23.067,214.856,23.067,229.404
+Sudeste,ES,Privada,Nível II,Sim,Sim,2,6.08,255.863,6.08,320.815
+Sudeste,ES,Privada,Nível III,Não,Sim,12,92.268,285.09,92.268,279.039
+Sudeste,ES,Privada,Nível III,Sim,Não,2,4.054,232.556,4.054,242.544
+Sudeste,ES,Privada,Nível III,Sim,Sim,9,53.228,347.474,53.228,326.266
+Sudeste,ES,Privada,Nível IV,Não,Sim,13,97.332,258.114,97.332,277.123
+Sudeste,ES,Privada,Nível IV,Sim,Não,1,2.027,313.438,2.027,357.734
+Sudeste,ES,Privada,Nível IV,Sim,Sem resposta,1,2.283,272.086,2.283,248.507
+Sudeste,ES,Privada,Nível IV,Sim,Sim,62,268.58,292.473,268.58,284.908
+Sudeste,ES,Privada,Nível V,Não,Sim,18,45.047,279.524,45.047,289.246
+Sudeste,ES,Privada,Nível V,Sim,Não,2,5.977,312.563,5.977,352.766
+Sudeste,ES,Privada,Nível V,Sim,Sim,140,520.158,313.193,520.158,309.996
+Sudeste,ES,Privada,Nível VI,Não,Sim,14,37.393,303.477,37.393,297.535
+Sudeste,ES,Privada,Nível VI,Sem resposta,Sim,1,3.04,270.105,3.04,293.408
+Sudeste,ES,Privada,Nível VI,Sim,Não,1,2.027,394.06,2.027,224.328
+Sudeste,ES,Privada,Nível VI,Sim,Sem resposta,1,2.027,247.484,2.027,274.171
+Sudeste,ES,Privada,Nível VI,Sim,Sim,274,804.556,329.764,804.556,311.763
+Sudeste,ES,Privada,Nível VII,Não,Sim,9,25.335,267.027,25.335,302.104
+Sudeste,ES,Privada,Nível VII,Sem resposta,Sim,3,6.08,307.868,6.08,222.465
+Sudeste,ES,Privada,Nível VII,Sim,Não,3,11.954,255.794,11.954,302.956
+Sudeste,ES,Privada,Nível VII,Sim,Sem resposta,1,3.04,275.226,3.04,307.926
+Sudeste,ES,Privada,Nível VII,Sim,Sim,506,1605.75,325.694,1605.75,313.409
+Sudeste,ES,Privada,Nível VIII,Não,Sim,1,2.027,355.955,2.027,280.885
+Sudeste,ES,Privada,Nível VIII,Sem resposta,Sim,1,3.04,273.771,3.04,301.614
+Sudeste,ES,Privada,Nível VIII,Sim,Sim,141,454.226,340.273,454.226,307.639
+Sudeste,ES,Privada,Sem resposta,Sem resposta,Sem resposta,112,388.478,322.05,388.478,310.922
+Sudeste,ES,Pública,Nível I,Não,Não,129,139.977,272.762,139.977,273.794
+Sudeste,ES,Pública,Nível I,Não,Sem resposta,1,0.947,283.785,0.947,257.239
+Sudeste,ES,Pública,Nível I,Não,Sim,23,23.097,260.628,23.097,261.976
+Sudeste,ES,Pública,Nível I,Sem resposta,Não,6,6.514,264.366,6.514,268.508
+Sudeste,ES,Pública,Nível I,Sem resposta,Sim,2,2.006,273.483,2.006,267.803
+Sudeste,ES,Pública,Nível I,Sim,Não,2,2.387,270.325,2.387,254.225
+Sudeste,ES,Pública,Nível I,Sim,Sim,3,0.0,,0.0,
+Sudeste,ES,Pública,Nível II,Não,Não,444,493.661,275.491,493.661,276.634
+Sudeste,ES,Pública,Nível II,Não,Sem resposta,11,12.212,257.605,12.212,262.122
+Sudeste,ES,Pública,Nível II,Não,Sim,1043,1192.651,274.503,1192.651,280.897
+Sudeste,ES,Pública,Nível II,Sem resposta,Não,25,27.407,258.935,27.407,279.45
+Sudeste,ES,Pública,Nível II,Sem resposta,Sem resposta,2,2.295,229.497,2.295,184.432
+Sudeste,ES,Pública,Nível II,Sem resposta,Sim,42,46.902,260.237,46.902,251.763
+Sudeste,ES,Pública,Nível II,Sim,Não,112,121.346,276.374,121.346,284.633
+Sudeste,ES,Pública,Nível II,Sim,Sem resposta,1,1.087,240.924,1.087,214.65
+Sudeste,ES,Pública,Nível II,Sim,Sim,260,308.534,279.204,308.534,284.348
+Sudeste,ES,Pública,Nível III,Não,Não,205,231.062,275.425,231.062,273.836
+Sudeste,ES,Pública,Nível III,Não,Sem resposta,20,21.405,263.571,21.405,257.821
+Sudeste,ES,Pública,Nível III,Não,Sim,1886,2178.643,277.746,2178.643,281.284
+Sudeste,ES,Pública,Nível III,Sem resposta,Não,13,14.228,243.717,14.228,240.071
+Sudeste,ES,Pública,Nível III,Sem resposta,Sem resposta,2,2.259,239.189,2.259,277.753
+Sudeste,ES,Pública,Nível III,Sem resposta,Sim,94,111.668,271.506,111.668,275.189
+Sudeste,ES,Pública,Nível III,Sim,Não,132,146.219,267.791,146.219,279.442
+Sudeste,ES,Pública,Nível III,Sim,Sem resposta,13,14.633,275.14,14.633,282.923
+Sudeste,ES,Pública,Nível III,Sim,Sim,1083,1275.391,281.411,1275.391,287.848
+Sudeste,ES,Pública,Nível IV,Não,Não,85,99.291,274.403,99.291,276.1
+Sudeste,ES,Pública,Nível IV,Não,Sem resposta,13,14.696,264.424,14.696,270.369
+Sudeste,ES,Pública,Nível IV,Não,Sim,2002,2313.251,277.51,2313.251,279.843
+Sudeste,ES,Pública,Nível IV,Sem resposta,Não,4,4.464,281.459,4.464,298.685
+Sudeste,ES,Pública,Nível IV,Sem resposta,Sem resposta,1,1.1,195.586,1.1,158.388
+Sudeste,ES,Pública,Nível IV,Sem resposta,Sim,89,97.356,260.294,97.356,264.973
+Sudeste,ES,Pública,Nível IV,Sim,Não,123,139.124,283.999,139.124,284.849
+Sudeste,ES,Pública,Nível IV,Sim,Sem resposta,22,24.356,294.155,24.356,302.517
+Sudeste,ES,Pública,Nível IV,Sim,Sim,2935,3473.003,284.681,3473.003,288.769
+Sudeste,ES,Pública,Nível V,Não,Não,15,16.393,259.742,16.393,251.203
+Sudeste,ES,Pública,Nível V,Não,Sem resposta,8,8.606,261.182,8.606,296.129
+Sudeste,ES,Pública,Nível V,Não,Sim,1192,1377.329,280.19,1377.329,282.151
+Sudeste,ES,Pública,Nível V,Sem resposta,Não,2,2.441,239.054,2.441,306.399
+Sudeste,ES,Pública,Nível V,Sem resposta,Sem resposta,2,2.366,307.023,2.366,303.325
+Sudeste,ES,Pública,Nível V,Sem resposta,Sim,109,128.316,273.233,128.316,263.926
+Sudeste,ES,Pública,Nível V,Sim,Não,79,97.88,276.0,97.88,280.131
+Sudeste,ES,Pública,Nível V,Sim,Sem resposta,24,28.38,295.135,28.38,280.689
+Sudeste,ES,Pública,Nível V,Sim,Sim,4256,4976.764,286.026,4976.764,289.868
+Sudeste,ES,Pública,Nível VI,Não,Não,4,4.266,230.218,4.266,238.615
+Sudeste,ES,Pública,Nível VI,Não,Sem resposta,4,4.544,307.335,4.544,292.738
+Sudeste,ES,Pública,Nível VI,Não,Sim,370,417.863,280.135,417.863,281.066
+Sudeste,ES,Pública,Nível VI,Sem resposta,Sem resposta,2,2.16,295.63,2.16,285.541
+Sudeste,ES,Pública,Nível VI,Sem resposta,Sim,65,71.188,263.346,71.188,264.294
+Sudeste,ES,Pública,Nível VI,Sim,Não,37,46.768,282.359,46.768,287.569
+Sudeste,ES,Pública,Nível VI,Sim,Sem resposta,16,17.796,274.605,17.796,273.951
+Sudeste,ES,Pública,Nível VI,Sim,Sim,3534,4259.916,291.663,4259.916,292.481
+Sudeste,ES,Pública,Nível VII,Não,Sem resposta,1,1.0,355.839,1.0,314.434
+Sudeste,ES,Pública,Nível VII,Não,Sim,61,69.45,280.627,69.45,279.699
+Sudeste,ES,Pública,Nível VII,Sem resposta,Sem resposta,1,1.1,313.53,1.1,330.931
+Sudeste,ES,Pública,Nível VII,Sem resposta,Sim,35,38.746,262.634,38.746,260.597
+Sudeste,ES,Pública,Nível VII,Sim,Não,8,10.005,288.58,10.005,300.941
+Sudeste,ES,Pública,Nível VII,Sim,Sem resposta,13,14.137,270.827,14.137,285.573
+Sudeste,ES,Pública,Nível VII,Sim,Sim,2488,3013.556,297.101,3013.556,295.322
+Sudeste,ES,Pública,Nível VIII,Sem resposta,Sim,3,3.223,266.959,3.223,222.919
+Sudeste,ES,Pública,Nível VIII,Sim,Sem resposta,2,2.29,262.538,2.29,257.829
+Sudeste,ES,Pública,Nível VIII,Sim,Sim,230,292.883,304.482,292.883,293.82
+Sudeste,ES,Pública,Sem resposta,Não,Sem resposta,9,10.01,284.916,10.01,281.395
+Sudeste,ES,Pública,Sem resposta,Sem resposta,Não,15,17.088,262.771,17.088,267.117
+Sudeste,ES,Pública,Sem resposta,Sem resposta,Sem resposta,1792,2099.095,280.777,2099.095,283.861
+Sudeste,ES,Pública,Sem resposta,Sem resposta,Sim,8,9.476,211.19,9.476,202.579
+Sudeste,ES,Pública,Sem resposta,Sim,Sem resposta,11,12.496,276.633,12.496,267.146
+Sudeste,ES,Pública,Sem resposta,Sim,Sim,2,2.297,199.525,2.297,195.479
+Sudeste,MG,Privada,Nível I,Não,Não,1,5.439,244.956,5.439,211.656
+Sudeste,MG,Privada,Nível I,Não,Sim,4,0.0,,0.0,
+Sudeste,MG,Privada,Nível I,Sem resposta,Não,1,1.314,205.973,1.314,200.224
+Sudeste,MG,Privada,Nível I,Sim,Não,2,0.0,,0.0,
+Sudeste,MG,Privada,Nível I,Sim,Sim,21,0.0,,0.0,
+Sudeste,MG,Privada,Nível II,Não,Não,2,56.913,273.147,56.913,273.386
+Sudeste,MG,Privada,Nível II,Não,Sim,7,37.974,282.919,37.974,271.453
+Sudeste,MG,Privada,Nível II,Sim,Não,1,51.474,270.543,51.474,316.687
+Sudeste,MG,Privada,Nível II,Sim,Sim,2,17.464,312.491,17.464,266.485
+Sudeste,MG,Privada,Nível III,Não,Sim,7,39.702,250.897,39.702,272.861
+Sudeste,MG,Privada,Nível III,Sim,Não,1,11.643,262.969,11.643,199.29
+Sudeste,MG,Privada,Nível III,Sim,Sim,8,88.496,341.168,88.496,316.072
+Sudeste,MG,Privada,Nível IV,Não,Não,1,51.474,346.586,51.474,364.914
+Sudeste,MG,Privada,Nível IV,Não,Sim,11,151.942,286.523,151.942,325.012
+Sudeste,MG,Privada,Nível IV,Sem resposta,Sim,3,14.14,271.233,14.14,259.004
+Sudeste,MG,Privada,Nível IV,Sim,Não,1,5.439,250.631,5.439,188.304
+Sudeste,MG,Privada,Nível IV,Sim,Sim,30,657.922,345.918,657.922,320.796
+Sudeste,MG,Privada,Nível V,Não,Sim,5,78.615,336.481,78.615,311.145
+Sudeste,MG,Privada,Nível V,Sem resposta,Sim,1,49.023,205.806,49.023,218.152
+Sudeste,MG,Privada,Nível V,Sim,Não,1,54.742,320.187,54.742,300.7
+Sudeste,MG,Privada,Nível V,Sim,Sim,73,2050.515,342.643,2050.515,322.588
+Sudeste,MG,Privada,Nível VI,Não,Sim,4,34.838,265.034,34.838,278.442
+Sudeste,MG,Privada,Nível VI,Sim,Sim,143,4274.448,341.343,4274.448,324.026
+Sudeste,MG,Privada,Nível VII,Não,Sim,4,149.825,322.75,149.825,263.321
+Sudeste,MG,Privada,Nível VII,Sem resposta,Sim,3,97.708,342.699,97.708,332.258
+Sudeste,MG,Privada,Nível VII,Sim,Sim,278,9368.582,345.042,9368.582,321.504
+Sudeste,MG,Privada,Nível VIII,Não,Sim,1,26.963,343.348,26.963,352.189
+Sudeste,MG,Privada,Nível VIII,Sim,Sim,122,4463.151,351.414,4463.151,327.296
+Sudeste,MG,Privada,Sem resposta,Sem resposta,Sem resposta,37,915.255,314.372,915.255,304.836
+Sudeste,MG,Pública,Nível I,Não,Não,1323,1519.257,251.45,1519.257,251.108
+Sudeste,MG,Pública,Nível I,Não,Sem resposta,9,9.129,218.511,9.129,243.193
+Sudeste,MG,Pública,Nível I,Não,Sim,371,213.415,253.85,213.415,254.947
+Sudeste,MG,Pública,Nível I,Sem resposta,Não,53,60.136,244.791,60.136,234.98
+Sudeste,MG,Pública,Nível I,Sem resposta,Sem resposta,3,2.227,216.5,2.227,266.746
+Sudeste,MG,Pública,Nível I,Sem resposta,Sim,21,13.313,245.726,13.313,255.746
+Sudeste,MG,Pública,Nível I,Sim,Não,28,17.776,237.904,17.776,241.892
+Sudeste,MG,Pública,Nível I,Sim,Sem resposta,2,0.0,,0.0,
+Sudeste,MG,Pública,Nível I,Sim,Sim,286,1.059,294.097,1.059,296.961
+Sudeste,MG,Pública,Nível II,Não,Não,3602,4207.623,257.728,4207.623,258.386
+Sudeste,MG,Pública,Nível II,Não,Sem resposta,77,87.355,254.35,87.355,250.048
+Sudeste,MG,Pública,Nível II,Não,Sim,8073,9483.012,260.71,9483.012,265.012
+Sudeste,MG,Pública,Nível II,Sem resposta,Não,148,170.484,249.961,170.484,252.193
+Sudeste,MG,Pública,Nível II,Sem resposta,Sem resposta,22,25.776,250.8,25.776,244.088
+Sudeste,MG,Pública,Nível II,Sem resposta,Sim,339,401.715,250.489,401.715,254.116
+Sudeste,MG,Pública,Nível II,Sim,Não,421,496.869,264.662,496.869,264.606
+Sudeste,MG,Pública,Nível II,Sim,Sem resposta,10,12.137,242.593,12.137,243.579
+Sudeste,MG,Pública,Nível II,Sim,Sim,1053,1259.692,269.667,1259.692,273.856
+Sudeste,MG,Pública,Nível III,Não,Não,1345,1589.59,261.759,1589.59,262.839
+Sudeste,MG,Pública,Nível III,Não,Sem resposta,102,121.471,245.278,121.471,250.129
+Sudeste,MG,Pública,Nível III,Não,Sim,11939,14147.809,261.892,14147.809,266.74
+Sudeste,MG,Pública,Nível III,Sem resposta,Não,63,72.814,256.847,72.814,244.68
+Sudeste,MG,Pública,Nível III,Sem resposta,Sem resposta,21,26.836,249.515,26.836,246.075
+Sudeste,MG,Pública,Nível III,Sem resposta,Sim,438,521.49,252.042,521.49,254.359
+Sudeste,MG,Pública,Nível III,Sim,Não,483,574.038,265.817,574.038,269.937
+Sudeste,MG,Pública,Nível III,Sim,Sem resposta,39,45.974,248.243,45.974,258.525
+Sudeste,MG,Pública,Nível III,Sim,Sim,4920,5889.363,275.848,5889.363,280.936
+Sudeste,MG,Pública,Nível IV,Não,Não,538,632.369,260.153,632.369,262.76
+Sudeste,MG,Pública,Nível IV,Não,Sem resposta,108,128.301,254.134,128.301,258.478
+Sudeste,MG,Pública,Nível IV,Não,Sim,12662,14989.671,264.341,14989.671,268.232
+Sudeste,MG,Pública,Nível IV,Sem resposta,Não,20,33.148,243.254,33.148,286.024
+Sudeste,MG,Pública,Nível IV,Sem resposta,Sem resposta,20,23.316,237.383,23.316,244.403
+Sudeste,MG,Pública,Nível IV,Sem resposta,Sim,550,658.463,259.374,658.463,261.603
+Sudeste,MG,Pública,Nível IV,Sim,Não,509,605.081,270.051,605.081,274.375
+Sudeste,MG,Pública,Nível IV,Sim,Sem resposta,102,122.335,264.451,122.335,262.147
+Sudeste,MG,Pública,Nível IV,Sim,Sim,13061,15548.213,276.931,15548.213,283.357
+Sudeste,MG,Pública,Nível V,Não,Não,107,126.042,259.753,126.042,260.304
+Sudeste,MG,Pública,Nível V,Não,Sem resposta,42,49.492,262.447,49.492,263.59
+Sudeste,MG,Pública,Nível V,Não,Sim,7410,8736.114,264.682,8736.114,267.811
+Sudeste,MG,Pública,Nível V,Sem resposta,Não,12,13.418,221.81,13.418,232.426
+Sudeste,MG,Pública,Nível V,Sem resposta,Sem resposta,18,19.799,252.268,19.799,243.316
+Sudeste,MG,Pública,Nível V,Sem resposta,Sim,496,585.744,259.076,585.744,258.122
+Sudeste,MG,Pública,Nível V,Sim,Não,381,453.694,263.964,453.694,270.14
+Sudeste,MG,Pública,Nível V,Sim,Sem resposta,113,137.395,263.478,137.395,264.629
+Sudeste,MG,Pública,Nível V,Sim,Sim,19303,23144.136,279.804,23144.136,284.349
+Sudeste,MG,Pública,Nível VI,Não,Não,13,15.493,270.402,15.493,240.826
+Sudeste,MG,Pública,Nível VI,Não,Sem resposta,15,16.859,255.754,16.859,238.681
+Sudeste,MG,Pública,Nível VI,Não,Sim,2542,3019.646,265.399,3019.646,266.875
+Sudeste,MG,Pública,Nível VI,Sem resposta,Não,3,4.668,261.481,4.668,269.971
+Sudeste,MG,Pública,Nível VI,Sem resposta,Sem resposta,9,10.482,265.549,10.482,261.705
+Sudeste,MG,Pública,Nível VI,Sem resposta,Sim,313,372.05,260.699,372.05,259.177
+Sudeste,MG,Pública,Nível VI,Sim,Não,144,174.76,270.628,174.76,267.704
+Sudeste,MG,Pública,Nível VI,Sim,Sem resposta,105,125.234,259.94,125.234,261.313
+Sudeste,MG,Pública,Nível VI,Sim,Sim,17455,20966.679,283.538,20966.679,286.094
+Sudeste,MG,Pública,Nível VII,Não,Não,1,1.083,234.981,1.083,218.799
+Sudeste,MG,Pública,Nível VII,Não,Sem resposta,1,1.205,249.939,1.205,282.319
+Sudeste,MG,Pública,Nível VII,Não,Sim,504,593.946,267.223,593.946,269.954
+Sudeste,MG,Pública,Nível VII,Sem resposta,Não,1,1.286,284.296,1.286,251.125
+Sudeste,MG,Pública,Nível VII,Sem resposta,Sem resposta,4,4.646,232.984,4.646,240.524
+Sudeste,MG,Pública,Nível VII,Sem resposta,Sim,157,189.629,262.484,189.629,257.725
+Sudeste,MG,Pública,Nível VII,Sim,Não,35,41.115,272.308,41.115,278.267
+Sudeste,MG,Pública,Nível VII,Sim,Sem resposta,81,99.558,269.923,99.558,260.292
+Sudeste,MG,Pública,Nível VII,Sim,Sim,13232,15857.704,288.331,15857.704,287.709
+Sudeste,MG,Pública,Nível VIII,Não,Sim,1,1.024,255.712,1.024,235.849
+Sudeste,MG,Pública,Nível VIII,Sem resposta,Sim,11,14.129,282.928,14.129,276.365
+Sudeste,MG,Pública,Nível VIII,Sim,Sem resposta,10,12.589,257.178,12.589,264.167
+Sudeste,MG,Pública,Nível VIII,Sim,Sim,1389,1676.288,296.505,1676.288,287.085
+Sudeste,MG,Pública,Sem resposta,Não,Não,2,2.2,235.653,2.2,303.805
+Sudeste,MG,Pública,Sem resposta,Não,Sem resposta,46,52.96,244.227,52.96,247.74
+Sudeste,MG,Pública,Sem resposta,Não,Sim,8,9.339,233.535,9.339,248.697
+Sudeste,MG,Pública,Sem resposta,Sem resposta,Não,78,90.88,262.758,90.88,265.429
+Sudeste,MG,Pública,Sem resposta,Sem resposta,Sem resposta,8004,9664.182,266.462,9664.182,267.497
+Sudeste,MG,Pública,Sem resposta,Sem resposta,Sim,101,118.607,231.249,118.607,222.86
+Sudeste,MG,Pública,Sem resposta,Sim,Não,2,2.207,204.757,2.207,190.808
+Sudeste,MG,Pública,Sem resposta,Sim,Sem resposta,64,80.318,245.381,80.318,237.52
+Sudeste,MG,Pública,Sem resposta,Sim,Sim,16,19.139,226.872,19.139,210.448
+Sudeste,RJ,Privada,Nível II,Não,Sim,3,21.954,323.847,21.954,316.114
+Sudeste,RJ,Privada,Nível III,Não,Sim,6,501.884,222.533,501.884,282.833
+Sudeste,RJ,Privada,Nível III,Sim,Não,1,10.004,280.326,10.004,204.6
+Sudeste,RJ,Privada,Nível III,Sim,Sim,8,806.508,295.944,806.508,327.541
+Sudeste,RJ,Privada,Nível IV,Não,Sim,11,952.771,284.491,952.771,331.583
+Sudeste,RJ,Privada,Nível IV,Sim,Não,1,10.004,340.086,10.004,323.01
+Sudeste,RJ,Privada,Nível IV,Sim,Sim,27,4054.029,293.55,4054.029,321.312
+Sudeste,RJ,Privada,Nível V,Não,Sim,3,232.273,205.569,232.273,238.802
+Sudeste,RJ,Privada,Nível V,Sem resposta,Sim,3,231.369,353.409,231.369,330.488
+Sudeste,RJ,Privada,Nível V,Sim,Sim,52,6934.592,290.175,6934.592,299.609
+Sudeste,RJ,Privada,Nível VI,Sem resposta,Sim,1,15.006,232.348,15.006,159.108
+Sudeste,RJ,Privada,Nível VI,Sim,Não,1,6.445,330.879,6.445,306.477
+Sudeste,RJ,Privada,Nível VI,Sim,Sim,70,8428.043,313.363,8428.043,306.925
+Sudeste,RJ,Privada,Nível VII,Não,Sim,2,226.766,393.798,226.766,371.679
+Sudeste,RJ,Privada,Nível VII,Sem resposta,Sem resposta,1,5.524,258.118,5.524,308.216
+Sudeste,RJ,Privada,Nível VII,Sem resposta,Sim,2,399.095,350.694,399.095,388.396
+Sudeste,RJ,Privada,Nível VII,Sim,Sim,64,7567.845,305.227,7567.845,303.924
+Sudeste,RJ,Privada,Nível VIII,Sim,Sim,12,2481.874,335.598,2481.874,322.842
+Sudeste,RJ,Privada,Sem resposta,Não,Sim,1,6.445,286.492,6.445,181.755
+Sudeste,RJ,Privada,Sem resposta,Sem resposta,Sem resposta,18,1434.007,266.102,1434.007,263.471
+Sudeste,RJ,Privada,Sem resposta,Sim,Sem resposta,1,231.561,267.607,231.561,170.372
+Sudeste,RJ,Pública,Nível I,Não,Não,745,999.184,236.484,999.184,237.419
+Sudeste,RJ,Pública,Nível I,Não,Sem resposta,14,17.406,231.16,17.406,231.477
+Sudeste,RJ,Pública,Nível I,Não,Sim,143,166.568,238.597,166.568,239.779
+Sudeste,RJ,Pública,Nível I,Sem resposta,Não,39,61.843,236.508,61.843,231.748
+Sudeste,RJ,Pública,Nível I,Sem resposta,Sem resposta,5,6.216,197.693,6.216,205.231
+Sudeste,RJ,Pública,Nível I,Sem resposta,Sim,12,6.641,235.784,6.641,245.803
+Sudeste,RJ,Pública,Nível I,Sim,Não,22,24.836,227.438,24.836,212.419
+Sudeste,RJ,Pública,Nível I,Sim,Sem resposta,2,1.409,223.176,1.409,163.128
+Sudeste,RJ,Pública,Nível I,Sim,Sim,43,7.106,257.101,7.106,247.793
+Sudeste,RJ,Pública,Nível II,Não,Não,2272,3084.309,245.003,3084.309,250.284
+Sudeste,RJ,Pública,Nível II,Não,Sem resposta,83,120.297,235.382,120.297,236.653
+Sudeste,RJ,Pública,Nível II,Não,Sim,5007,6773.558,247.592,6773.558,252.838
+Sudeste,RJ,Pública,Nível II,Sem resposta,Não,128,181.949,235.405,181.949,232.59
+Sudeste,RJ,Pública,Nível II,Sem resposta,Sem resposta,17,21.376,222.134,21.376,226.36
+Sudeste,RJ,Pública,Nível II,Sem resposta,Sim,266,361.669,240.911,361.669,238.222
+Sudeste,RJ,Pública,Nível II,Sim,Não,433,626.56,258.769,626.56,256.19
+Sudeste,RJ,Pública,Nível II,Sim,Sem resposta,12,16.989,243.816,16.989,234.021
+Sudeste,RJ,Pública,Nível II,Sim,Sim,865,1203.331,253.784,1203.331,263.671
+Sudeste,RJ,Pública,Nível III,Não,Não,883,1175.923,246.448,1175.923,249.389
+Sudeste,RJ,Pública,Nível III,Não,Sem resposta,115,155.018,243.692,155.018,248.256
+Sudeste,RJ,Pública,Nível III,Não,Sim,8628,11474.921,248.801,11474.921,256.77
+Sudeste,RJ,Pública,Nível III,Sem resposta,Não,79,106.383,233.718,106.383,232.318
+Sudeste,RJ,Pública,Nível III,Sem resposta,Sem resposta,23,36.763,227.446,36.763,235.187
+Sudeste,RJ,Pública,Nível III,Sem resposta,Sim,519,711.151,238.81,711.151,243.161
+Sudeste,RJ,Pública,Nível III,Sim,Não,568,776.325,255.235,776.325,262.099
+Sudeste,RJ,Pública,Nível III,Sim,Sem resposta,59,76.61,244.319,76.61,264.334
+Sudeste,RJ,Pública,Nível III,Sim,Sim,3852,5181.27,260.081,5181.27,270.09
+Sudeste,RJ,Pública,Nível IV,Não,Não,387,530.505,247.543,530.505,251.043
+Sudeste,RJ,Pública,Nível IV,Não,Sem resposta,101,139.045,242.586,139.045,250.902
+Sudeste,RJ,Pública,Nível IV,Não,Sim,8410,11163.107,250.598,11163.107,256.196
+Sudeste,RJ,Pública,Nível IV,Sem resposta,Não,48,63.623,241.809,63.623,240.652
+Sudeste,RJ,Pública,Nível IV,Sem resposta,Sem resposta,30,45.009,240.793,45.009,252.651
+Sudeste,RJ,Pública,Nível IV,Sem resposta,Sim,659,895.339,243.025,895.339,245.037
+Sudeste,RJ,Pública,Nível IV,Sim,Não,581,775.309,252.754,775.309,263.69
+Sudeste,RJ,Pública,Nível IV,Sim,Sem resposta,122,180.115,246.331,180.115,248.819
+Sudeste,RJ,Pública,Nível IV,Sim,Sim,10078,13475.031,260.845,13475.031,269.436
+Sudeste,RJ,Pública,Nível V,Não,Não,85,119.37,240.573,119.37,238.411
+Sudeste,RJ,Pública,Nível V,Não,Sem resposta,51,71.745,248.672,71.745,248.301
+Sudeste,RJ,Pública,Nível V,Não,Sim,4455,5861.953,251.311,5861.953,255.425
+Sudeste,RJ,Pública,Nível V,Sem resposta,Não,16,22.734,249.702,22.734,216.212
+Sudeste,RJ,Pública,Nível V,Sem resposta,Sem resposta,26,36.403,236.494,36.403,218.102
+Sudeste,RJ,Pública,Nível V,Sem resposta,Sim,514,681.76,243.235,681.76,248.937
+Sudeste,RJ,Pública,Nível V,Sim,Não,350,472.069,257.643,472.069,257.943
+Sudeste,RJ,Pública,Nível V,Sim,Sem resposta,128,184.632,261.512,184.632,263.033
+Sudeste,RJ,Pública,Nível V,Sim,Sim,12205,16314.446,262.056,16314.446,269.031
+Sudeste,RJ,Pública,Nível VI,Não,Não,15,21.212,229.791,21.212,233.035
+Sudeste,RJ,Pública,Nível VI,Não,Sem resposta,15,24.3,243.96,24.3,242.293
+Sudeste,RJ,Pública,Nível VI,Não,Sim,1369,1797.145,250.67,1797.145,252.135
+Sudeste,RJ,Pública,Nível VI,Sem resposta,Não,9,10.087,218.188,10.087,212.33
+Sudeste,RJ,Pública,Nível VI,Sem resposta,Sem resposta,12,17.211,240.218,17.211,223.181
+Sudeste,RJ,Pública,Nível VI,Sem resposta,Sim,266,347.646,242.242,347.646,237.5
+Sudeste,RJ,Pública,Nível VI,Sim,Não,132,172.414,257.948,172.414,264.633
+Sudeste,RJ,Pública,Nível VI,Sim,Sem resposta,91,118.603,248.837,118.603,253.906
+Sudeste,RJ,Pública,Nível VI,Sim,Sim,9364,12448.551,264.32,12448.551,269.334
+Sudeste,RJ,Pública,Nível VII,Não,Sem resposta,2,2.952,207.498,2.952,199.171
+Sudeste,RJ,Pública,Nível VII,Não,Sim,258,330.94,250.806,330.94,248.348
+Sudeste,RJ,Pública,Nível VII,Sem resposta,Sem resposta,8,10.653,233.124,10.653,243.112
+Sudeste,RJ,Pública,Nível VII,Sem resposta,Sim,155,198.322,248.925,198.322,241.522
+Sudeste,RJ,Pública,Nível VII,Sim,Não,38,51.649,260.643,51.649,263.837
+Sudeste,RJ,Pública,Nível VII,Sim,Sem resposta,55,71.744,260.971,71.744,253.646
+Sudeste,RJ,Pública,Nível VII,Sim,Sim,6400,8636.644,270.769,8636.644,270.905
+Sudeste,RJ,Pública,Nível VIII,Não,Sim,3,3.771,272.648,3.771,247.171
+Sudeste,RJ,Pública,Nível VIII,Sem resposta,Sim,7,8.864,251.071,8.864,236.538
+Sudeste,RJ,Pública,Nível VIII,Sim,Sem resposta,2,2.593,267.834,2.593,252.647
+Sudeste,RJ,Pública,Nível VIII,Sim,Sim,629,894.474,276.689,894.474,266.453
+Sudeste,RJ,Pública,Sem resposta,Não,Não,3,3.884,204.478,3.884,185.785
+Sudeste,RJ,Pública,Sem resposta,Não,Sem resposta,43,56.175,223.321,56.175,230.448
+Sudeste,RJ,Pública,Sem resposta,Não,Sim,12,14.436,242.887,14.436,217.614
+Sudeste,RJ,Pública,Sem resposta,Sem resposta,Não,35,49.905,244.455,49.905,241.769
+Sudeste,RJ,Pública,Sem resposta,Sem resposta,Sem resposta,5668,8047.702,253.679,8047.702,257.124
+Sudeste,RJ,Pública,Sem resposta,Sem resposta,Sim,151,208.807,222.135,208.807,210.543
+Sudeste,RJ,Pública,Sem resposta,Sim,Não,4,5.258,239.12,5.258,236.414
+Sudeste,RJ,Pública,Sem resposta,Sim,Sem resposta,55,73.332,240.646,73.332,225.561
+Sudeste,RJ,Pública,Sem resposta,Sim,Sim,26,35.915,221.032,35.915,207.896
+Sudeste,SP,Privada,Nível II,Não,Sim,2,168.047,279.873,168.047,311.79
+Sudeste,SP,Privada,Nível II,Sim,Não,2,168.047,253.852,168.047,261.827
+Sudeste,SP,Privada,Nível II,Sim,Sim,2,209.651,355.452,209.651,334.119
+Sudeste,SP,Privada,Nível III,Não,Não,1,84.023,257.939,84.023,353.624
+Sudeste,SP,Privada,Nível III,Não,Sim,2,168.047,261.065,168.047,203.5
+Sudeste,SP,Privada,Nível III,Sem resposta,Sim,1,202.342,317.266,202.342,310.211
+Sudeste,SP,Privada,Nível III,Sim,Não,1,206.457,331.351,206.457,290.477
+Sudeste,SP,Privada,Nível III,Sim,Sim,8,785.048,305.039,785.048,309.798
+Sudeste,SP,Privada,Nível IV,Não,Sim,10,1160.895,305.301,1160.895,296.614
+Sudeste,SP,Privada,Nível IV,Sim,Não,1,202.342,194.306,202.342,214.369
+Sudeste,SP,Privada,Nível IV,Sim,Sim,21,2101.855,310.079,2101.855,296.077
+Sudeste,SP,Privada,Nível V,Não,Sim,12,1751.076,335.583,1751.076,336.266
+Sudeste,SP,Privada,Nível V,Sem resposta,Sim,1,9.071,279.491,9.071,287.01
+Sudeste,SP,Privada,Nível V,Sim,Não,1,2.297,183.408,2.297,300.635
+Sudeste,SP,Privada,Nível V,Sim,Sim,72,8451.774,309.494,8451.774,319.85
+Sudeste,SP,Privada,Nível VI,Não,Sim,6,2016.079,277.073,2016.079,304.36
+Sudeste,SP,Privada,Nível VI,Sim,Não,1,206.457,200.33,206.457,238.986
+Sudeste,SP,Privada,Nível VI,Sim,Sem resposta,1,206.457,283.252,206.457,283.551
+Sudeste,SP,Privada,Nível VI,Sim,Sim,123,13678.439,325.567,13678.439,329.824
+Sudeste,SP,Privada,Nível VII,Não,Sim,2,92.806,262.928,92.806,219.521
+Sudeste,SP,Privada,Nível VII,Sem resposta,Sim,2,87.217,232.69,87.217,217.016
+Sudeste,SP,Privada,Nível VII,Sim,Sem resposta,1,5.36,185.362,5.36,173.526
+Sudeste,SP,Privada,Nível VII,Sim,Sim,205,32317.29,322.348,32317.29,313.581
+Sudeste,SP,Privada,Nível VIII,Sim,Sim,50,9876.819,343.513,9876.819,338.137
+Sudeste,SP,Privada,Sem resposta,Sem resposta,Não,1,206.457,228.91,206.457,327.22
+Sudeste,SP,Privada,Sem resposta,Sem resposta,Sem resposta,39,3580.645,321.413,3580.645,310.067
+Sudeste,SP,Pública,Nível I,Não,Não,990,1059.432,253.097,1059.432,254.515
+Sudeste,SP,Pública,Nível I,Não,Sem resposta,19,9.99,245.984,9.99,250.735
+Sudeste,SP,Pública,Nível I,Não,Sim,744,124.453,259.429,124.453,258.265
+Sudeste,SP,Pública,Nível I,Sem resposta,Não,40,40.643,238.754,40.643,234.633
+Sudeste,SP,Pública,Nível I,Sem resposta,Sem resposta,3,2.955,206.806,2.955,202.705
+Sudeste,SP,Pública,Nível I,Sem resposta,Sim,61,8.96,240.301,8.96,245.973
+Sudeste,SP,Pública,Nível I,Sim,Não,64,24.787,250.125,24.787,255.908
+Sudeste,SP,Pública,Nível I,Sim,Sem resposta,13,0.0,,0.0,
+Sudeste,SP,Pública,Nível I,Sim,Sim,1107,1.5,255.296,1.5,265.743
+Sudeste,SP,Pública,Nível II,Não,Não,3595,4172.557,259.099,4172.557,267.672
+Sudeste,SP,Pública,Nível II,Não,Sem resposta,149,175.472,250.272,175.472,257.473
+Sudeste,SP,Pública,Nível II,Não,Sim,8725,10188.393,259.275,10188.393,270.624
+Sudeste,SP,Pública,Nível II,Sem resposta,Não,148,175.142,246.742,175.142,250.802
+Sudeste,SP,Pública,Nível II,Sem resposta,Sem resposta,36,43.583,237.943,43.583,233.948
+Sudeste,SP,Pública,Nível II,Sem resposta,Sim,379,443.907,249.871,443.907,259.57
+Sudeste,SP,Pública,Nível II,Sim,Não,701,817.37,264.066,817.37,270.816
+Sudeste,SP,Pública,Nível II,Sim,Sem resposta,31,37.006,246.863,37.006,260.478
+Sudeste,SP,Pública,Nível II,Sim,Sim,1298,1511.727,269.317,1511.727,282.767
+Sudeste,SP,Pública,Nível III,Não,Não,2169,2543.581,259.7,2543.581,267.721
+Sudeste,SP,Pública,Nível III,Não,Sem resposta,233,271.39,256.137,271.39,257.339
+Sudeste,SP,Pública,Nível III,Não,Sim,20100,23469.096,260.419,23469.096,271.628
+Sudeste,SP,Pública,Nível III,Sem resposta,Não,123,142.801,249.746,142.801,250.665
+Sudeste,SP,Pública,Nível III,Sem resposta,Sem resposta,61,72.632,237.604,72.632,246.018
+Sudeste,SP,Pública,Nível III,Sem resposta,Sim,894,1050.276,253.73,1050.276,258.568
+Sudeste,SP,Pública,Nível III,Sim,Não,1098,1281.713,267.727,1281.713,276.196
+Sudeste,SP,Pública,Nível III,Sim,Sem resposta,109,128.566,263.178,128.566,265.356
+Sudeste,SP,Pública,Nível III,Sim,Sim,8553,10006.015,270.927,10006.015,285.33
+Sudeste,SP,Pública,Nível IV,Não,Não,1327,1519.068,261.112,1519.068,266.784
+Sudeste,SP,Pública,Nível IV,Não,Sem resposta,308,360.313,251.77,360.313,262.531
+Sudeste,SP,Pública,Nível IV,Não,Sim,29715,34566.679,261.252,34566.679,271.366
+Sudeste,SP,Pública,Nível IV,Sem resposta,Não,102,117.006,249.497,117.006,252.981
+Sudeste,SP,Pública,Nível IV,Sem resposta,Sem resposta,84,99.519,244.667,99.519,251.764
+Sudeste,SP,Pública,Nível IV,Sem resposta,Sim,1588,1835.69,252.217,1835.69,259.154
+Sudeste,SP,Pública,Nível IV,Sim,Não,1611,1883.308,265.576,1883.308,276.788
+Sudeste,SP,Pública,Nível IV,Sim,Sem resposta,356,416.649,258.611,416.649,269.522
+Sudeste,SP,Pública,Nível IV,Sim,Sim,28272,33158.112,271.993,33158.112,285.357
+Sudeste,SP,Pública,Nível V,Não,Não,428,489.844,259.502,489.844,263.626
+Sudeste,SP,Pública,Nível V,Não,Sem resposta,204,243.883,250.228,243.883,253.861
+Sudeste,SP,Pública,Nível V,Não,Sim,22956,26695.342,261.368,26695.342,269.966
+Sudeste,SP,Pública,Nível V,Sem resposta,Não,56,64.303,254.596,64.303,257.517
+Sudeste,SP,Pública,Nível V,Sem resposta,Sem resposta,85,98.688,248.768,98.688,244.375
+Sudeste,SP,Pública,Nível V,Sem resposta,Sim,1750,2016.728,252.932,2016.728,258.848
+Sudeste,SP,Pública,Nível V,Sim,Não,1303,1535.635,269.072,1535.635,277.326
+Sudeste,SP,Pública,Nível V,Sim,Sem resposta,511,599.636,260.806,599.636,270.56
+Sudeste,SP,Pública,Nível V,Sim,Sim,50758,59224.024,274.44,59224.024,286.01
+Sudeste,SP,Pública,Nível VI,Não,Não,61,69.601,257.802,69.601,267.255
+Sudeste,SP,Pública,Nível VI,Não,Sem resposta,82,96.571,248.781,96.571,252.647
+Sudeste,SP,Pública,Nível VI,Não,Sim,9097,10541.588,261.323,10541.588,268.043
+Sudeste,SP,Pública,Nível VI,Sem resposta,Não,19,22.78,247.157,22.78,274.067
+Sudeste,SP,Pública,Nível VI,Sem resposta,Sem resposta,75,84.055,241.52,84.055,251.867
+Sudeste,SP,Pública,Nível VI,Sem resposta,Sim,1323,1540.536,255.3,1540.536,258.802
+Sudeste,SP,Pública,Nível VI,Sim,Não,644,748.889,269.804,748.889,276.52
+Sudeste,SP,Pública,Nível VI,Sim,Sem resposta,466,548.481,260.792,548.481,269.705
+Sudeste,SP,Pública,Nível VI,Sim,Sim,52854,61540.064,276.339,61540.064,286.302
+Sudeste,SP,Pública,Nível VII,Não,Não,5,5.945,274.218,5.945,261.779
+Sudeste,SP,Pública,Nível VII,Não,Sem resposta,13,15.615,249.256,15.615,281.098
+Sudeste,SP,Pública,Nível VII,Não,Sim,2097,2416.799,261.571,2416.799,264.532
+Sudeste,SP,Pública,Nível VII,Sem resposta,Não,6,7.509,256.362,7.509,283.6
+Sudeste,SP,Pública,Nível VII,Sem resposta,Sem resposta,45,61.279,248.264,61.279,253.815
+Sudeste,SP,Pública,Nível VII,Sem resposta,Sim,746,880.172,255.924,880.172,257.717
+Sudeste,SP,Pública,Nível VII,Sim,Não,183,216.338,274.448,216.338,277.351
+Sudeste,SP,Pública,Nível VII,Sim,Sem resposta,314,370.277,262.095,370.277,269.793
+Sudeste,SP,Pública,Nível VII,Sim,Sim,42164,49130.057,279.167,49130.057,285.443
+Sudeste,SP,Pública,Nível VIII,Não,Sim,3,3.304,233.361,3.304,203.332
+Sudeste,SP,Pública,Nível VIII,Sem resposta,Sem resposta,2,2.635,250.372,2.635,253.569
+Sudeste,SP,Pública,Nível VIII,Sem resposta,Sim,42,48.735,251.008,48.735,259.293
+Sudeste,SP,Pública,Nível VIII,Sim,Não,3,3.309,333.044,3.309,326.827
+Sudeste,SP,Pública,Nível VIII,Sim,Sem resposta,25,28.37,253.367,28.37,247.03
+Sudeste,SP,Pública,Nível VIII,Sim,Sim,4265,4977.199,281.388,4977.199,284.207
+Sudeste,SP,Pública,Sem resposta,Não,Não,6,7.09,220.251,7.09,205.897
+Sudeste,SP,Pública,Sem resposta,Não,Sem resposta,152,171.346,240.132,171.346,242.635
+Sudeste,SP,Pública,Sem resposta,Não,Sim,25,30.471,242.362,30.471,233.042
+Sudeste,SP,Pública,Sem resposta,Sem resposta,Não,113,132.951,251.034,132.951,261.81
+Sudeste,SP,Pública,Sem resposta,Sem resposta,Sem resposta,18120,21243.95,264.318,21243.95,271.304
+Sudeste,SP,Pública,Sem resposta,Sem resposta,Sim,364,433.192,233.309,433.192,225.579
+Sudeste,SP,Pública,Sem resposta,Sim,Não,4,6.156,214.124,6.156,247.617
+Sudeste,SP,Pública,Sem resposta,Sim,Sem resposta,238,282.558,247.872,282.558,248.379
+Sudeste,SP,Pública,Sem resposta,Sim,Sim,55,74.44,247.641,74.44,244.694
+Sul,PR,Privada,Nível I,Sim,Sim,2,0.0,,0.0,
+Sul,PR,Privada,Nível III,Não,Sim,2,65.729,293.656,65.729,322.703
+Sul,PR,Privada,Nível III,Sim,Sim,2,68.257,284.651,68.257,308.299
+Sul,PR,Privada,Nível IV,Não,Não,1,30.968,295.157,30.968,300.84
+Sul,PR,Privada,Nível IV,Não,Sim,4,127.666,329.706,127.666,322.717
+Sul,PR,Privada,Nível IV,Sim,Não,1,8.532,195.721,8.532,306.17
+Sul,PR,Privada,Nível IV,Sim,Sim,4,129.562,340.099,129.562,319.369
+Sul,PR,Privada,Nível V,Não,Sim,5,99.425,298.599,99.425,304.537
+Sul,PR,Privada,Nível V,Sim,Sim,33,861.342,302.089,861.342,311.298
+Sul,PR,Privada,Nível VI,Não,Sim,4,70.593,277.344,70.593,317.49
+Sul,PR,Privada,Nível VI,Sim,Não,1,3.5,367.22,3.5,357.18
+Sul,PR,Privada,Nível VI,Sim,Sim,82,2275.379,318.715,2275.379,317.431
+Sul,PR,Privada,Nível VII,Não,Sim,2,36.756,295.917,36.756,295.45
+Sul,PR,Privada,Nível VII,Sim,Sem resposta,1,32.864,227.685,32.864,259.036
+Sul,PR,Privada,Nível VII,Sim,Sim,183,4749.657,330.709,4749.657,319.484
+Sul,PR,Privada,Nível VIII,Sim,Sim,80,2272.029,339.3,2272.029,316.591
+Sul,PR,Privada,Sem resposta,Sem resposta,Sem resposta,23,711.741,326.226,711.741,319.871
+Sul,PR,Pública,Nível I,Não,Não,197,204.369,253.996,204.369,260.485
+Sul,PR,Pública,Nível I,Não,Sem resposta,2,0.96,218.309,0.96,185.96
+Sul,PR,Pública,Nível I,Não,Sim,169,25.399,265.777,25.399,265.294
+Sul,PR,Pública,Nível I,Sem resposta,Não,8,8.077,274.439,8.077,279.383
+Sul,PR,Pública,Nível I,Sem resposta,Sem resposta,2,0.0,,0.0,
+Sul,PR,Pública,Nível I,Sem resposta,Sim,8,0.0,,0.0,
+Sul,PR,Pública,Nível I,Sim,Não,6,4.5,227.966,4.5,243.186
+Sul,PR,Pública,Nível I,Sim,Sem resposta,2,0.0,,0.0,
+Sul,PR,Pública,Nível I,Sim,Sim,213,0.0,,0.0,
+Sul,PR,Pública,Nível II,Não,Não,892,943.123,265.427,943.123,269.512
+Sul,PR,Pública,Nível II,Não,Sem resposta,36,38.558,261.557,38.558,277.706
+Sul,PR,Pública,Nível II,Não,Sim,2039,2178.136,267.048,2178.136,273.186
+Sul,PR,Pública,Nível II,Sem resposta,Não,39,42.154,263.589,42.154,263.009
+Sul,PR,Pública,Nível II,Sem resposta,Sem resposta,6,6.327,261.175,6.327,275.024
+Sul,PR,Pública,Nível II,Sem resposta,Sim,88,95.363,261.324,95.363,264.952
+Sul,PR,Pública,Nível II,Sim,Não,96,100.947,264.796,100.947,283.133
+Sul,PR,Pública,Nível II,Sim,Sem resposta,4,4.324,256.243,4.324,273.154
+Sul,PR,Pública,Nível II,Sim,Sim,225,240.24,271.1,240.24,279.935
+Sul,PR,Pública,Nível III,Não,Não,655,700.867,270.066,700.867,275.319
+Sul,PR,Pública,Nível III,Não,Sem resposta,44,47.022,256.785,47.022,264.885
+Sul,PR,Pública,Nível III,Não,Sim,5298,5659.258,269.364,5659.258,277.295
+Sul,PR,Pública,Nível III,Sem resposta,Não,35,37.245,253.252,37.245,242.974
+Sul,PR,Pública,Nível III,Sem resposta,Sem resposta,11,10.982,241.776,10.982,252.783
+Sul,PR,Pública,Nível III,Sem resposta,Sim,209,221.567,258.755,221.567,265.603
+Sul,PR,Pública,Nível III,Sim,Não,230,250.321,276.458,250.321,284.959
+Sul,PR,Pública,Nível III,Sim,Sem resposta,27,28.729,266.153,28.729,278.559
+Sul,PR,Pública,Nível III,Sim,Sim,1805,1948.799,279.139,1948.799,288.494
+Sul,PR,Pública,Nível IV,Não,Não,361,386.539,269.928,386.539,275.435
+Sul,PR,Pública,Nível IV,Não,Sem resposta,65,68.993,263.907,68.993,264.139
+Sul,PR,Pública,Nível IV,Não,Sim,8427,8991.465,270.471,8991.465,278.361
+Sul,PR,Pública,Nível IV,Sem resposta,Não,17,18.598,263.494,18.598,252.786
+Sul,PR,Pública,Nível IV,Sem resposta,Sem resposta,9,9.317,262.662,9.317,267.077
+Sul,PR,Pública,Nível IV,Sem resposta,Sim,356,382.303,263.0,382.303,266.187
+Sul,PR,Pública,Nível IV,Sim,Não,299,318.89,276.23,318.89,279.973
+Sul,PR,Pública,Nível IV,Sim,Sem resposta,44,47.182,264.821,47.182,278.564
+Sul,PR,Pública,Nível IV,Sim,Sim,6437,6924.533,281.275,6924.533,291.198
+Sul,PR,Pública,Nível V,Não,Não,107,112.044,267.8,112.044,267.192
+Sul,PR,Pública,Nível V,Não,Sem resposta,44,45.918,265.421,45.918,275.994
+Sul,PR,Pública,Nível V,Não,Sim,7385,7923.709,270.519,7923.709,276.881
+Sul,PR,Pública,Nível V,Sem resposta,Não,10,10.337,234.987,10.337,257.626
+Sul,PR,Pública,Nível V,Sem resposta,Sem resposta,14,16.092,260.928,16.092,272.754
+Sul,PR,Pública,Nível V,Sem resposta,Sim,420,450.397,266.47,450.397,268.497
+Sul,PR,Pública,Nível V,Sim,Não,250,269.94,279.194,269.94,287.67
+Sul,PR,Pública,Nível V,Sim,Sem resposta,91,96.122,272.486,96.122,281.995
+Sul,PR,Pública,Nível V,Sim,Sim,13929,14957.066,283.175,14957.066,291.887
+Sul,PR,Pública,Nível VI,Não,Não,11,11.714,276.313,11.714,270.827
+Sul,PR,Pública,Nível VI,Não,Sem resposta,21,22.391,273.396,22.391,283.535
+Sul,PR,Pública,Nível VI,Não,Sim,3154,3401.354,271.964,3401.354,277.224
+Sul,PR,Pública,Nível VI,Sem resposta,Não,3,2.986,312.937,2.986,306.172
+Sul,PR,Pública,Nível VI,Sem resposta,Sem resposta,16,17.346,275.655,17.346,274.195
+Sul,PR,Pública,Nível VI,Sem resposta,Sim,307,327.582,268.565,327.582,271.333
+Sul,PR,Pública,Nível VI,Sim,Não,117,124.309,275.681,124.309,280.438
+Sul,PR,Pública,Nível VI,Sim,Sem resposta,107,113.231,268.496,113.231,273.072
+Sul,PR,Pública,Nível VI,Sim,Sim,17342,18693.578,285.713,18693.578,292.99
+Sul,PR,Pública,Nível VII,Não,Não,3,2.903,239.793,2.903,296.081
+Sul,PR,Pública,Nível VII,Não,Sem resposta,3,3.079,269.013,3.079,256.201
+Sul,PR,Pública,Nível VII,Não,Sim,785,843.127,269.007,843.127,271.476
+Sul,PR,Pública,Nível VII,Sem resposta,Não,1,1.131,271.189,1.131,304.233
+Sul,PR,Pública,Nível VII,Sem resposta,Sem resposta,5,5.021,270.823,5.021,274.853
+Sul,PR,Pública,Nível VII,Sem resposta,Sim,202,217.378,266.286,217.378,265.371
+Sul,PR,Pública,Nível VII,Sim,Não,37,39.588,272.46,39.588,289.721
+Sul,PR,Pública,Nível VII,Sim,Sem resposta,74,79.185,268.473,79.185,286.248
+Sul,PR,Pública,Nível VII,Sim,Sim,16981,18310.156,290.407,18310.156,294.25
+Sul,PR,Pública,Nível VIII,Não,Sim,3,3.205,209.478,3.205,277.945
+Sul,PR,Pública,Nível VIII,Sem resposta,Sim,9,9.904,268.638,9.904,276.673
+Sul,PR,Pública,Nível VIII,Sim,Não,1,1.867,393.033,1.867,348.68
+Sul,PR,Pública,Nível VIII,Sim,Sem resposta,4,4.225,256.544,4.225,235.762
+Sul,PR,Pública,Nível VIII,Sim,Sim,1951,2113.975,298.553,2113.975,298.198
+Sul,PR,Pública,Sem resposta,Não,Sem resposta,21,22.065,255.767,22.065,271.191
+Sul,PR,Pública,Sem resposta,Sem resposta,Não,31,33.745,277.503,33.745,276.194
+Sul,PR,Pública,Sem resposta,Sem resposta,Sem resposta,3368,3924.233,275.621,3924.233,279.014
+Sul,PR,Pública,Sem resposta,Sem resposta,Sim,38,39.932,239.382,39.932,238.906
+Sul,PR,Pública,Sem resposta,Sim,Não,1,1.233,232.565,1.233,210.024
+Sul,PR,Pública,Sem resposta,Sim,Sem resposta,36,38.314,269.464,38.314,275.725
+Sul,PR,Pública,Sem resposta,Sim,Sim,8,10.522,221.705,10.522,220.425
+Sul,RS,Privada,Nível I,Não,Não,1,26.376,196.701,26.376,163.112
+Sul,RS,Privada,Nível II,Não,Não,1,4.1,229.842,4.1,218.006
+Sul,RS,Privada,Nível II,Sim,Sem resposta,1,4.1,171.077,4.1,154.544
+Sul,RS,Privada,Nível III,Não,Sim,7,126.205,282.683,126.205,264.476
+Sul,RS,Privada,Nível III,Sim,Sim,5,52.841,297.912,52.841,303.511
+Sul,RS,Privada,Nível IV,Não,Sim,6,105.847,281.544,105.847,267.293
+Sul,RS,Privada,Nível IV,Sem resposta,Sim,1,4.1,253.843,4.1,219.708
+Sul,RS,Privada,Nível IV,Sim,Não,3,43.153,336.818,43.153,336.946
+Sul,RS,Privada,Nível IV,Sim,Sim,20,214.529,299.765,214.529,299.683
+Sul,RS,Privada,Nível V,Não,Sim,7,102.688,308.155,102.688,281.877
+Sul,RS,Privada,Nível V,Sem resposta,Sim,3,32.334,213.396,32.334,281.305
+Sul,RS,Privada,Nível V,Sim,Não,1,10.788,238.398,10.788,289.236
+Sul,RS,Privada,Nível V,Sim,Sem resposta,1,4.1,217.945,4.1,256.482
+Sul,RS,Privada,Nível V,Sim,Sim,87,1048.12,313.556,1048.12,318.288
+Sul,RS,Privada,Nível VI,Não,Sim,6,69.193,290.838,69.193,285.642
+Sul,RS,Privada,Nível VI,Sem resposta,Sim,4,78.902,346.875,78.902,334.118
+Sul,RS,Privada,Nível VI,Sim,Sim,159,2265.096,308.377,2265.096,308.796
+Sul,RS,Privada,Nível VII,Não,Sim,1,15.624,341.622,15.624,354.026
+Sul,RS,Privada,Nível VII,Sem resposta,Sim,1,13.392,294.547,13.392,320.336
+Sul,RS,Privada,Nível VII,Sim,Sem resposta,1,23.079,375.49,23.079,346.056
+Sul,RS,Privada,Nível VII,Sim,Sim,399,5671.474,326.167,5671.474,317.477
+Sul,RS,Privada,Nível VIII,Sim,Sim,181,2527.261,324.183,2527.261,309.505
+Sul,RS,Privada,Sem resposta,Sem resposta,Sem resposta,49,680.05,308.755,680.05,299.754
+Sul,RS,Privada,Sem resposta,Sim,Sem resposta,1,12.648,240.605,12.648,341.289
+Sul,RS,Pública,Nível I,Não,Não,86,121.801,245.655,121.801,239.241
+Sul,RS,Pública,Nível I,Não,Sim,46,15.517,262.963,15.517,264.244
+Sul,RS,Pública,Nível I,Sem resposta,Não,6,8.147,250.887,8.147,274.23
+Sul,RS,Pública,Nível I,Sem resposta,Sem resposta,2,0.753,180.005,0.753,192.47
+Sul,RS,Pública,Nível I,Sem resposta,Sim,3,0.0,,0.0,
+Sul,RS,Pública,Nível I,Sim,Não,8,7.036,268.175,7.036,276.089
+Sul,RS,Pública,Nível I,Sim,Sem resposta,1,0.0,,0.0,
+Sul,RS,Pública,Nível I,Sim,Sim,71,0.0,,0.0,
+Sul,RS,Pública,Nível II,Não,Não,415,577.532,251.692,577.532,261.808
+Sul,RS,Pública,Nível II,Não,Sem resposta,20,27.594,267.677,27.594,252.009
+Sul,RS,Pública,Nível II,Não,Sim,1101,1548.632,257.639,1548.632,266.93
+Sul,RS,Pública,Nível II,Sem resposta,Não,40,55.677,249.364,55.677,249.895
+Sul,RS,Pública,Nível II,Sem resposta,Sem resposta,7,9.642,245.696,9.642,228.855
+Sul,RS,Pública,Nível II,Sem resposta,Sim,74,103.535,250.925,103.535,252.677
+Sul,RS,Pública,Nível II,Sim,Não,109,148.085,258.078,148.085,261.54
+Sul,RS,Pública,Nível II,Sim,Sem resposta,4,4.559,262.717,4.559,267.01
+Sul,RS,Pública,Nível II,Sim,Sim,204,292.53,271.285,292.53,276.173
+Sul,RS,Pública,Nível III,Não,Não,258,353.196,265.059,353.196,271.14
+Sul,RS,Pública,Nível III,Não,Sem resposta,31,44.842,261.299,44.842,263.288
+Sul,RS,Pública,Nível III,Não,Sim,2608,3635.992,263.072,3635.992,273.312
+Sul,RS,Pública,Nível III,Sem resposta,Não,18,22.715,247.863,22.715,240.355
+Sul,RS,Pública,Nível III,Sem resposta,Sem resposta,10,13.126,241.273,13.126,237.476
+Sul,RS,Pública,Nível III,Sem resposta,Sim,203,288.109,252.36,288.109,260.526
+Sul,RS,Pública,Nível III,Sim,Não,137,189.751,272.467,189.751,277.965
+Sul,RS,Pública,Nível III,Sim,Sem resposta,12,16.19,271.622,16.19,264.67
+Sul,RS,Pública,Nível III,Sim,Sim,1360,1904.007,273.192,1904.007,284.015
+Sul,RS,Pública,Nível IV,Não,Não,122,167.122,260.34,167.122,262.273
+Sul,RS,Pública,Nível IV,Não,Sem resposta,44,56.015,261.478,56.015,260.512
+Sul,RS,Pública,Nível IV,Não,Sim,3811,5176.989,264.393,5176.989,273.25
+Sul,RS,Pública,Nível IV,Sem resposta,Não,19,25.052,250.895,25.052,261.736
+Sul,RS,Pública,Nível IV,Sem resposta,Sem resposta,10,13.714,248.625,13.714,223.022
+Sul,RS,Pública,Nível IV,Sem resposta,Sim,319,432.572,253.744,432.572,263.749
+Sul,RS,Pública,Nível IV,Sim,Não,163,228.076,268.285,228.076,276.968
+Sul,RS,Pública,Nível IV,Sim,Sem resposta,51,66.981,261.056,66.981,274.567
+Sul,RS,Pública,Nível IV,Sim,Sim,4714,6537.442,277.124,6537.442,287.92
+Sul,RS,Pública,Nível V,Não,Não,37,48.359,270.605,48.359,257.393
+Sul,RS,Pública,Nível V,Não,Sem resposta,30,42.822,258.391,42.822,259.976
+Sul,RS,Pública,Nível V,Não,Sim,3166,4299.916,264.851,4299.916,272.569
+Sul,RS,Pública,Nível V,Sem resposta,Não,5,10.182,219.928,10.182,252.478
+Sul,RS,Pública,Nível V,Sem resposta,Sem resposta,11,16.153,276.371,16.153,276.067
+Sul,RS,Pública,Nível V,Sem resposta,Sim,382,536.983,259.633,536.983,266.818
+Sul,RS,Pública,Nível V,Sim,Não,154,212.308,274.027,212.308,277.93
+Sul,RS,Pública,Nível V,Sim,Sem resposta,83,113.46,267.763,113.46,269.142
+Sul,RS,Pública,Nível V,Sim,Sim,9087,12374.762,281.301,12374.762,289.004
+Sul,RS,Pública,Nível VI,Não,Não,4,4.968,275.364,4.968,292.465
+Sul,RS,Pública,Nível VI,Não,Sem resposta,10,14.479,255.715,14.479,243.775
+Sul,RS,Pública,Nível VI,Não,Sim,1429,1938.242,267.29,1938.242,271.68
+Sul,RS,Pública,Nível VI,Sem resposta,Sem resposta,9,11.481,242.59,11.481,259.37
+Sul,RS,Pública,Nível VI,Sem resposta,Sim,270,380.051,256.895,380.051,261.035
+Sul,RS,Pública,Nível VI,Sim,Não,48,75.757,291.296,75.757,283.181
+Sul,RS,Pública,Nível VI,Sim,Sem resposta,75,100.043,283.611,100.043,291.092
+Sul,RS,Pública,Nível VI,Sim,Sim,11082,15003.1,284.588,15003.1,290.059
+Sul,RS,Pública,Nível VII,Não,Não,1,2.42,245.51,2.42,261.097
+Sul,RS,Pública,Nível VII,Não,Sim,331,441.475,266.065,441.475,273.083
+Sul,RS,Pública,Nível VII,Sem resposta,Sem resposta,8,11.617,246.759,11.617,283.337
+Sul,RS,Pública,Nível VII,Sem resposta,Sim,182,253.582,272.205,253.582,266.337
+Sul,RS,Pública,Nível VII,Sim,Não,18,32.968,273.294,32.968,256.461
+Sul,RS,Pública,Nível VII,Sim,Sem resposta,54,70.07,277.225,70.07,272.545
+Sul,RS,Pública,Nível VII,Sim,Sim,10761,14668.542,291.868,14668.542,293.374
+Sul,RS,Pública,Nível VIII,Não,Sim,4,6.499,278.929,6.499,292.576
+Sul,RS,Pública,Nível VIII,Sem resposta,Sim,3,4.216,295.14,4.216,277.53
+Sul,RS,Pública,Nível VIII,Sim,Sem resposta,8,9.726,285.438,9.726,263.03
+Sul,RS,Pública,Nível VIII,Sim,Sim,1263,1765.863,306.911,1765.863,299.151
+Sul,RS,Pública,Sem resposta,Não,Não,1,1.359,196.404,1.359,172.08
+Sul,RS,Pública,Sem resposta,Não,Sem resposta,21,30.772,245.066,30.772,257.423
+Sul,RS,Pública,Sem resposta,Não,Sim,3,3.927,240.896,3.927,236.733
+Sul,RS,Pública,Sem resposta,Sem resposta,Não,48,63.738,270.396,63.738,280.923
+Sul,RS,Pública,Sem resposta,Sem resposta,Sem resposta,4557,6335.288,271.095,6335.288,275.467
+Sul,RS,Pública,Sem resposta,Sem resposta,Sim,44,65.353,240.149,65.353,222.201
+Sul,RS,Pública,Sem resposta,Sim,Não,1,1.252,182.959,1.252,179.522
+Sul,RS,Pública,Sem resposta,Sim,Sem resposta,35,48.992,265.219,48.992,264.292
+Sul,RS,Pública,Sem resposta,Sim,Sim,4,4.384,278.605,4.384,274.034
+Sul,SC,Privada,Nível I,Não,Não,1,12.474,423.119,12.474,386.389
+Sul,SC,Privada,Nível I,Sim,Sim,1,0.0,,0.0,
+Sul,SC,Privada,Nível III,Não,Não,1,6.069,309.349,6.069,293.67
+Sul,SC,Privada,Nível III,Não,Sim,3,32.171,324.089,32.171,315.491
+Sul,SC,Privada,Nível III,Sim,Sim,3,20.726,339.264,20.726,369.968
+Sul,SC,Privada,Nível IV,Não,Não,1,7.223,317.141,7.223,329.567
+Sul,SC,Privada,Nível IV,Não,Sim,5,44.308,302.32,44.308,346.295
+Sul,SC,Privada,Nível IV,Sim,Sim,14,158.649,323.601,158.649,308.873
+Sul,SC,Privada,Nível V,Não,Sim,10,104.35,329.776,104.35,318.032
+Sul,SC,Privada,Nível V,Sem resposta,Sim,1,12.474,342.18,12.474,341.672
+Sul,SC,Privada,Nível V,Sim,Não,3,32.171,269.78,32.171,316.347
+Sul,SC,Privada,Nível V,Sim,Sim,61,618.631,325.137,618.631,323.229
+Sul,SC,Privada,Nível VI,Não,Sim,4,31.835,317.315,31.835,308.438
+Sul,SC,Privada,Nível VI,Sem resposta,Sim,4,47.289,281.933,47.289,287.325
+Sul,SC,Privada,Nível VI,Sim,Não,3,25.881,289.102,25.881,284.114
+Sul,SC,Privada,Nível VI,Sim,Sem resposta,1,12.474,393.434,12.474,357.394
+Sul,SC,Privada,Nível VI,Sim,Sim,162,1682.704,324.849,1682.704,320.795
+Sul,SC,Privada,Nível VII,Não,Sim,6,67.917,309.088,67.917,299.692
+Sul,SC,Privada,Nível VII,Sem resposta,Sim,4,32.16,310.476,32.16,339.787
+Sul,SC,Privada,Nível VII,Sim,Não,1,7.223,274.63,7.223,220.962
+Sul,SC,Privada,Nível VII,Sim,Sim,474,5221.804,329.773,5221.804,322.49
+Sul,SC,Privada,Nível VIII,Sim,Sem resposta,1,7.223,276.806,7.223,336.548
+Sul,SC,Privada,Nível VIII,Sim,Sim,206,2192.198,336.44,2192.198,323.115
+Sul,SC,Privada,Sem resposta,Sem resposta,Sem resposta,47,481.532,324.928,481.532,316.241
+Sul,SC,Privada,Sem resposta,Sim,Sem resposta,1,13.513,372.733,13.513,303.182
+Sul,SC,Pública,Nível I,Não,Não,43,62.654,240.362,62.654,228.667
+Sul,SC,Pública,Nível I,Não,Sim,9,3.895,196.689,3.895,208.712
+Sul,SC,Pública,Nível I,Sem resposta,Não,3,3.894,278.47,3.894,283.447
+Sul,SC,Pública,Nível I,Sem resposta,Sim,1,0.0,,0.0,
+Sul,SC,Pública,Nível I,Sim,Não,1,1.789,269.516,1.789,259.816
+Sul,SC,Pública,Nível I,Sim,Sim,24,0.0,,0.0,
+Sul,SC,Pública,Nível II,Não,Não,169,263.202,258.312,263.202,258.328
+Sul,SC,Pública,Nível II,Não,Sem resposta,12,20.713,246.898,20.713,256.665
+Sul,SC,Pública,Nível II,Não,Sim,442,700.486,252.897,700.486,262.222
+Sul,SC,Pública,Nível II,Sem resposta,Não,12,26.602,255.863,26.602,274.296
+Sul,SC,Pública,Nível II,Sem resposta,Sem resposta,2,4.17,269.47,4.17,175.651
+Sul,SC,Pública,Nível II,Sem resposta,Sim,25,39.979,244.957,39.979,235.892
+Sul,SC,Pública,Nível II,Sim,Não,42,75.736,261.176,75.736,274.656
+Sul,SC,Pública,Nível II,Sim,Sem resposta,2,2.808,266.624,2.808,314.737
+Sul,SC,Pública,Nível II,Sim,Sim,66,103.24,274.48,103.24,286.485
+Sul,SC,Pública,Nível III,Não,Não,126,205.386,259.324,205.386,259.164
+Sul,SC,Pública,Nível III,Não,Sem resposta,15,22.538,275.679,22.538,280.034
+Sul,SC,Pública,Nível III,Não,Sim,1388,2112.448,259.949,2112.448,268.726
+Sul,SC,Pública,Nível III,Sem resposta,Não,12,15.756,259.321,15.756,248.63
+Sul,SC,Pública,Nível III,Sem resposta,Sem resposta,4,4.676,245.516,4.676,260.34
+Sul,SC,Pública,Nível III,Sem resposta,Sim,105,164.202,260.734,164.202,254.493
+Sul,SC,Pública,Nível III,Sim,Não,61,99.4,267.062,99.4,262.636
+Sul,SC,Pública,Nível III,Sim,Sem resposta,4,5.816,252.556,5.816,267.848
+Sul,SC,Pública,Nível III,Sim,Sim,546,862.056,270.322,862.056,277.067
+Sul,SC,Pública,Nível IV,Não,Não,97,137.21,261.301,137.21,260.637
+Sul,SC,Pública,Nível IV,Não,Sem resposta,26,47.064,245.974,47.064,255.441
+Sul,SC,Pública,Nível IV,Não,Sim,2609,3979.418,262.296,3979.418,267.697
+Sul,SC,Pública,Nível IV,Sem resposta,Não,10,15.484,245.317,15.484,258.347
+Sul,SC,Pública,Nível IV,Sem resposta,Sem resposta,6,8.263,255.129,8.263,249.019
+Sul,SC,Pública,Nível IV,Sem resposta,Sim,205,304.246,254.409,304.246,264.648
+Sul,SC,Pública,Nível IV,Sim,Não,114,195.02,261.665,195.02,264.677
+Sul,SC,Pública,Nível IV,Sim,Sem resposta,23,35.217,245.81,35.217,259.204
+Sul,SC,Pública,Nível IV,Sim,Sim,2374,3663.472,275.682,3663.472,280.965
+Sul,SC,Pública,Nível V,Não,Não,38,62.912,267.31,62.912,265.6
+Sul,SC,Pública,Nível V,Não,Sem resposta,26,37.836,255.621,37.836,268.801
+Sul,SC,Pública,Nível V,Não,Sim,2715,4115.693,263.561,4115.693,267.67
+Sul,SC,Pública,Nível V,Sem resposta,Não,1,1.377,259.811,1.377,200.982
+Sul,SC,Pública,Nível V,Sem resposta,Sem resposta,15,29.846,261.152,29.846,269.114
+Sul,SC,Pública,Nível V,Sem resposta,Sim,234,330.075,263.148,330.075,263.663
+Sul,SC,Pública,Nível V,Sim,Não,115,171.715,272.283,171.715,271.11
+Sul,SC,Pública,Nível V,Sim,Sem resposta,50,74.311,281.686,74.311,277.611
+Sul,SC,Pública,Nível V,Sim,Sim,5589,8489.825,275.774,8489.825,281.917
+Sul,SC,Pública,Nível VI,Não,Não,3,4.865,264.411,4.865,224.228
+Sul,SC,Pública,Nível VI,Não,Sem resposta,15,20.585,259.581,20.585,271.618
+Sul,SC,Pública,Nível VI,Não,Sim,1361,2124.796,263.902,2124.796,265.278
+Sul,SC,Pública,Nível VI,Sem resposta,Sem resposta,5,7.424,264.871,7.424,254.854
+Sul,SC,Pública,Nível VI,Sem resposta,Sim,229,379.495,254.408,379.495,260.938
+Sul,SC,Pública,Nível VI,Sim,Não,51,77.397,287.031,77.397,290.568
+Sul,SC,Pública,Nível VI,Sim,Sem resposta,51,82.731,273.183,82.731,265.771
+Sul,SC,Pública,Nível VI,Sim,Sim,8166,12406.925,279.079,12406.925,282.407
+Sul,SC,Pública,Nível VII,Não,Não,1,1.628,260.23,1.628,250.731
+Sul,SC,Pública,Nível VII,Não,Sem resposta,3,3.911,254.879,3.911,214.249
+Sul,SC,Pública,Nível VII,Não,Sim,346,528.454,266.454,528.454,268.054
+Sul,SC,Pública,Nível VII,Sem resposta,Sem resposta,4,8.7,252.671,8.7,229.737
+Sul,SC,Pública,Nível VII,Sem resposta,Sim,140,211.757,263.161,211.757,261.819
+Sul,SC,Pública,Nível VII,Sim,Não,14,21.893,291.79,21.893,273.115
+Sul,SC,Pública,Nível VII,Sim,Sem resposta,44,63.48,284.697,63.48,284.229
+Sul,SC,Pública,Nível VII,Sim,Sim,8357,12687.391,284.194,12687.391,284.563
+Sul,SC,Pública,Nível VIII,Não,Sim,1,1.299,261.342,1.299,192.523
+Sul,SC,Pública,Nível VIII,Sem resposta,Sim,8,11.822,266.541,11.822,273.238
+Sul,SC,Pública,Nível VIII,Sim,Sem resposta,5,7.018,276.009,7.018,256.793
+Sul,SC,Pública,Nível VIII,Sim,Sim,974,1479.647,289.394,1479.647,284.762
+Sul,SC,Pública,Sem resposta,Não,Sem resposta,8,13.637,258.322,13.637,255.877
+Sul,SC,Pública,Sem resposta,Sem resposta,Não,24,50.39,247.846,50.39,270.714
+Sul,SC,Pública,Sem resposta,Sem resposta,Sem resposta,2456,3940.496,268.95,3940.496,268.954
+Sul,SC,Pública,Sem resposta,Sem resposta,Sim,24,37.957,233.784,37.957,222.032
+Sul,SC,Pública,Sem resposta,Sim,Sem resposta,26,37.747,255.637,37.747,246.996
+Sul,SC,Pública,Sem resposta,Sim,Sim,2,2.301,241.499,2.301,248.018

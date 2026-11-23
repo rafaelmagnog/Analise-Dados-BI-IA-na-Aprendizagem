@@ -1,0 +1,208 @@
+﻿variavel,pergunta,medida,categoria,categoria_pt,valor,erro_padrao
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,0.66,
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),7,7º ano (EF),1.29,0.13
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),8,8º ano (EF),3.17,0.19
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),9,9º ano (EF),10.43,0.48
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),10,10º ano (1ª série EM),55.37,0.68
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),11,11º ano (2ª série EM),29.34,0.67
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),12,12º ano (3ª série EM),0.4,0.18
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),13,13º ano,0.01,0.01
+ST001D01T,Ano escolar do aluno,Percentual de alunos (%),no response,Sem resposta,0.0,0.0
+ST004D01T,Sexo do aluno,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,0.0,
+ST004D01T,Sexo do aluno,Percentual de alunos (%),Female,Feminino,50.04,0.46
+ST004D01T,Sexo do aluno,Percentual de alunos (%),Male,Masculino,49.96,0.46
+ST004D01T,Sexo do aluno,Percentual de alunos (%),no response,Sem resposta,0.0,0.0
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.38,
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,24.16,0.45
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),About once or twice a year,1 ou 2 vezes por ano,14.94,0.34
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),About once or twice a month,1 ou 2 vezes por mês,18.21,0.31
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),About once or twice a week,1 ou 2 vezes por semana,16.54,0.34
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),Every day or almost every day,Todo dia ou quase todo dia,9.72,0.27
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Percentual de alunos (%),no response,Sem resposta,16.43,0.61
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.38,
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,15.09,0.29
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),About once or twice a year,1 ou 2 vezes por ano,14.78,0.3
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),About once or twice a month,1 ou 2 vezes por mês,20.22,0.32
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),About once or twice a week,1 ou 2 vezes por semana,20.49,0.43
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),Every day or almost every day,Todo dia ou quase todo dia,12.28,0.33
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Percentual de alunos (%),no response,Sem resposta,17.15,0.62
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.38,
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,27.11,0.45
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),About once or twice a year,1 ou 2 vezes por ano,15.37,0.37
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),About once or twice a month,1 ou 2 vezes por mês,17.82,0.37
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),About once or twice a week,1 ou 2 vezes por semana,13.55,0.27
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),Every day or almost every day,Todo dia ou quase todo dia,8.51,0.25
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Percentual de alunos (%),no response,Sem resposta,17.64,0.62
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.38,
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,13.81,0.31
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),About once or twice a year,1 ou 2 vezes por ano,12.37,0.3
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),About once or twice a month,1 ou 2 vezes por mês,16.56,0.31
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),About once or twice a week,1 ou 2 vezes por semana,20.86,0.41
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),Every day or almost every day,Todo dia ou quase todo dia,18.28,0.41
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Percentual de alunos (%),no response,Sem resposta,18.12,0.63
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.37,
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),Strongly disagree,Discorda totalmente,6.2,0.23
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),Disagree,Discorda,6.4,0.23
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),Agree,Concorda,46.95,0.5
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),Strongly Agree,Concorda totalmente,25.45,0.51
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Percentual de alunos (%),no response,Sem resposta,15.0,0.59
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.37,
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),Strongly disagree,Discorda totalmente,4.85,0.19
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),Disagree,Discorda,9.37,0.29
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),Agree,Concorda,44.46,0.45
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),Strongly Agree,Concorda totalmente,25.52,0.46
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Percentual de alunos (%),no response,Sem resposta,15.79,0.61
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.37,
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,38.0,0.63
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),In less than half of the lessons,Em menos da metade das aulas,17.01,0.36
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),In about half of the lessons,Em cerca de metade das aulas,12.51,0.28
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),In more than half of the lessons,Em mais da metade das aulas,7.07,0.22
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),In every or almost every lesson,Em todas ou quase todas as aulas,5.82,0.21
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),I do not have this subject,Não tem a disciplina,0.47,0.07
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Percentual de alunos (%),no response,Sem resposta,19.12,0.59
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),Not applicable / missing,Pergunta não aplicada,1.37,
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),Never or almost never,Nunca ou quase nunca,39.46,0.66
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),In less than half of the lessons,Em menos da metade das aulas,17.93,0.31
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),In about half of the lessons,Em cerca de metade das aulas,11.68,0.28
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),In more than half of the lessons,Em mais da metade das aulas,7.01,0.23
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),In every or almost every lesson,Em todas ou quase todas as aulas,5.69,0.19
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),I do not have this subject,Não tem a disciplina,0.48,0.07
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Percentual de alunos (%),no response,Sem resposta,17.75,0.6
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,320.27,
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,7,7º ano (EF),291.09,4.55
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,8,8º ano (EF),302.87,3.06
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,9,9º ano (EF),322.0,2.55
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,10,10º ano (1ª série EM),378.61,1.9
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,11,11º ano (2ª série EM),405.94,2.38
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,12,12º ano (3ª série EM),365.62,17.53
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,13,13º ano,379.19,23.24
+ST001D01T,Ano escolar do aluno,Nota média em Matemática,no response,Sem resposta,,
+ST004D01T,Sexo do aluno,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,,
+ST004D01T,Sexo do aluno,Nota média em Matemática,Female,Feminino,373.09,1.84
+ST004D01T,Sexo do aluno,Nota média em Matemática,Male,Masculino,380.45,2.07
+ST004D01T,Sexo do aluno,Nota média em Matemática,no response,Sem resposta,,
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.08,
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,386.26,2.47
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,About once or twice a year,1 ou 2 vezes por ano,367.56,2.3
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,About once or twice a month,1 ou 2 vezes por mês,392.37,2.25
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,About once or twice a week,1 ou 2 vezes por semana,397.23,2.36
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,Every day or almost every day,Todo dia ou quase todo dia,380.78,2.39
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Matemática,no response,Sem resposta,332.68,2.44
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.08,
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,374.84,2.66
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,About once or twice a year,1 ou 2 vezes por ano,361.6,1.85
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,About once or twice a month,1 ou 2 vezes por mês,389.91,2.23
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,About once or twice a week,1 ou 2 vezes por semana,403.91,2.19
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,Every day or almost every day,Todo dia ou quase todo dia,396.34,2.49
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Matemática,no response,Sem resposta,331.28,2.5
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.08,
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,398.96,2.65
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,About once or twice a year,1 ou 2 vezes por ano,376.96,2.33
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,About once or twice a month,1 ou 2 vezes por mês,383.81,2.07
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,About once or twice a week,1 ou 2 vezes por semana,383.8,2.46
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,Every day or almost every day,Todo dia ou quase todo dia,378.1,2.57
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Matemática,no response,Sem resposta,330.99,2.46
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.08,
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,372.92,2.77
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,About once or twice a year,1 ou 2 vezes por ano,359.79,2.08
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,About once or twice a month,1 ou 2 vezes por mês,388.82,2.42
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,About once or twice a week,1 ou 2 vezes por semana,402.55,2.38
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,Every day or almost every day,Todo dia ou quase todo dia,397.74,2.21
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Matemática,no response,Sem resposta,331.03,2.38
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.4,
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,Strongly disagree,Discorda totalmente,330.65,2.74
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,Disagree,Discorda,342.46,2.55
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,Agree,Concorda,382.58,1.57
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,Strongly Agree,Concorda totalmente,412.8,2.48
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Matemática,no response,Sem resposta,333.04,2.57
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.4,
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,Strongly disagree,Discorda totalmente,334.92,3.32
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,Disagree,Discorda,359.79,2.67
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,Agree,Concorda,385.09,1.77
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,Strongly Agree,Concorda totalmente,405.71,2.3
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Matemática,no response,Sem resposta,331.26,2.58
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.4,
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,400.89,2.18
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,In less than half of the lessons,Em menos da metade das aulas,387.24,2.12
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,In about half of the lessons,Em cerca de metade das aulas,369.86,2.55
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,In more than half of the lessons,Em mais da metade das aulas,368.69,2.7
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,In every or almost every lesson,Em todas ou quase todas as aulas,371.63,4.05
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,I do not have this subject,Não tem a disciplina,321.84,7.36
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Matemática,no response,Sem resposta,331.41,2.16
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,Not applicable / missing,Pergunta não aplicada,356.4,
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,Never or almost never,Nunca ou quase nunca,400.74,2.33
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,In less than half of the lessons,Em menos da metade das aulas,383.29,2.1
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,In about half of the lessons,Em cerca de metade das aulas,369.52,2.64
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,In more than half of the lessons,Em mais da metade das aulas,368.44,2.62
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,In every or almost every lesson,Em todas ou quase todas as aulas,367.71,3.83
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,I do not have this subject,Não tem a disciplina,336.81,10.59
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Matemática,no response,Sem resposta,330.52,2.37
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,333.34,
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,7,7º ano (EF),305.12,5.93
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,8,8º ano (EF),320.68,4.14
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,9,9º ano (EF),346.41,3.32
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,10,10º ano (1ª série EM),410.79,2.28
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,11,11º ano (2ª série EM),440.36,2.68
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,12,12º ano (3ª série EM),403.39,18.68
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,13,13º ano,403.68,42.59
+ST001D01T,Ano escolar do aluno,Nota média em Leitura,no response,Sem resposta,,
+ST004D01T,Sexo do aluno,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,,
+ST004D01T,Sexo do aluno,Nota média em Leitura,Female,Feminino,418.65,2.1
+ST004D01T,Sexo do aluno,Nota média em Leitura,Male,Masculino,397.34,2.36
+ST004D01T,Sexo do aluno,Nota média em Leitura,no response,Sem resposta,,
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,398.8,
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,420.31,2.79
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,About once or twice a year,1 ou 2 vezes por ano,394.69,2.91
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,About once or twice a month,1 ou 2 vezes por mês,423.3,2.67
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,About once or twice a week,1 ou 2 vezes por semana,434.84,2.66
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,Every day or almost every day,Todo dia ou quase todo dia,418.21,3.15
+ST438Q01DA,Usa chatbot de IA nas tarefas escolares para resumir um texto que precisava ler,Nota média em Leitura,no response,Sem resposta,352.82,2.65
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,398.8,
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,404.11,3.08
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,About once or twice a year,1 ou 2 vezes por ano,386.1,2.22
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,About once or twice a month,1 ou 2 vezes por mês,421.29,2.63
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,About once or twice a week,1 ou 2 vezes por semana,443.32,2.5
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,Every day or almost every day,Todo dia ou quase todo dia,439.14,2.96
+ST438Q02DA,Usa chatbot de IA nas tarefas escolares para fazer uma pesquisa inicial sobre um tema novo,Nota média em Leitura,no response,Sem resposta,350.92,2.72
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,398.8,
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,437.47,2.9
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,About once or twice a year,1 ou 2 vezes por ano,404.72,2.95
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,About once or twice a month,1 ou 2 vezes por mês,412.27,2.67
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,About once or twice a week,1 ou 2 vezes por semana,417.95,2.71
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,Every day or almost every day,Todo dia ou quase todo dia,416.16,3.16
+ST438Q03DA,Usa chatbot de IA nas tarefas escolares para rascunhar textos de trabalhos escritos,Nota média em Leitura,no response,Sem resposta,350.47,2.73
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,398.8,
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,401.51,3.2
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,About once or twice a year,1 ou 2 vezes por ano,384.84,2.68
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,About once or twice a month,1 ou 2 vezes por mês,418.07,2.66
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,About once or twice a week,1 ou 2 vezes por semana,440.22,2.61
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,Every day or almost every day,Todo dia ou quase todo dia,440.65,2.48
+ST438Q04DA,Usa chatbot de IA nas tarefas escolares para ajudar a aprender,Nota média em Leitura,no response,Sem resposta,350.27,2.55
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,399.51,
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,Strongly disagree,Discorda totalmente,341.35,3.4
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,Disagree,Discorda,357.38,3.42
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,Agree,Concorda,416.8,1.82
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,Strongly Agree,Concorda totalmente,454.22,2.73
+ST437Q01DA,Recursos digitais me ajudam a aprender coisas complexas,Nota média em Leitura,no response,Sem resposta,352.05,2.75
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,399.51,
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,Strongly disagree,Discorda totalmente,350.89,3.98
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,Disagree,Discorda,381.26,3.59
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,Agree,Concorda,417.94,2.01
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,Strongly Agree,Concorda totalmente,447.67,2.51
+ST437Q02DA,Recursos digitais deixam o conteúdo mais interessante,Nota média em Leitura,no response,Sem resposta,350.1,2.76
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,399.51,
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,439.9,2.25
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,In less than half of the lessons,Em menos da metade das aulas,418.38,2.45
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,In about half of the lessons,Em cerca de metade das aulas,398.61,3.25
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,In more than half of the lessons,Em mais da metade das aulas,393.5,3.66
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,In every or almost every lesson,Em todas ou quase todas as aulas,396.99,4.62
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,I do not have this subject,Não tem a disciplina,324.8,9.14
+IC173Q01JA,Frequência de uso de recursos digitais nas aulas de Língua Portuguesa,Nota média em Leitura,no response,Sem resposta,352.91,2.44
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,Not applicable / missing,Pergunta não aplicada,399.51,
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,Never or almost never,Nunca ou quase nunca,441.51,2.43
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,In less than half of the lessons,Em menos da metade das aulas,410.0,2.43
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,In about half of the lessons,Em cerca de metade das aulas,397.86,3.09
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,In more than half of the lessons,Em mais da metade das aulas,392.78,3.44
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,In every or almost every lesson,Em todas ou quase todas as aulas,393.79,4.58
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,I do not have this subject,Não tem a disciplina,338.29,13.1
+IC173Q02JA,Frequência de uso de recursos digitais nas aulas de Matemática,Nota média em Leitura,no response,Sem resposta,351.34,2.59

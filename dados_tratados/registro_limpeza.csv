@@ -1,0 +1,33 @@
+﻿base,passo,o_que_foi_feito,por_que,linhas_antes,linhas_depois
+"Ideb 2025 (Brasil, regiões e estados)",1,Lemos as planilhas a partir da linha com os nomes das colunas e cortamos as notas do rodapé,Título e notas não são dados,123,100
+"Ideb 2025 (Brasil, regiões e estados)",2,"Tiramos as marcas de nota dos nomes das redes (ex.: ""Total (4)"") e separamos região e estado em colunas","Sem isso ""Total"" e ""Total (4)"" viram redes diferentes e não dá para filtrar o Nordeste",100,100
+"Ideb 2025 (Brasil, regiões e estados)",3,"Passamos de uma coluna por ano para uma linha por local, rede e ano (2005 a 2025)",Facilita montar a série histórica,100,1100
+"Ideb 2025 (Brasil, regiões e estados)",4,"Trocamos os 28 ""-"" por vazio (Ideb e notas da rede privada em 2009)","O Inep não calculou esses valores, então não preenchemos",1100,1100
+"Ideb 2025 (Brasil, regiões e estados)",5,Conferimos se os valores estão dentro da escala (0 fora) e procuramos outliers no Ideb 2025 dos estados pelo IQR (0 casos),Para achar erro de leitura; nada foi apagado,1100,1100
+Ideb 2025 (escolas),1,Cortamos as 13 linhas de notas do rodapé e a coluna vazia do fim,Não são escolas,22184,22171
+Ideb 2025 (escolas),2,Passamos para uma linha por escola e ano (2017 a 2025),Deixa a série de cada escola em sequência,22171,110855
+Ideb 2025 (escolas),3,"Trocamos os códigos de ausência por vazio (""-"": 346.687, ""ND"": 65.872, ""ND*"": 434, ""ND***"": 46) e guardamos o motivo na coluna situacao_ideb",O motivo explica por que a escola ficou sem Ideb,110855,110855
+Ideb 2025 (escolas),4,"Procuramos outliers no Ideb 2025 pelo IQR: 295 escolas fora de 2,6 a 6,3. Ficaram na base, marcadas na coluna outlier_iqr","São resultados oficiais, não erros",110855,110855
+Saeb 2023 (alunos),1,"Lemos só as 17 colunas usadas, das 117 do arquivo",O resto não entra em nenhuma métrica,2091337,2091337
+Saeb 2023 (alunos),2,Tiramos 565.380 alunos que faltaram ou ficaram sem nota nas duas provas,Sem nota não dá para medir desempenho,2091337,1525957
+Saeb 2023 (alunos),3,Deixamos fora das médias 6.256 alunos com nota de Matemática mas sem peso,As médias do Saeb são calculadas com peso,1525957,1525957
+Saeb 2023 (alunos),4,"Trocamos por vazio o nível socioeconômico de 88.278 alunos sem INSE calculado, que o arquivo marcava como ""Nível I""",Senão o grupo mais pobre ficaria maior do que é,1525957,1525957
+Saeb 2023 (alunos),5,"Trocamos por vazio as respostas ""*"" e ""."" nas perguntas de computador (132.452) e Wi-Fi (98.160)",Não dá para saber a resposta; esses alunos ficam fora só das contas com a pergunta,1525957,1525957
+Saeb 2023 (alunos),6,"Trocamos os códigos pelos nomes do dicionário do Inep (UF, região, rede, computador, Wi-Fi, nível INSE)",Para a base ficar legível,1525957,1525957
+Saeb 2023 (alunos),7,"Procuramos outliers pelo IQR: 14.632 notas de Matemática, 0 de Português e 127.865 pesos altos. Nada foi apagado","As notas são calculadas pelo Inep e os pesos altos vêm da rede privada, que é amostral",1525957,1525957
+Saeb 2023 (alunos),8,"Salvamos também uma versão agregada por UF, rede, nível INSE, computador e Wi-Fi, com a média ponderada e a soma dos pesos",A base por aluno não cabe na planilha,1525957,2649
+TIC Educação 2024 e 2025,1,"Transformamos cada tabela em lista (uma linha por recorte, item e resposta) e juntamos com a margem de erro, que vem em outro arquivo","As tabelas vêm prontas para leitura, com cabeçalho em duas linhas e recortes empilhados",179,5153
+TIC Educação 2024 e 2025,2,"Trocamos os 1.035 ""-"" por vazio","O ""-"" quer dizer ""não se aplica"", não é zero",5153,5153
+TIC Educação 2024 e 2025,3,"Nas tabelas E5A e E5B colocamos o nome da pergunta no lugar do item, que só repetia ""Sim""",Para saber de que pergunta é cada valor,5153,5153
+TIC Educação 2024 e 2025,4,Conferimos se algum percentual ficou fora de 0 a 100 (0 casos),Para achar erro de leitura,5153,5153
+TIC Kids Online Brasil 2025,1,"Convertemos o peso, que vem como texto com vírgula, para número",Os percentuais são calculados com peso,2642,2642
+TIC Kids Online Brasil 2025,2,"Ficamos só com os alunos do 1º ao 3º ano do ensino médio (ESC1 = 10, 11 e 12)",O projeto é sobre o ensino médio,2642,645
+TIC Kids Online Brasil 2025,3,Tiramos 31 alunos que não usaram Internet nos últimos 3 meses (código 99 nas perguntas de IA),A Cetic.br só faz essas perguntas para quem usa Internet,645,614
+TIC Kids Online Brasil 2025,4,"Procuramos ""não sabe"" (97) e ""não respondeu"" (98) nas perguntas de IA para trocar por vazio (0 casos)",Não dá para saber a resposta,614,614
+TIC Kids Online Brasil 2025,5,Trocamos os códigos pelos nomes do dicionário da Cetic.br,Para a base ficar legível,614,614
+TIC Kids Online Brasil 2025,6,Procuramos outliers no peso pelo IQR (65 casos). Ficaram na base,O peso é da própria pesquisa; cortar mudaria os percentuais,614,614
+Pisa 2025 (compêndio),1,"Pegamos só a linha do Brasil em cada aba (10 perguntas, 3 arquivos) e juntamos tudo numa tabela",Cada aba traz uma pergunta com todos os países,30,207
+Pisa 2025 (compêndio),2,"Trocamos os 10 ""—"" por vazio",A OCDE não publica o valor quando há poucos alunos na resposta,207,207
+Pisa 2025 (compêndio),3,"Traduzimos perguntas e respostas para o português, mantendo o código da OCDE",Para a base ficar legível,207,207
+Pisa 2025 (compêndio),4,"Mantivemos os alunos sem resposta como uma categoria (16,4% a 18,1% nas perguntas de IA)",Esse grupo tem nota bem menor; tirar deixaria a média dos outros maior do que é,207,207
+Pisa 2025 (compêndio),5,Conferimos se percentuais e notas estão dentro da escala (0 fora),Para achar erro de leitura,207,207
