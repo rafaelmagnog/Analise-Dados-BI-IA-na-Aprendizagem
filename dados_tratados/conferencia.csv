@@ -1,0 +1,17 @@
+﻿base,o_que_foi_conferido,valor_publicado,nosso_calculo,diferenca,bate,fonte
+Ideb,"Ideb do ensino médio, Brasil, 2023",4.3,4.3,0.0,Sim,"Inep, resultados do Ideb 2025"
+Ideb,"Ideb do ensino médio, Brasil, 2025",4.5,4.5,0.0,Sim,"Inep, resultados do Ideb 2025"
+Ideb,Maior diferença entre N x P e o Ideb publicado,0.0,0.05,0.05,Sim,Fórmula do Ideb (Inep)
+Saeb 2023,"Nota média de Matemática no ensino médio, Brasil",272.88,274.12,1.24,Não,Planilha do Ideb 2025 (nota Saeb 2023)
+Saeb 2023,"Nota média de Língua Portuguesa no ensino médio, Brasil",276.91,278.05,1.14,Não,Planilha do Ideb 2025 (nota Saeb 2023)
+TIC Educação 2024,Alunos do EM que usam IA em pesquisas e atividades escolares (%),70.0,70.01,0.01,Sim,"Cetic.br, tabela G6"
+TIC Kids Online 2025,"Usou IA (N4_B), 9 a 17 anos (%)",59.0,59.09,0.09,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_A), 9 a 17 anos (%)",42.0,42.4,0.4,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_D), 9 a 17 anos (%)",21.0,21.29,0.29,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_C), 9 a 17 anos (%)",10.0,10.4,0.4,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_B), 15 a 17 anos (%)",68.0,68.4,0.4,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_A), 15 a 17 anos (%)",60.0,60.38,0.38,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_D), 15 a 17 anos (%)",32.0,31.8,-0.2,Sim,"Cetic.br, divulgação dos resultados"
+TIC Kids Online 2025,"Usou IA (N4_C), 15 a 17 anos (%)",12.0,12.42,0.42,Sim,"Cetic.br, divulgação dos resultados"
+Pisa 2025,Nota média em Matemática refeita por ST438Q01 x refeita por sexo,376.77,376.77,-0.0,Sim,Compêndio da OCDE (as duas contas cobrem os mesmos alunos)
+Pisa 2025,Soma dos percentuais das respostas (pior pergunta),100.0,99.99,-0.01,Sim,As respostas somam 100%
