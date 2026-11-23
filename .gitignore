@@ -8,3 +8,6 @@ venv/
 ~$*
 Thumbs.db
 desktop.ini
+
+# gráficos gerados pelo analise.py
+figuras/
